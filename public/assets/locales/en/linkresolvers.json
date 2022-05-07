@@ -1,0 +1,84 @@
+{
+  "verifyEmail": {
+    "title": "Verifying email address",
+    "content": {
+      "info": "",
+      "success": "Success! Your email address has been confirmed. \n\n Log in now.",
+      "btn": {
+        "successWithAuth": "Home",
+        "successWithoutAuth": "Login",
+        "errorWithAuth": "Home",
+        "errorWithoutAuth": "Go to login"
+      }
+    },
+    "errors": {
+      "wrongToken": "Something went wrong. Please double-check that you are using the right link and that you haven’t used this link before. Request a new confirmation email if necessary.",
+      "unknown": "Something went wrong. Please ouble-check the information you have entered or try again later."
+    }
+  },
+  "passwordReset": {
+    "title": "New Password",
+    "content": {
+      "info": "",
+      "emailLabel": "Email address",
+      "emailPlaceholder": "Please nter email address",
+      "newPasswordLabel": "Password",
+      "newPasswordPlaceholder": "Please enter password",
+      "confirmPasswordLabel": "Confirm Password",
+      "confirmPasswordPlaceholder": "Please enter password again",
+      "btn": "Change password",
+      "restartBtn": "Retry",
+      "successMsg": "Password changed",
+      "successBtn": "Login"
+    },
+    "errors": {
+      "passwordRules": "Your password must have at least 8 characters and contain 3 of the following 4 elements: lowercase letters, capital letters, numbers, punctuation marks.",
+      "passwordMatch": "The passwords you have entered do not match",
+      "wrongToken": "Please double-check that you are using the right link and that you haven’t used this link before. Request a new confirmation email if necessary.",
+      "unknown": "Something went wrong. Please double-check the information you have entered or try again later."
+    }
+  },
+  "invitation": {
+    "title": "Welcome!",
+    "content": {
+      "info": "## Welcome! \n\n Before you can start with Grippenet you need to set a password for your new account.",
+      "emailLabel": "Email address",
+      "emailPlaceholder": "Please enter email address",
+      "newPasswordLabel": "Password",
+      "newPasswordPlaceholder": "Please enter password",
+      "confirmPasswordLabel": "Confirm Password",
+      "confirmPasswordPlaceholder": "Please enter password again",
+      "informedConsentCheckbox": "Access the <1>privacy statement</1>.*",
+      "btn": "Confirm password",
+      "restartBtn": "Retry",
+      "successMsg": "Password confirmed",
+      "successBtn": "Login"
+    },
+    "privacyConsent": {
+      "title": "Privacy Consent",
+      "acceptBtn": "I consent",
+      "cancelBtn": "I do not consent"
+    },
+    "errors": {
+      "passwordRules": "Your password must have at least 8 characters and contain 3 of the following 4 elements: lowercase letters, capital letters, numbers, punctuation marks.",
+      "passwordMatch": "The passwords you have entered do not match",
+      "wrongToken": "Something went wrong. Please double-check that you are using the right link and that you haven’t used this link before. Request a new confirmation email if necessary.",
+      "unknown": "Something went wrong. Please double-check the information you have entered or try again later."
+    }
+  },
+  "studyLogin": {
+    "title": "Welcome back!",
+    "content": {
+      "cardTitle": "Login",
+      "info": "",
+      "emailInputLabel": "Emai address",
+      "emailInputPlaceholder": "Please enter email address",
+      "passwordInputLabel": "Password",
+      "passwordInputPlaceholder": "Please enter password",
+      "rememberMeLabel": "Remember Me",
+      "btn": "Login",
+      "passwordForgottenBtn": "I forgot my password",
+      "signupBtn": "I don't have an account - I want to sign up"
+    }
+  }
+}

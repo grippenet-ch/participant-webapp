@@ -1,0 +1,1 @@
+Wir weisen Sie darauf hin, dass die Grippenet-Fragebögen und die Website keine medizinischen Zwecke oder Alternativen zu einer ärztlichen Konsultation erfüllen. Falls Sie gesundheitliche Beschwerden haben, suchen Sie bitte professionelle medizinische Hilfe auf.

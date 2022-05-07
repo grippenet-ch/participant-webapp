@@ -1,0 +1,57 @@
+{
+  "title": "Paramètres de Grippenet",
+  "account": {
+    "title": "Paramètres de mon compte",
+    "email": {
+      "title": "Adresse e-mail",
+      "info": "Vous souhaitez utiliser une autre adresse e-mail ? Changez votre adresse e-mail en cliquant sur le bouton ci-dessous. Remarque : vous ne pourrez pas vous reconnecter à Grippenet tant que vous n'aurez pas confirmé l'adresse e-mail."
+    },
+    "password": {
+      "title": "Mot de passe",
+      "info": "Vous souhaitez changer le mot de passe ? Changez votre mot de passe en cliquant sur le bouton ci-dessous. Remarque : vous aurez besoin de votre mot de passe actuel."
+    },
+    "profiles": {
+      "title": "Profil",
+      "info": "Modifiez votre propre profil ou, en tant que parent ou représentant-e légal-e, ajoutez le profil de votre enfant (âgé-e de 17 ans au maximum).",
+      "btn": "{{count}} profil",
+      "btn_other": "{{count}} profils"
+    }
+  },
+  "communication": {
+    "title": "Paramètres concernant la communication",
+    "emailReminders": {
+      "title": "E-mail hebdomadaire et newsletter",
+      "info": "Vous pouvez choisir de ne plus recevoir l'e-mail hebdomadaire ou la newsletter.",
+      "btnManageNotifications": "Changer les paramètres"
+    },
+    "defaultLanguage": {
+      "title": "Langue",
+      "info": "Vous pouvez changer la langue ici.",
+      "languages": {
+        "en": "English",
+        "fr": "Français",
+        "it": "Italiano",
+        "de": "Deutsch"
+      }
+    }
+  },
+  "deletion": {
+    "title": "Se désinscrire de Grippenet / retirer son consentement",
+    "warning": "Si vous vous désinscrivez de Grippenet ou retirez votre consentement, les données de votre compte seront supprimées. \nUne fois le compte supprimé, nous ne pourrons plus établir de lien entre les informations que vous avez fournies (telles que l'âge et les symptômes) et vous.",
+    "deleteBtn": "Se désinscrire"
+  },
+  "references": {
+    "title": "Avez-vous besoin d'aide ?",
+    "faqLink": "Questions fréquentes",
+    "privacyStatementLink": "Confidentialité et droits des participant-es",
+    "contactLink": "Contacter Grippenet"
+  },
+  "systemInfo": {
+    "title": "Informations sur le système",
+    "appNameLabel": "Nom de l'application",
+    "appName": "Grippenet",
+    "versionLabel": "Version",
+    "browserNameLabel": "Nom du navigateur",
+    "browserVersionLabel": "Version du navigateur"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "title": "Questions fréquentes",
+  "accordionControls": {
+    "open": "Lire",
+    "close": "Fermer"
+  },
+  "topFaq": {
+    "title": "Questions fréquentes concernant Grippenet",
+    "content": ""
+  },
+  "signupCard": {
+    "imageAlt": "Participate image",
+    "title": "Participer",
+    "body": "Aidez-nous à surveiller la grippe et la COVID-19. Signalez chaque semaine si vous avez des symptômes.",
+    "actionLabel": "S'inscrire"
+  },
+  "surveyCard": {
+    "imageAlt": "Report now!",
+    "title": "Signaler maintenant !",
+    "body": "Signalez si vous avez des symptômes.",
+    "actionLabel": "Questionnaires"
+  },
+  "faq": [
+    {
+      "title": "A qui s'adresse cette étude ?",
+      "content": "Toutes les personnes habitant en Suisse et bénéficiant d’un accès Internet peuvent participer à cette étude, ceci de façon anonyme, volontaire et bénévole, et ceci pour la durée souhaitée."
+    },
+    {
+      "title": "Je n’ai jamais eu la grippe, pourquoi participer ?",
+      "content": "Afin d'avoir une image qui se rapproche le plus possible de la réalité, il est important que chacun-e participe sans tenir compte de ses antécédents ou facteurs de risque. Quelqu’un qui n’est jamais malade sera tout autant intéressant pour suivre la grippe que quelqu’un qui est souvent malade. Cela peut également nous aider à comprendre pourquoi certaines personnes sont plus fréquemment atteintes que d’autres par les syndromes de type \"grippaux\"."
+    },
+    {
+      "title": "Je suis mineur-e, puis-je participer à l'étude ?",
+      "content": "Il est possible pour un ou une mineur-e de participer à l'étude, avec l’aide de ses parents ou de son/sa représentant-e légal-e. Pour cela, il suffit que l'un des parents ou le/la représentant-e légal-e s'inscrive à l'étude, puis qu'il ajoute un/une participant-e à son compte, et qu'il remplisse avec le/la mineur-e le premier questionnaire préliminaire. Le/la mineur-e pourra ensuite remplir lui-même/elle-même ses questionnaires, pour autant que l'adulte lui donne accès à son compte."
+    },
+    {
+      "title": "Je ne suis pas suisse, ai-je la possibilité de participer à l’étude ?",
+      "content": "Bien sûr ! Grippenet s’intéresse à la situation de la grippe en Suisse, raison pour laquelle toutes les personnes qui résident en Suisse peuvent participer à l’étude, qu’elles soient de nationalité suisse ou non."
+    },
+    {
+      "title": "Je suis un ou une suisse expatrié-e, suis-je concerné-e par cette étude ?",
+      "content": "Malheureusement non ! Seules les personnes qui habitent en Suisse peuvent participer à cette étude. Mais si vous habitez au Danemark, en France, en Allemagne, en Italie, en Irlande, au Portugal, en Espagne, en Suède, au Royaume-Uni, aux Pays-Bas ou en Belgique, des systèmes équivalents existent pour chacun de ces pays."
+    },
+    {
+      "title": "J'ai été vacciné-e contre la grippe saisonnière ou la COVID-19 cette année, puis-je participer à cette étude ?",
+      "content": "L'étude de Grippenet s'adresse à toutes les personnes qui habitent en Suisse, qu'elles soient vaccinées ou non contre la grippe saisonnière ou la COVID-19. Vous pouvez donc tout à fait y participer ! L'étude permet notamment d'étudier l'efficacité des vaccins."
+    },
+    {
+      "title": "Comment s’inscrire ?",
+      "content": "Pour vous inscrire, veuillez cliquer sur \"S’inscrire\" en haut à droite de la page.  Il vous sera tout d’abord demandé de choisir un nom d’utilisateur quelconque (qui peut être différent de votre nom ou prénom), de choisir un mot de passe, et de donner une adresse e-mail valide. Un lien d’activation vous sera ensuite envoyé sur votre adresse e-mail. Pour activer votre compte, il suffira de cliquer sur ce lien d’activation. Vous pourrez ensuite accéder à votre espace personnel sur le site, en saisissant votre nom d’utilisateur et votre mot de passe."
+    },
+    {
+      "title": "Dois-je donner mon nom pour participer ?",
+      "content": "Non, l’étude est totalement anonyme. Pour vous inscrire, vous devez donner une adresse e-mail valide, choisir un identifiant et un mot de passe. Votre adresse e-mail ne sera pas associée à vos données lors de l’analyse des données, et il n’y aura donc aucun moyen de vous identifier durant l’étude."
+    },
+    {
+      "title": "Si je m’inscris, mon adresse e-mail sera-t-elle communiquée à des organismes tiers ?",
+      "content": "Non. Votre adresse e-mail sera uniquement utilisée pour vous envoyer une newsletter hebdomadaire, vous donnant des informations sur la grippe et vous transmettant le lien pour remplir votre questionnaire hebdomadaire. Elle ne sera communiquée à aucun organisme tiers."
+    },
+    {
+      "title": "Combien de temps la participation à l’étude va-t-elle me prendre ?",
+      "content": "L’inscription et le remplissage du premier questionnaire d'admission (informations de base sur votre profil) prennent environ 5 minutes. Chaque semaine, le remplissage du questionnaire hebdomadaire prendra ensuite entre 30 secondes (si vous n’avez eu aucun symptôme) et 5 minutes maximum (si vous avez été malade)."
+    },
+    {
+      "title": "Combien de temps dure l’étude ?",
+      "content": "L’étude n’a pour le moment pas de date de fin, mais vous pouvez arrêter de participer quand vous le souhaitez, en vous désinscrivant sur le site. Cela ne vous empêchera pas de vous réinscrire plus tard, si vous changez d’avis. Chaque hiver, le suivi de Grippenet commence un peu avant le début de l’épidémie de grippe et s’interrompt quelques semaines après la fin de l’épidémie."
+    },
+    {
+      "title": "Est-ce que la participation à l’étude va me faire gagner de l’argent ? Ou va-t-elle au contraire me coûter de l’argent ?",
+      "content": "Ni l’un ni l’autre. L’étude ne vous rapportera pas d’argent mais ne vous en coûtera pas non plus. La participation à l’étude est libre et bénévole."
+    },
+    {
+      "title": "Que se passe-t-il une fois que je suis inscrit-e ?",
+      "content": "Une fois que vous aurez activé votre compte, il vous sera demandé de remplir un questionnaire préliminaire (ou questionnaire d'admission). Ce questionnaire ne vous sera proposé qu'une seule fois, mais vous pourrez à n’importe quel moment de l’étude y revenir et le modifier, si votre situation personnelle a changé. Il vous sera ensuite demandé de remplir un questionnaire hebdomadaire concernant la présence ou non de symptômes grippaux, pour lequel vous recevrez un lien par e-mail. Vous êtes libre de remplir les questionnaires hebdomadaires au rythme qui vous convient le mieux, tout en sachant que l’idéal pour l’étude est d’en remplir un chaque semaine."
+    },
+    {
+      "title": "Quelles sont les questions posées dans le questionnaire préliminaire ?",
+      "content": "Le questionnaire préliminaire (ou questionnaire d'admission) a pour but de connaître un peu mieux le profil de chaque utilisateur/utilisatrice. Il interroge sur l’âge, l’activité professionnelle, le lieu d’habitation, le lieu de travail ou d’étude, la composition du foyer, le mode de déplacement principal, les animaux domestiques présents au domicile, le statut vaccinal vis-à-vis de la grippe ou de la COVID-19, les allergies, etc. Pour la plupart des questions, vous avez la possibilité de ne pas répondre, en choisissant la réponse \"Je ne sais pas\". Le remplissage du questionnaire préliminaire prend environ 5 minutes."
+    },
+    {
+      "title": "Quelles sont les questions posées dans le questionnaire hebdomadaire ?",
+      "content": "Le questionnaire hebdomadaire comprend des questions sur les symptômes que vous avez pu avoir depuis votre dernière connexion (nez qui coule, toux, fièvre, etc.). Si vous n’avez pas eu de symptôme, le remplissage prend uniquement quelques secondes. Si vous avez eu des symptômes, des détails vous seront demandés, par exemple pour savoir quand les symptômes ont commencé, si vous avez vu un médecin ou si vous avez eu un arrêt de travail. Le remplissage du questionnaire prend alors entre 3 et 5 minutes."
+    },
+    {
+      "title": "Puis-je remplir le questionnaire pour quelqu’un d’autre ?",
+      "content": "Tout à fait. Dans les pays européens surveillant déjà la grippe par le biais d'Internet, la plupart des participant-es ont entre 20 et 65 ans. La situation de la grippe chez les enfants et les personnes âgées est donc peu connue, alors que les personnes âgées sont les personnes les plus vulnérables à l’infection par ce virus. Nous vous encourageons donc à remplir les questionnaires pour vos enfants et les personnes âgées qui vivent dans votre foyer, après leur avoir demandé et après avoir obtenu leur accord. Il est facile d’ajouter un/une nouveau/nouvelle participant-e sur votre compte (il suffit de se rendre sur la page \"Mon Grippenet\" et de cliquer sur \"Gérer le(s) profil(s)\"), et le site vous permettra d’avoir un récapitulatif des symptômes survenus chez vos proches depuis le début de leur participation."
+    },
+    {
+      "title": "Je pars en vacances, suis-je obligé-e de remplir mon questionnaire hebdomadaire ?",
+      "content": "Non, évidemment. Vous pouvez remplir les questionnaires à la fréquence qui vous convient le mieux. Plus la participation est fréquente, plus les données recueillies sont intéressantes, mais même quelqu’un qui ne participe que toutes les deux semaines est utile pour l’étude."
+    },
+    {
+      "title": "Je n’ai eu aucun symptôme cette semaine, dois-je remplir le questionnaire hebdomadaire ?",
+      "content": "Tout à fait. Pour avoir une image fiable de la situation des syndromes grippaux en Suisse, il est important d’avoir des données à la fois sur les gens malades et à la fois sur les gens qui ne sont pas malades. Si vous n’êtes pas malade, le remplissage du questionnaire ne vous prendra que quelques secondes."
+    },
+    {
+      "title": "Je suis actuellement malade, est-ce que si je participe à l’étude on me donnera un diagnostic ?",
+      "content": "Non, en aucun cas. Votre participation vous permet de faire le point sur les symptômes que vous avez, mais ne remplace pas une visite chez votre médecin généraliste, qui saura vous apporter une réponse médicale adaptée. Le site Grippenet ne remplace donc jamais un avis médical, par contre il vous donne des conseils pratiques pour vous protéger de la grippe ou de la COVID-19 quand vous n’êtes pas encore malade."
+    },
+    {
+      "title": "J’ai une maladie chronique entraînant certains des symptômes mentionnés dans le questionnaire hebdomadaire, que dois-je remplir ?",
+      "content": "Certaines maladies chroniques entraînent des symptômes présents dans le questionnaire hebdomadaire. Pour Grippenet, ces symptômes n’ont pas besoin d’être décrits s’ils sont habituels, mais doivent être mentionnés si les symptômes ont changé récemment. Par exemple, si vous avez des rhumatismes, ne cochez la case \"Douleurs articulaires\" que si celles-ci se sont récemment aggravées ou sont différentes de celles que vous ressentez habituellement."
+    },
+    {
+      "title": "J’ai déjà été contaminé-e par la COVID-19, est-ce utile et possible pour moi de participer à l’étude ?",
+      "content": "Oui. Il est possible et intéressant pour l’étude d’avoir également des participant-es ayant déjà contracté la COVID-19."
+    },
+    {
+      "title": "Pourquoi n’ai-je pas reçu d'e-mail d'activation à l'adresse e-mail que j’ai donnée lors de mon inscription ?",
+      "content": "L'e-mail d’activation peut parfois arriver dans le dossier \"indésirable\" ou \"spam\" de votre messagerie. Si vous avez vérifié dans votre dossier \"indésirable\" ou \"spam\" et que vous n’avez pas reçu l’e-mail d’activation, nous vous invitons à vous inscrire à nouveau, en vérifiant que l'adresse e-mail que vous donnez est inscrite sans faute d'orthographe. Si cela ne fonctionne toujours pas, n’hésitez pas à nous contacter."
+    },
+    {
+      "title": "J’ai reçu un e-mail d'activation, mais le lien ne fonctionne pas. Que dois-je faire ?",
+      "content": "Essayez de copier-coller le lien directement dans la barre des tâches de votre navigateur, en vérifiant que le lien a bien été copié en entier. Si cela ne fonctionne toujours pas, vous arrivez certainement sur une page qui vous propose de rentrer votre adresse e-mail pour recevoir un nouveau lien d'activation. Si cela ne fonctionne toujours pas, n’hésitez pas à nous contacter."
+    },
+    {
+      "title": "J’ai reçu un e-mail d'activation, j’ai pu activer mon compte avec succès, mais je n'arrive pas à me connecter avec mon login et mon mot de passe. Comment faire pour réussir à me connecter ?",
+      "content": "L'origine la plus probable du problème est que le login ou le mot de passe enregistré lorsque vous vous êtes inscrit-e n'est pas le même que celui que vous essayez de rentrer maintenant. Pour vérifier cela, cliquez sur \"mot de passe oublié\". Vous pouvez alors saisir votre adresse e-mail, puis vous recevrez un e-mail vous rappelant votre nom d'utilisateur et vous donnant un lien pour choisir un nouveau mot de passe (vous pouvez saisir le même que l'ancien). Vous devriez pouvoir ensuite vous connecter sans problème. Si cela ne fonctionne toujours pas, n’hésitez pas à nous contacter."
+    },
+    {
+      "title": "Mes données sont-elles sécurisées ?",
+      "content": "Nous accordons une très grande importance à la sécurité des données relatives aux participant-es de l’étude proposée par Grippenet. Le système doit répondre à des exigences strictes, notamment dans le domaine de la vie privée et de la sécurité des informations. Le site Internet a été sécurisé et testé par l’Université de Hasselt."
+    }
+  ]
+}

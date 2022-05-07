@@ -1,0 +1,222 @@
+{
+  "loadingMsg": "Chargement en cours",
+  "login": {
+    "credentials": {
+      "title": "Se connecter",
+      "info": "",
+      "emailInputLabel": "E-mail",
+      "emailInputPlaceholder": "Entrer l'e-mail",
+      "passwordInputLabel": "Mot de passe",
+      "passwordInputPlaceholder": "Entrer le mot de passe",
+      "rememberMeLabel": "Enregistrer mes informations",
+      "btn": "Se connecter",
+      "passwordForgottenBtn": "J'ai oublié mon mot de passe",
+      "signupBtn": "Je n'ai pas encore de compte, je souhaite m'inscrire"
+    },
+    "verificationCode": {
+      "title": "Vérifiez votre identité",
+      "info": "Veuillez saisir le code à six chiffres que nous avons envoyé à votre adresse e-mail. Si vous ne le trouvez pas dans votre boîte de réception, vérifiez également le dossier \"spam\" ou envoyez un nouveau code à l'aide du bouton ci-dessous.",
+      "codeInputLabel": "Code de vérification à 6 chiffres",
+      "codeInputPlaceholder": "Entrer le code",
+      "submitBtn": "Envoyer",
+      "resendBtn": "Envoyez-moi un nouveau code"
+    },
+    "errors": {
+      "accountOrPassword": "Un problème est survenu. Veuillez vérifier votre adresse e-mail et votre mot de passe.",
+      "wrongCode": "Code erroné. Veuillez vérifier le code que nous vous avons envoyé par e-mail.",
+      "newCodeSent": "Code erroné. Nous vous avons envoyé un nouveau code par e-mail.",
+      "rateLimit": "Vous devez attendre un certain temps avant de pouvoir demander un nouveau code.",
+      "unknown": "Un problème est survenu. Veuillez vérifier vos informations ou réessayez plus tard."
+    }
+  },
+  "signup": {
+    "title": "S'inscrire",
+    "info": "",
+    "emailInputLabel": "E-mail",
+    "emailInputPlaceholder": "Entrer l'e-mail",
+    "passwordInputLabel": "Mot de passe",
+    "passwordInputPlaceholder": "Entrer le mot de passe",
+    "confirmPasswordInputLabel": "Confirmer le mot de passe",
+    "confirmPasswordInputPlaceholder": "Confirmer le mot de passe",
+    "informedConsentCheckbox": "Accéder à la <1>déclaration de confidentialité</1>.*",
+    "reCaptchaCookieCheckbox": "Accéder à la déclaration <1>reCAPTCHA</1>.*",
+    "signupBtn": "S'inscrire",
+    "loginLink": "J'ai déjà un compte, je souhaite me connecter.",
+    "reCaptchaLinks": "Site protégé par reCAPTCHA et les <1>règles de confidentialité</1> de Google. Les <3>conditions d'utilisation</3> s'appliquent.",
+    "errors": {
+      "emailRules": "L'adresse e-mail que vous avez saisie n'est pas valide.",
+      "passwordRules": "Votre mot de passe doit comporter au moins 8 caractères et contenir 3 des 4 éléments suivants : lettres minuscules, lettres majuscules, chiffres, signes de ponctuation.",
+      "passwordMatch": "Les mots de passe ne sont pas identiques.",
+      "invalidEmail": "Votre adresse e-mail ne semble pas être correcte.",
+      "userCreationFailed": "Un problème est survenu.",
+      "unknown": "Un problème est survenu."
+    }
+  },
+  "privacyConsent": {
+    "title": "Consentement à la déclaration de confidentialité",
+    "acceptBtn": "J'accepte",
+    "cancelBtn": "Je n'accepte pas"
+  },
+  "recaptchaConsent": {
+    "title": "Consentement à la déclaration reCAPTCHA",
+    "acceptBtn": "J'accepte",
+    "cancelBtn": "Je n'accepte pas"
+  },
+  "signupSuccess": {
+    "title": "Bienvenue !",
+    "successMsg": "Vous êtes presque inscrit-e à Grippenet ! \n\n Veuillez d'abord confirmer votre adresse e-mail en cliquant sur le lien figurant dans l'e-mail de confirmation que nous vous avons envoyé. \n Si vous ne trouvez pas l'e-mail, vérifiez d'abord votre dossier \"spam\". Vous pouvez également demander l'envoi d'un nouvel e-mail ci-dessous.",
+    "emailSentMsg": "L'e-mail a été envoyé",
+    "msgForVerifiedAccount": "Si vous venez de vérifier votre compte, vous pouvez utiliser le bouton ci-dessous pour mettre à jour cette page.",
+    "reloadUser": "Vérification du contrôle",
+    "resendVerificationEmailBtn": "Renvoyer un e-mail de confirmation",
+    "wrongEmailBtn": "Vous avez utilisé une mauvaise adresse e-mail ? Alors changez-la ici.",
+    "errors": {
+      "verifyEmailFirst": "Vous devez d'abord vérifier votre adresse e-mail en cliquant sur le lien figurant dans l'e-mail d'inscription. Si vous ne trouvez pas l'e-mail, utilisez le bouton pour envoyer un nouvel e-mail.",
+      "unknown": "Un problème est survenu."
+    }
+  },
+  "passwordForgotten": {
+    "title": "Changer le mot de passe",
+    "info": "Entrez l'adresse e-mail de votre compte",
+    "successMessage": "Veuillez suivre le lien figurant dans l'e-mail que nous vous avons envoyé à l'adresse ci-dessous.\n Si vous n'avez pas reçu d'e-mail, vérifiez votre dossier \"spam\" ou réessayez.",
+    "emailInputLabel": "E-mail",
+    "emailInputPlaceholder": "Entrer l'e-mail",
+    "submitBtn": "Changer le mot de passe",
+    "errors": {
+      "invalidId": "Un problème est survenu. Veuillez vérifier votre adresse e-mail ou votre connexion./n Vous pourrez faire un nouvel essai lorsque le bouton sera à nouveau visible.",
+      "unknown": "Un problème est survenu. Veuillez vérifier vos informations ou réessayez plus tard."
+    }
+  },
+  "changeEmail": {
+    "title": "Changer l'adresse e-mail",
+    "emailInputLabel": "Nouvelle adresse e-mail",
+    "emailInputPlaceholder": "Entrer la nouvelle adresse e-mail",
+    "passwordInputLabel": "Mot de passe",
+    "passwordInputPlaceholder": "Entrer le mot de passe",
+    "info": "Vous souhaitez utiliser une autre adresse e-mail ? Changez votre adresse e-mail en cliquant sur le bouton ci-dessous. Remarque : vous ne pourrez pas vous reconnecter à Grippenet tant que vous n'aurez pas confirmé l'adresse e-mail.",
+    "cancelBtn": "Annuler",
+    "confirmBtn": "Changer l'adresse e-mail",
+    "errors": {
+      "wrongPasswordOrAccountId": "Un problème est survenu. Veuillez vérifier vos informations (l'adresse e-mail ou le mot de passe sont peut-être erronés).",
+      "wrongEmailFormat": "L'adresse e-mail n'est pas valide.",
+      "unknown": "Un problème est survenu. Veuillez vérifier vos informations ou réessayez plus tard."
+    },
+    "warningDialog": {
+      "title": "Confirmer la nouvelle adresse e-mail",
+      "content": "Remarque : vous ne pourrez pas vous reconnecter à Grippenet tant que vous n'aurez pas confirmé la nouvelle adresse e-mail, via le lien figurant dans l'e-mail de confirmation que nous vous avons envoyé.",
+      "cancelBtn": "Annuler",
+      "confirmBtn": "Confirmer"
+    },
+    "successDialog": {
+      "title": "Changement d'adresse e-mail",
+      "content": "Votre adresse e-mail a été modifiée avec succès !",
+      "btn": "OK"
+    }
+  },
+  "changePassword": {
+    "title": "Changer le mot de passe",
+    "currentPasswordInputLabel": "Mot de passe actuel",
+    "currentPasswordInputPlaceholder": "Entrer le mot de passe actuel",
+    "newPasswordInputLabel": "Nouveau mot de passe",
+    "newPasswordInputPlaceholder": "Entrer le nouveau mot de passe",
+    "confirmPasswordInputLabel": "Confirmer le nouveau mot de passe",
+    "confirmPasswordInputPlaceholder": "Confirmer le nouveau mot de passe",
+    "info": "Pour des raisons de sécurité, vous devez d'abord fournir votre mot de passe actuel.",
+    "cancelBtn": "Annuler",
+    "confirmBtn": "Confirmer",
+    "errors": {
+      "wrongCurrentPassword": "Mot de passe erroné",
+      "passwordRules": "Votre mot de passe doit comporter au moins 8 caractères et contenir 3 des 4 éléments suivants : lettres minuscules, lettres majuscules, chiffres, signes de ponctuation.",
+      "passwordMatch": "Les mots de passe ne sont pas identiques.",
+      "unknown": "Un problème est survenu. Veuillez vérifier vos informations ou réessayez plus tard."
+    },
+    "successDialog": {
+      "title": "Changement de mot de passe",
+      "content": "Votre mot de passe a été modifié avec succès !",
+      "btn": "OK"
+    }
+  },
+  "manageProfiles": {
+    "title": "Profil(s)",
+    "mainProfileLabel": "Mon profil",
+    "cancelBtn": "Annuler",
+    "newProfileBtn": "Nouveau profil pour mon enfant",
+    "warningDialog": {
+      "title": "Supprimer le profil",
+      "content": "Remarque : Une fois effectuée, la suppression du profil {{ alias }} ne peut pas être annulée.",
+      "cancelBtn": "Annuler",
+      "confirmBtn": "Supprimer le profil"
+    }
+  },
+  "editProfile": {
+    "new": {
+      "title": "Nouveau profil",
+      "cancelBtn": "Annuler",
+      "submitBtn": "Créer un nouveau profil pour mon enfant"
+    },
+    "edit": {
+      "title": "Modifier le profil",
+      "cancelBtn": "Annuler",
+      "submitBtn": "Enregistrer les changements"
+    },
+    "aliasInputLabel": "Prénom ou surnom",
+    "aliasInputPlaceholder": "Entrer le prénom ou le surnom",
+    "consentCheckboxLabel": "Consentement",
+    "consentCheckboxText": "Vous pouvez créer un profil et remplir des questionnaires uniquement pour vous-même ou en tant que parent ou représentant-e légal-e de votre enfant qui n'a pas encore atteint l'âge de 18 ans.",
+    "avatarSelectorLabel": "Choisir une image"
+  },
+  "changeLanguage": {
+    "title": "Langues",
+    "defaultLanguageLabel": "Langue par défaut",
+    "info": "Vous pouvez changer la langue appliquée par défaut ici. Si cela est possible, les e-mails vous seront également envoyés dans cette langue.",
+    "languages": {
+      "en": "English",
+      "fr": "Français",
+      "it": "Italiano",
+      "de": "Deutsch"
+    },
+    "cancelBtn": "Annuler",
+    "confirmBtn": "Confirmer la langue",
+    "errors": {
+      "emtyLanguages": "Échec du chargement des langues. Veuillez réessayer plus tard.",
+      "unknown": "Un problème est survenu. Veuilez vérifier vos informations ou réessayez plus tard."
+    },
+    "successDialog": {
+      "title": "Changement de langue",
+      "content": "La langue a été modifiée avec succès !",
+      "btn": "OK"
+    }
+  },
+  "changeNotifications": {
+    "title": "Paramétrer mes e-mails",
+    "info": "Vous pouvez choisir de ne plus recevoir l'e-mail de rappel hebdomadaire ou la newsletter.",
+    "weeklyReminder": {
+      "label": "E-mail de rappel hebdomadaire",
+      "on": "Je souhaite recevoir l'e-mail de rappel hebdomadaire",
+      "off": "Je ne souhaite pas recevoir l'e-mail de rappel hebdomadaire"
+    },
+    "newsletter": {
+      "label": "E-mail ou newsletter destinés à tous/toutes les participant-es. Nous jugeons parfois nécessaire d'envoyer un e-mail à tous/toutes les participant-es, avec notamment des informations sur l'étude.",
+      "on": "Je souhaite recevoir ces e-mails (ou ces newsletters) destinés à tous/toutes les participant-es",
+      "off": "Je ne souhaite pas recevoir ces e-mails (ou ces newsletters) destinés à tous/toutes les participant-es"
+    },
+    "cancelBtn": "Annuler",
+    "submitBtn": "Enregistrer les changements",
+    "successDialog": {
+      "title": "Changement des paramètres des e-mails",
+      "content": "C'est fait ! Vos paramètres de messagerie sont modifiés.",
+      "btn": "OK"
+    }
+  },
+  "deleteAccount": {
+    "title": "Se retirer de l'étude",
+    "info": "Êtes-vous certain-e de vouloir supprimer votre compte ? \nUne fois effectuée, cette action ne peut pas être annulée.",
+    "cancelBtn": "Annuler",
+    "confirmBtn": "Se désinscrire",
+    "successDialog": {
+      "title": "Compte supprimé",
+      "content": "C'est fait ! Votre compte a été supprimé. Nous vous remercions pour votre contribution à l'étude. Vous pouvez toujours décider de participer à nouveau en créant un nouveau compte.",
+      "btn": "OK"
+    }
+  }
+}

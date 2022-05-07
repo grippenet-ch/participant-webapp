@@ -1,0 +1,84 @@
+{
+  "verifyEmail": {
+    "title": "Vérification de l'adresse e-mail",
+    "content": {
+      "info": "",
+      "success": "Votre adresse e-mail a été confirmée avec succès ! \n\n Se connecter maintenant.",
+      "btn": {
+        "successWithAuth": "Accueil",
+        "successWithoutAuth": "Se connecter",
+        "errorWithAuth": "Accueil",
+        "errorWithoutAuth": "Aller à \"Se connecter\""
+      }
+    },
+    "errors": {
+      "wrongToken": "Un problème est survenu. Veuillez vérifier que vous utilisez le bon lien et que vous n'avez pas essayé ce lien auparavant. Demandez un nouvel e-mail si nécessaire.",
+      "unknown": "Un problème est survenu. Veuillez vérifier vos informations ou réessayez plus tard."
+    }
+  },
+  "passwordReset": {
+    "title": "Nouveau mot de passe",
+    "content": {
+      "info": "",
+      "emailLabel": "E-mail",
+      "emailPlaceholder": "Entrer l'e-mail",
+      "newPasswordLabel": "Nouveau mot de passe",
+      "newPasswordPlaceholder": "Entrer le nouveau mot de passe",
+      "confirmPasswordLabel": "Confirmer le nouveau mot de passe",
+      "confirmPasswordPlaceholder": "Confirmer le nouveau mot de passe",
+      "btn": "Changer le mot de passe",
+      "restartBtn": "Encore",
+      "successMsg": "Mot de passe changé",
+      "successBtn": "Se connecter"
+    },
+    "errors": {
+      "passwordRules": "Votre mot de passe doit comporter au moins 8 caractères et contenir 3 des 4 éléments suivants : lettres minuscules, lettres majuscules, chiffres, signes de ponctuation.",
+      "passwordMatch": "Les mots de passe ne sont pas identiques.",
+      "wrongToken": "Un problème est survenu. Veuillez vérifier que vous utilisez le bon lien et que vous n'avez pas essayé ce lien auparavant. Demandez un nouvel e-mail si nécessaire.",
+      "unknown": "Un problème est survenu. Veuillez vérifier vos informations ou réessayez plus tard."
+    }
+  },
+  "invitation": {
+    "title": "Bienvenue !",
+    "content": {
+      "info": "## Bienvenue ! \n\n Avant de commencer à utiliser le système, vous devez définir un mot de passe pour votre nouveau compte Grippenet.",
+      "emailLabel": "E-mail",
+      "emailPlaceholder": "Entrer l'e-mail",
+      "newPasswordLabel": "Mot de passe",
+      "newPasswordPlaceholder": "Entrer le mot de passe",
+      "confirmPasswordLabel": "Confirmer le mot de passe",
+      "confirmPasswordPlaceholder": "Confirmer le mot de passe",
+      "informedConsentCheckbox": "Accéder à la <1>déclaration de confidentialité</1>.*",
+      "btn": "Confirmer le mot de passe",
+      "restartBtn": "Encore",
+      "successMsg": "Mot de passe confirmé",
+      "successBtn": "Se connecter"
+    },
+    "privacyConsent": {
+      "title": "Consentement à la déclaration de confidentialité",
+      "acceptBtn": "J'accepte",
+      "cancelBtn": "Je n'accepte pas"
+    },
+    "errors": {
+      "passwordRules": "Votre mot de passe doit comporter au moins 8 caractères et contenir 3 des 4 éléments suivants : lettres minuscules, lettres majuscules, chiffres, signes de ponctuation.",
+      "passwordMatch": "Les mots de passe ne sont pas identiques.",
+      "wrongToken": "Un problème est survenu. Veuillez vérifier que vous utilisez le bon lien et que vous n'avez pas essayé ce lien auparavant. Demandez un nouvel e-mail si nécessaire.",
+      "unknown": "Un problème est survenu. Veuillez vérifier vos informations ou réessayez plus tard."
+    }
+  },
+  "studyLogin": {
+    "title": "Bienvenue à nouveau !",
+    "content": {
+      "cardTitle": "Se connecter",
+      "info": "",
+      "emailInputLabel": "E-mail",
+      "emailInputPlaceholder": "Entrer l'e-mail",
+      "passwordInputLabel": "Mot de passe",
+      "passwordInputPlaceholder": "Entrer le mot de passe",
+      "rememberMeLabel": "Enregistrer mes informations",
+      "btn": "Se connecter",
+      "passwordForgottenBtn": "J'ai oublié mon mot de passe",
+      "signupBtn": "Je n'ai pas encore de compte, je souhaite m'inscrire"
+    }
+  }
+}

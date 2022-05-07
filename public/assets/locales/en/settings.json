@@ -1,0 +1,57 @@
+{
+  "title": "Grippenet Settings",
+  "account": {
+    "title": "Account settings",
+    "email": {
+      "title": "Email address",
+      "info": "Do you want to change your email address? Change your email address by clicking on the button below. Note: you cannot log back into Grippenet until you have confirmed your new email address."
+    },
+    "password": {
+      "title": "Password",
+      "info": "Do you want to change your password? Change your password by clicking on the button below. Note: you need to enter your current password."
+    },
+    "profiles": {
+      "title": "Profiles",
+      "info": "Edit your own profile or as a parent or legal guardian add a profile for your child (up to 17 years of age).",
+      "btn": "{{count}} profile",
+      "btn_other": "{{count}} profiles"
+    }
+  },
+  "communication": {
+    "title": "Communication settings",
+    "emailReminders": {
+      "title": "Weekly email and newsletter",
+      "info": "You can choose to stop receiving the weekly reminder email or the newsletter.",
+      "btnManageNotifications": "Change settings"
+    },
+    "defaultLanguage": {
+      "title": "Language",
+      "info": "You can change the language here.",
+      "languages": {
+        "en": "English",
+        "fr": "Français",
+        "it": "Italiano",
+        "de": "Deutsch"
+      }
+    }
+  },
+  "deletion": {
+    "title": "Unsubscribe from Grippenet / withdraw consent",
+    "warning": "If you unsubscribe from Grippenet / withdraw consent your account data will be deleted.\n After your account has been deleted we will no longer be able to link the information you have provided (for example age and symptoms) to you/your email address.",
+    "deleteBtn": "Unsubscribe"
+  },
+  "references": {
+    "title": "In need of assistance?",
+    "faqLink": "Frequently asked questions (FAQ's)",
+    "privacyStatementLink": "Confidentiality and participants' rights",
+    "contactLink": "Contact Grippenet"
+  },
+  "systemInfo": {
+    "title": "System information",
+    "appNameLabel": "Application name",
+    "appName": "Grippenet",
+    "versionLabel": "Version",
+    "browserNameLabel": "Browser name",
+    "browserVersionLabel": "Browser version"
+  }
+}

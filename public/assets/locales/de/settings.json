@@ -1,0 +1,57 @@
+{
+  "title": "Grippenet-Einstellungen",
+  "account": {
+    "title": "Konto-Einstellungen",
+    "email": {
+      "title": "E-Mail-Adresse",
+      "info": "Möchten Sie eine andere E-Mail-Adresse verwenden? Ändern Sie Ihre E-Mail-Adresse, indem Sie auf den Button unten klicken. Hinweis: Sie können sich erst wieder bei Grippenet anmelden, wenn Sie Ihre neue E-Mail-Adresse bestätigt haben."
+    },
+    "password": {
+      "title": "Passwort",
+      "info": "Möchten Sie Ihr Passwort ändern? Ändern Sie Ihr Passwort, indem Sie auf den Button unten klicken. Hinweis: Sie benötigen Ihr aktuelles Passwort."
+    },
+    "profiles": {
+      "title": "Profil",
+      "info": "Bearbeiten Sie Ihr Profil oder fügen Sie als Elternteil oder gesetzliche/r Vertreter:in das Profil Ihres Kindes (so lange nicht volljährig) hinzu.",
+      "btn": "{{count}} Profil",
+      "btn_other": "{{count}} Profil"
+    }
+  },
+  "communication": {
+    "title": "Einstellungen zur Kommunikation",
+    "emailReminders": {
+      "title": "Wöchentliche E-Mail und Newsletter",
+      "info": "Sie können den Erhalt der wöchentlichen Erinnerungs-E-Mail oder des Newsletters abstellen.",
+      "btnManageNotifications": "Einstellungen ändern"
+    },
+    "defaultLanguage": {
+      "title": "Sprache",
+      "info": "Sie können die Sprache hier ändern.",
+      "languages": {
+        "en": "English",
+        "fr": "Français",
+        "it": "Italiano",
+        "de": "Deutsch"
+      }
+    }
+  },
+  "deletion": {
+    "title": "Abmeldung von Grippenet / Einwilligung widerrufen",
+    "warning": "Wenn Sie sich von Grippenet abmelden / Ihre Einwilligung widerrufen, werden Ihre Kontodaten gelöscht.\nNach der Löschung des Kontos können die von Ihnen angegebenen Informationen (wie Alter und Symptome) nicht mehr mit Ihnen in Verbindung gebracht werden.",
+    "deleteBtn": "Abmelden"
+  },
+  "references": {
+    "title": "Benötigen Sie Hilfe ?",
+    "faqLink": "Häufig gestellte Fragen",
+    "privacyStatementLink": "Erklärung zum Datenschutz",
+    "contactLink": "Kontakt Grippenet"
+  },
+  "systemInfo": {
+    "title": "Informationen zum System",
+    "appNameLabel": "Name der Anwendung",
+    "appName": "Grippenet",
+    "versionLabel": "Version",
+    "browserNameLabel": "Name des Browsers",
+    "browserVersionLabel": "Browser-Version"
+  }
+}

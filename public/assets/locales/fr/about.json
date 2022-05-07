@@ -1,0 +1,15 @@
+{
+  "title": "Concernant Grippenet",
+  "signupCard": {
+    "imageAlt": "Participate image",
+    "title": "Participer",
+    "body": "Aidez-nous à surveiller la grippe et la COVID-19. Signalez chaque semaine si vous avez des symptômes.",
+    "actionLabel": "S'inscrire"
+  },
+  "surveyCard": {
+    "imageAlt": "Report now!",
+    "title": "Signaler maintenant !",
+    "body": "Signalez si vous avez des symptômes.",
+    "actionLabel": "Questionnaires"
+  }
+}

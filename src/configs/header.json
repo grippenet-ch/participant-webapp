@@ -1,0 +1,20 @@
+{
+  "config": {
+    "type": "simpleLogo",
+    "className": "justify-content-center",
+    "image": {
+      "altKey": "logoAlt",
+      "sm": {
+        "url": "/images/logo.png",
+        "className": "py-1",
+        "height": 100
+      },
+      "lg": {
+        "url": "/images/logo.png",
+        "className": "py-1",
+        "height": 120
+      }
+    },
+    "useLanguageSelector": true
+  }
+}

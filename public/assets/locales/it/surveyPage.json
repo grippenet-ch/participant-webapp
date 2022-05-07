@@ -1,0 +1,14 @@
+{
+  "exitSurveyWarningDialog": {
+    "title": "Vuoi uscire dal questionario?",
+    "warning": "Tutte le informazioni inserite andranno perse se non completerai il questionario. Sei sicuro/a di voler smettere?",
+    "cancelBtn": "Continua a compilare il questionario",
+    "confirmBtn": "Esci dal questionario"
+  },
+  "noSurveyLoaded": "Caricamento non riuscito. Aggiorna la pagina.",
+  "submittingSurveyResponsesMsg": "Invio risposte",
+  "notValidQuestion": "Seleziona una risposta valida per tutte le domande.",
+  "backBtn": "Indietro",
+  "nextBtn": "Avanti",
+  "submitBtn": "Invia"
+}

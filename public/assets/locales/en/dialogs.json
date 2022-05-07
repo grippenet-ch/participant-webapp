@@ -1,0 +1,222 @@
+{
+  "loadingMsg": "Loading",
+  "login": {
+    "credentials": {
+      "title": "Login",
+      "info": "",
+      "emailInputLabel": "Email address",
+      "emailInputPlaceholder": "Please enter email address",
+      "passwordInputLabel": "Password",
+      "passwordInputPlaceholder": "Please enter password",
+      "rememberMeLabel": "Remember Me",
+      "btn": "Login",
+      "passwordForgottenBtn": "I forgot my password",
+      "signupBtn": "I don't have an account - I want to sign up"
+    },
+    "verificationCode": {
+      "title": "Please verify your identity",
+      "info": "Please enter the six digit verification code we have sent to your email address. If you cannot find it in your inbox please also check the \"spam\" folder or request a new code with the button below.",
+      "codeInputLabel": "Six digit verification code",
+      "codeInputPlaceholder": "Please enter your verification code",
+      "submitBtn": "Submit",
+      "resendBtn": "Request a new verification code"
+    },
+    "errors": {
+      "accountOrPassword": "Something went wrong. Please double-check your email address and password.",
+      "wrongCode": "Wrong code. Please double-check the verification code we have sent you.",
+      "newCodeSent": "Wrong code. We have sent you a new code.",
+      "rateLimit": "Please be patient. You will be able to request a new code shortly.",
+      "unknown": "Something went wrong. Please double-check the information you have entered or try again later."
+    }
+  },
+  "signup": {
+    "title": "Sign up",
+    "info": "",
+    "emailInputLabel": "Email address",
+    "emailInputPlaceholder": "Please enter email address",
+    "passwordInputLabel": "Password",
+    "passwordInputPlaceholder": "Please enter password",
+    "confirmPasswordInputLabel": "Please confirm password",
+    "confirmPasswordInputPlaceholder": "Enter password again",
+    "informedConsentCheckbox": "Access the <1>privacy statement</1>.*",
+    "reCaptchaCookieCheckbox": "Access the <1>reCAPTCHA statement</1>.*",
+    "signupBtn": "Sign up",
+    "loginLink": "I already have an account, I want to log in",
+    "reCaptchaLinks": "This site is protected by reCAPTCHA and the Google <1>Privacy Policy</1> and <3>Terms of Service</3> apply.",
+    "errors": {
+      "emailRules": "The email address you entered is not valid.",
+      "passwordRules": "Your password must have at least 8 characters and contain 3 of the following 4 elements: lowercase letters, capital letters, numbers, punctuation marks.",
+      "passwordMatch": "The passwords you have entered do not match",
+      "invalidEmail": "Your email address seems to be incorrect",
+      "userCreationFailed": "Something went wrong.",
+      "unknown": "Something went wrong."
+    }
+  },
+  "privacyConsent": {
+    "title": "Privacy Consent",
+    "acceptBtn": "I agree",
+    "cancelBtn": "I do not agree"
+  },
+  "recaptchaConsent": {
+    "title": "ReCaptcha Consent",
+    "acceptBtn": "I agree",
+    "cancelBtn": "I do not agree"
+  },
+  "signupSuccess": {
+    "title": "Welcome!",
+    "successMsg": "Your registration for Grippenet is almost complete! \n\n Please confirm your email address by clicking on the link in the confirmation email that we have sent you \n If you can’t find the email, please also check your \"spam\" folder or request a new email below.",
+    "emailSentMsg": "Confirmation email has been sent",
+    "msgForVerifiedAccount": "If you have just verified your account, you can use the button below to reload this page.",
+    "reloadUser": "Check verification",
+    "resendVerificationEmailBtn": "Resend confirmation email",
+    "wrongEmailBtn": "Did you use the wrong email address? You can change it here.",
+    "errors": {
+      "verifyEmailFirst": "Please verify your email address first by following the link sent to you in your registration email. If you cannot find the email, please request a new email with the button above.",
+      "unknown": "Something went wrong."
+    }
+  },
+  "passwordForgotten": {
+    "title": "Change password",
+    "info": "Please enter the email address of your account",
+    "successMessage": "Please follow the link in the email we have sent you.\n If you haven’t received an email please also check your \"spam\" folder or try again.",
+    "emailInputLabel": "Email address",
+    "emailInputPlaceholder": "Please enter email address",
+    "submitBtn": "Change password",
+    "errors": {
+      "invalidId": "Something went wrong. Double-check your email address and make sure you are connected./n You can try again when the button below is visible.",
+      "unknown": "Something went wrong. Please double-check the information you have entered or try again later."
+    }
+  },
+  "changeEmail": {
+    "title": "Change email address",
+    "emailInputLabel": "New email address",
+    "emailInputPlaceholder": "Please nter new email address",
+    "passwordInputLabel": "Password",
+    "passwordInputPlaceholder": "Please enter password",
+    "info": "Do you want to use a different email address? Change your email address by clicking on the button below. Note: you cannot log back into Grippenet until you have confirmed your new email address.",
+    "cancelBtn": "Cancel",
+    "confirmBtn": "Change email address",
+    "errors": {
+      "wrongPasswordOrAccountId": "Something went wrong. Please double-check the information you have entered (email address and/or password may be wrong).",
+      "wrongEmailFormat": "This is not a valid email address.",
+      "unknown": "Something went wrong. Please double-check the information you have entered or try again later."
+    },
+    "warningDialog": {
+      "title": "Please confirm your new email address",
+      "content": "Note: you cannot log back into Grippenet until you have confirmed the new email address via the link in the confirmation email that we have sent you.",
+      "cancelBtn": "Cancel",
+      "confirmBtn": "Confirm"
+    },
+    "successDialog": {
+      "title": "Email address successfully changed",
+      "content": "Success! Your email address has been changed.",
+      "btn": "OK"
+    }
+  },
+  "changePassword": {
+    "title": "Change password",
+    "currentPasswordInputLabel": "Current password",
+    "currentPasswordInputPlaceholder": "Please enter your current password",
+    "newPasswordInputLabel": "New password",
+    "newPasswordInputPlaceholder": "Please enter your new password",
+    "confirmPasswordInputLabel": "Confirm your new password",
+    "confirmPasswordInputPlaceholder": "Please confirm your new password",
+    "info": "For security reasons, you must first provide your current password.",
+    "cancelBtn": "Cancel",
+    "confirmBtn": "Confirm",
+    "errors": {
+      "wrongCurrentPassword": "Wrong password",
+      "passwordRules": "Your password must have at least 8 characters and contain 3 of the following 4 elements: lowercase letters, capital letters, numbers, punctuation marks.",
+      "passwordMatch": "The passwords you've entered do not match",
+      "unknown": "Something went wrong. Please double-check the information you have entered or try again later."
+    },
+    "successDialog": {
+      "title": "Password changed",
+      "content": "Success! Your password has been changed.",
+      "btn": "OK"
+    }
+  },
+  "manageProfiles": {
+    "title": "Profiles",
+    "mainProfileLabel": "My profile",
+    "cancelBtn": "Cancel",
+    "newProfileBtn": "Create new profile for your child",
+    "warningDialog": {
+      "title": "Delete profile",
+      "content": "The removal of the profile {{ alias }} cannot be undone.",
+      "cancelBtn": "Cancel",
+      "confirmBtn": "Delete profile"
+    }
+  },
+  "editProfile": {
+    "new": {
+      "title": "New Profile",
+      "cancelBtn": "Cancel",
+      "submitBtn": "Create new profile for your child"
+    },
+    "edit": {
+      "title": "Edit Profile",
+      "cancelBtn": "Cancel",
+      "submitBtn": "Save changes"
+    },
+    "aliasInputLabel": "First name or nickname",
+    "aliasInputPlaceholder": "Enter first name or nickname",
+    "consentCheckboxLabel": "Agree",
+    "consentCheckboxText": "You may only create a profile and complete questionnaires for yourself or as a parent/legal guardian of your child (who has not yet reached the age of 18).",
+    "avatarSelectorLabel": "Choose a picture"
+  },
+  "changeLanguage": {
+    "title": "Languages",
+    "defaultLanguageLabel": "Default language",
+    "info": "You can change the default language here. If available, emails will also be sent in this language.",
+    "languages": {
+      "en": "English",
+      "fr": "Français",
+      "it": "Italiano",
+      "de": "Deutsch"
+    },
+    "cancelBtn": "Cancel",
+    "confirmBtn": "Please confirm language",
+    "errors": {
+      "emtyLanguages": "Failed to load languages. Please try again later.",
+      "unknown": "Something went wrong. Please double-check the information you have entered or try again later."
+    },
+    "successDialog": {
+      "title": "Language changed",
+      "content": "Success! The default language has been changed.",
+      "btn": "OK"
+    }
+  },
+  "changeNotifications": {
+    "title": "Email settings",
+    "info": "You can choose whether you want to receive the weekly reminder email and/or the newsletter.",
+    "weeklyReminder": {
+      "label": "Weekly reminder email",
+      "on": "I do want to receive the weekly reminder email",
+      "off": "I don't want to receive the weekly reminder email"
+    },
+    "newsletter": {
+      "label": "Email to all participants. Sometimes it will be necessary to send an email to all participants of Grippenet containing information about the study.",
+      "on": "I do want to receive these emails which are sent to all participants",
+      "off": "I don’t want to receive these emails which are sent to all participants"
+    },
+    "cancelBtn": "Cancel",
+    "submitBtn": "Submit",
+    "successDialog": {
+      "title": "Settings have been successfully changed",
+      "content": "Success! Your email settings have been changed.",
+      "btn": "OK"
+    }
+  },
+  "deleteAccount": {
+    "title": "Withdraw from study",
+    "info": "Are you sure you want to delete your account? \n This action cannot be undone.",
+    "cancelBtn": "Cancel",
+    "confirmBtn": "Withdraw",
+    "successDialog": {
+      "title": "Account deleted",
+      "content": "Success! Your account has been successfully deleted. Thank you for your contribution. You can always participate again by creating a new account.",
+      "btn": "OK"
+    }
+  }
+}

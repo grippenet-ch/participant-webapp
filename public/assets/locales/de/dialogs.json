@@ -1,0 +1,222 @@
+{
+  "loadingMsg": "Laden",
+  "login": {
+    "credentials": {
+      "title": "Anmelden",
+      "info": "",
+      "emailInputLabel": "E-Mail-Adresse",
+      "emailInputPlaceholder": "E-Mail-Adresse eingeben",
+      "passwordInputLabel": "Passwort",
+      "passwordInputPlaceholder": "Passwort eingeben",
+      "rememberMeLabel": "Login-Informationen speichern",
+      "btn": "Anmelden",
+      "passwordForgottenBtn": "Ich habe mein Passwort vergessen",
+      "signupBtn": "Ich habe noch kein Konto, ich möchte mich registrieren."
+    },
+    "verificationCode": {
+      "title": "Überprüfen Sie Ihre Identität",
+      "info": "Bitte geben Sie den sechsstelligen Code ein, den wir an Ihre E-Mail-Adresse gesendet haben. Wenn Sie den Code nicht in Ihrem Posteingang finden, überprüfen Sie bitte auch den \"Spam-Ordner\" oder fordern sie einen neuen Code mit dem Button unten an.",
+      "codeInputLabel": "Sechs-stelliger Code",
+      "codeInputPlaceholder": "Code eingeben",
+      "submitBtn": "Absenden",
+      "resendBtn": "Neuen Code anfordern"
+    },
+    "errors": {
+      "accountOrPassword": "Etwas ist schief gelaufen. Bitte überprüfen Sie Ihre E-Mail-Adresse und Ihr Passwort.",
+      "wrongCode": "Falscher Code. Bitte überprüfen Sie den Code, den wir Ihnen an Ihre E-Mail-Adresse gesendet haben.",
+      "newCodeSent": "Falscher Code. Wir haben Ihnen einen neuen Code an Ihre E-Mail-Adresse gesendet.",
+      "rateLimit": "Bitte haben Sie einen Moment Geduld, es dauert einen kurzen Moment bis Sie einen neuen Code anfordern können.",
+      "unknown": "Etwas ist schief gelaufen. Bitte überprüfen Sie Ihre Angaben oder versuchen Sie es später erneut."
+    }
+  },
+  "signup": {
+    "title": "Registrieren",
+    "info": "",
+    "emailInputLabel": "E-Mail-Adresse",
+    "emailInputPlaceholder": "E-Mail-Adresse eingeben",
+    "passwordInputLabel": "Passwort",
+    "passwordInputPlaceholder": "Passwort eingeben",
+    "confirmPasswordInputLabel": "Bitte bestätigen Sie Ihr Passwort",
+    "confirmPasswordInputPlaceholder": "Passwort erneut eingeben",
+    "informedConsentCheckbox": "Rufen Sie die <1>Datenschutzerklärung</1> auf.*",
+    "reCaptchaCookieCheckbox": "Zugriff auf <1>reCAPTCHA-Anweisung</1>.*",
+    "signupBtn": "Registrieren",
+    "loginLink": "Ich habe bereits ein Konto, ich möchte mich anmelden",
+    "reCaptchaLinks": "Diese Seite ist durch reCAPTCHA geschützt und es gelten die Google <1>Datenschutzbestimmungen</1> und <3>Dienstleistungsbedingungen</3>.",
+    "errors": {
+      "emailRules": "Die von Ihnen eingegebene Email-Adresse ist ungültig.",
+      "passwordRules": "Ihr Passwort muss aus mindestens acht Zeichen bestehen und drei der folgenden vier Elemente enthalten: Kleinbuchstaben, Großbuchstaben, Zahlen, Satzzeichen.",
+      "passwordMatch": "Die eingegebenen Passwörter stimmen nicht überein.",
+      "invalidEmail": "Ihre E-Mail-Adresse scheint falsch zu sein.",
+      "userCreationFailed": "Etwas ist schief gelaufen.",
+      "unknown": "Etwas ist schief gelaufen."
+    }
+  },
+  "privacyConsent": {
+    "title": "Datenschutz Zustimmung",
+    "acceptBtn": "Ich stimme zu",
+    "cancelBtn": "Ich stimme nicht zu"
+  },
+  "recaptchaConsent": {
+    "title": "ReCaptcha-Zustimmung",
+    "acceptBtn": "Ich stimme zu",
+    "cancelBtn": "Ich stimme nicht zu"
+  },
+  "signupSuccess": {
+    "title": "Herzlich Willkommen!",
+    "successMsg": "Ihre Anmeldung für Grippenet ist fast komplet! \n\n Bitte bestätigen Sie Ihre E-Mail-Adresse, indem Sie auf den Link in der Bestätigungs-E-Mail klicken, den wir Ihnen zugesendet haben \n Wenn Sie die entsprechende E-Mail nicht finden können, überprüfen Sie bitte auch Ihren \"Spam-Ordner\" oder fordern sie einen neuen Link mit dem Button unten an.",
+    "emailSentMsg": "Die E-Mail wurde gesendet",
+    "msgForVerifiedAccount": "Wenn Sie Ihr Konto gerade verifiziert haben, können Sie den Button unten verwenden, um diese Seite neu zu laden",
+    "reloadUser": "Verifizierung überprüfen",
+    "resendVerificationEmailBtn": "Bestätigungs-E-Mail erneut senden",
+    "wrongEmailBtn": "Haben Sie die falsche E-Mail-Adresse verwendet? Ändern Sie Ihre E-Mail-Adresse hier.",
+    "errors": {
+      "verifyEmailFirst": "Sie müssen zuerst Ihre Email-Adresse verifizieren, indem sie auf den Link in Ihrer Registrierungsemail klicken. Falls Sie die Registrierungsmail nicht finden können, nutzen Sie den Button um eine neue Email anzufordern.",
+      "unknown": "Etwas ist schief gelaufen."
+    }
+  },
+  "passwordForgotten": {
+    "title": "Passwort ändern",
+    "info": "Bitte geben Sie die E-Mail-Adresse Ihres Kontos ein",
+    "successMessage": "Bitte folgen Sie dem Link, den wir Ihnen an Ihre E-Mail-Adresse zugesendet haben \n Wenn Sie die entsprechende E-Mail nicht finden können, überprüfen Sie bitte auch Ihren \"Spam-Ordner\" oder fordern sie einen neuen Link mit dem Button unten an.",
+    "emailInputLabel": "E-Mail-Adresse",
+    "emailInputPlaceholder": "E-Mail-Adresse eingeben",
+    "submitBtn": "Passwort ändern",
+    "errors": {
+      "invalidId": "Etwas ist schief gelaufen. Bitte überprüfen Sie Ihre Angaben und Ihre Verbindung./n Sie können es erneut versuchen, wenn der Button wieder sichtbar ist.",
+      "unknown": "Etwas ist schief gelaufen. Bitte überprüfen Sie Ihre Angaben oder versuchen Sie es später erneut."
+    }
+  },
+  "changeEmail": {
+    "title": "E-Mail-Adresse ändern",
+    "emailInputLabel": "Neue E-Mail-Adresse",
+    "emailInputPlaceholder": "Geben Sie Ihre neue E-Mail-Adresse ein",
+    "passwordInputLabel": "Passwort",
+    "passwordInputPlaceholder": "Passwort eingeben",
+    "info": "Möchten Sie eine andere E-Mail-Adresse verwenden? Ändern Sie Ihre E-Mail-Adresse, indem Sie auf den Button unten klicken. Hinweis: Sie können sich erst wieder bei Grippenet anmelden, wenn Sie Ihre neue E-Mail-Adresse bestätigt haben.",
+    "cancelBtn": "Abbrechen",
+    "confirmBtn": "E-Mail-Adresse ändern",
+    "errors": {
+      "wrongPasswordOrAccountId": "Etwas ist schief gelaufen. Bitte überprüfen Sie Ihre Angaben (E-Mail-Adresse oder Passwort stimmen nicht überein).",
+      "wrongEmailFormat": "Dies ist keine gültige E-Mail-Adresse.",
+      "unknown": "Etwas ist schief gelaufen. Bitte überprüfen Sie Ihre Angaben oder versuchen Sie es später erneut."
+    },
+    "warningDialog": {
+      "title": "Bestätigen Sie Ihre neue E-Mail-Adresse",
+      "content": "Hinweis: Sie können sich erst wieder bei Grippenet anmelden, wenn Sie Ihre neue E-Mail-Adresse bestätigt haben.",
+      "cancelBtn": "Abbrechen",
+      "confirmBtn": "Bestätigen"
+    },
+    "successDialog": {
+      "title": "E-Mail-Adresse geändert",
+      "content": "Erfolgreich! Ihre E-Mail-Adresse wurde geändert.",
+      "btn": "Ok"
+    }
+  },
+  "changePassword": {
+    "title": "Passwort ändern",
+    "currentPasswordInputLabel": "Aktuelles Passwort",
+    "currentPasswordInputPlaceholder": "Aktuelles Passwort eingeben",
+    "newPasswordInputLabel": "Neues Passwort",
+    "newPasswordInputPlaceholder": "Neues Passwort eingeben",
+    "confirmPasswordInputLabel": "Bestätigen Sie Ihr neues Passwort",
+    "confirmPasswordInputPlaceholder": "Bestätigen Sie Ihr neues Passwort",
+    "info": "Aus Sicherheitsgründen müssen Sie zunächst Ihr aktuelles Passwort eingeben.",
+    "cancelBtn": "Abbrechen",
+    "confirmBtn": "Bestätigen",
+    "errors": {
+      "wrongCurrentPassword": "Falsches Passwort",
+      "passwordRules": "Ihr Passwort muss aus mindestens acht Zeichen bestehen und drei der folgenden vier Elemente enthalten: Kleinbuchstaben, Großbuchstaben, Zahlen, Satzzeichen.",
+      "passwordMatch": "Die eingegebenen Passwörter stimmen nicht überein",
+      "unknown": "Etwas ist schief gelaufen. Bitte überprüfen Sie Ihre Angaben oder versuchen Sie es später erneut."
+    },
+    "successDialog": {
+      "title": "Passwort geändert",
+      "content": "Erfolgreich! Ihr Passwort wurde geändert.",
+      "btn": "Ok"
+    }
+  },
+  "manageProfiles": {
+    "title": "Profil",
+    "mainProfileLabel": "Mein Profil",
+    "cancelBtn": "Abbrechen",
+    "newProfileBtn": "Neues Profil für Ihr Kind erstellen",
+    "warningDialog": {
+      "title": "Profil löschen",
+      "content": "Die Entfernung des Profils {{ alias }} kann nicht rückgängig gemacht werden.",
+      "cancelBtn": "Abbrechen",
+      "confirmBtn": "Profil löschen"
+    }
+  },
+  "editProfile": {
+    "new": {
+      "title": "Neues Profil",
+      "cancelBtn": "Abbrechen",
+      "submitBtn": "Neues Profil für Ihr Kind erstellen"
+    },
+    "edit": {
+      "title": "Profil bearbeiten",
+      "cancelBtn": "Abbrechen",
+      "submitBtn": "Änderungen speichern"
+    },
+    "aliasInputLabel": "Vorname oder Spitzname",
+    "aliasInputPlaceholder": "Vorname oder Spitzname eingeben",
+    "consentCheckboxLabel": "Zustimmen",
+    "consentCheckboxText": "Sie können nur für sich selbst oder als Elternteil oder gesetzliche/r Vertreter:in Ihres Kindes, das noch nicht volljährig ist, ein Profil erstellen und Fragebögen ausfüllen.",
+    "avatarSelectorLabel": "Wählen Sie ein Bild"
+  },
+  "changeLanguage": {
+    "title": "Sprachen",
+    "defaultLanguageLabel": "Standardsprache",
+    "info": "Sie können die Standardsprache hier ändern. Falls möglich, werden Ihnen auch die E-Mails in dieser Sprache gesendet.",
+    "languages": {
+      "en": "English",
+      "fr": "Français",
+      "it": "Italiano",
+      "de": "Deutsch"
+    },
+    "cancelBtn": "Abbrechen",
+    "confirmBtn": "Sprache bestätigen",
+    "errors": {
+      "emtyLanguages": "Sprachen konnten nicht geladen werden. Bitte versuchen Sie es später erneut.",
+      "unknown": "Etwas ist schief gelaufen. Bitte überprüfen Sie Ihre Angaben oder versuchen Sie es später erneut."
+    },
+    "successDialog": {
+      "title": "Sprache geändert",
+      "content": "Erfolgreich! Die Standardsprache wurde geändert.",
+      "btn": "Ok"
+    }
+  },
+  "changeNotifications": {
+    "title": "E-Mail-Einstellungen",
+    "info": "Sie können den Erhalt der wöchentlichen Erinnerungs-E-Mail oder des Newsletters abstellen.",
+    "weeklyReminder": {
+      "label": "Wöchentliche Erinnerungs-E-Mail",
+      "on": "Ich möchte die wöchentliche Erinnerungs-E-Mail erhalten.",
+      "off": "Ich möchte die wöchentliche Erinnerungs-E-Mail nicht erhalten."
+    },
+    "newsletter": {
+      "label": "E-Mail an alle Teilnehmer:innen. Manchmal ist es notwendig, allen Teilnehmer:innen eine E-Mail mit Informationen über die Studie zu senden.",
+      "on": "Ich möchte diese E-Mails erhalten.",
+      "off": "Ich möchte diese E-Mails nicht erhalten."
+    },
+    "cancelBtn": "Abbrechen",
+    "submitBtn": "Bestätigen",
+    "successDialog": {
+      "title": "Einstellungen werden geändert",
+      "content": "Erledigt! Ihre E-Mail-Einstellungen wurden geändert.",
+      "btn": "Ok"
+    }
+  },
+  "deleteAccount": {
+    "title": "Aus der Studie aussteigen",
+    "info": "Sind Sie sicher, dass Sie Ihr Konto löschen möchten? \nDieser Vorgang kann nicht rückgängig gemacht werden.",
+    "cancelBtn": "Abbrechen",
+    "confirmBtn": "Zurückziehen",
+    "successDialog": {
+      "title": "Konto gelöscht",
+      "content": "Erfolgreich! Ihr Konto wurde gelöscht. Wir danken Ihnen für Ihre Teilnahme. Sie können jederzeit wieder teilnehmen, indem Sie sich erneut für Grippenet registrieren.",
+      "btn": "Ok"
+    }
+  }
+}

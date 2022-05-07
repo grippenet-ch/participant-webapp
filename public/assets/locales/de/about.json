@@ -1,0 +1,15 @@
+{
+  "title": "Über Grippenet",
+  "signupCard": {
+    "imageAlt": "Participate image",
+    "title": "Registrieren",
+    "body": "Helfen Sie uns, das Coronavirus im Auge zu behalten. Berichten Sie uns wöchentlich, ob Sie grippeähnliche Symptome haben.",
+    "actionLabel": "Registrieren Sie sich"
+  },
+  "surveyCard": {
+    "imageAlt": "Report now!",
+    "title": "Jetzt melden!",
+    "body": "Berichten Sie uns, ob Sie grippeähnliche Symptome haben.",
+    "actionLabel": "Fragebögen"
+  }
+}

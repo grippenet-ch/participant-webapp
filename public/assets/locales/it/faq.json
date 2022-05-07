@@ -1,0 +1,125 @@
+{
+  "title": "Domande frequenti",
+  "accordionControls": {
+    "open": "Leggi di più",
+    "close": "Nascondi"
+  },
+  "topFaq": {
+    "title": "Domande frequenti su Grippenet",
+    "content": ""
+  },
+  "signupCard": {
+    "imageAlt": "Immagine partecipa",
+    "title": "Partecipa",
+    "body": "Aiutaci a tracciare la diffusione del coronavirus e dell'influenza. Segnalaci settimanalmente se stai bene o se hai qualche sintomo.",
+    "actionLabel": "Registrati"
+  },
+  "surveyCard": {
+    "imageAlt": "Report now!",
+    "title": "Compila il questionario!",
+    "body": "Informaci sul tuo stato di salute, anche se non hai sintomi.",
+    "actionLabel": "Questionari"
+  },
+  "faq": [
+    {
+      "title": "A chi è rivolto questo studio?",
+      "content": "Tutte le persone che vivono in Svizzera e che hanno accesso a Internet possono partecipare a questo studio, in modo anonimo, volontario e per tutto il tempo che lo desiderano."
+    },
+    {
+      "title": "Non ho mai avuto l'influenza, perché dovrei partecipare?",
+      "content": "Per avere un quadro il più vicino possibile alla realtà, è importante che tutti partecipino, indipendentemente dalla loro storia o dai fattori di rischio. Qualcuno che non è mai stato malato sarà altrettanto interessante per seguire l'influenza quanto qualcuno che è spesso malato. Può anche aiutarci a capire perché alcune persone sono più frequentemente colpite da sindromi \"simil-influenzali\" di altre."
+    },
+    {
+      "title": "Sono minorenne, posso partecipare allo studio?",
+      "content": "È possibile per un minore partecipare allo studio, con l'aiuto dei suoi genitori o del suo rappresentante legale. Per farlo, uno dei genitori o il rappresentante legale deve registrarsi allo studio, poi aggiungere un partecipante al suo account (tramite la scheda \"Manage my household\"), e completare il primo questionario preliminare con il/la bambino/a. Il/la bambino/a può quindi compilare i questionari da solo, a condizione che l'adulto gli dia accesso al suo account."
+    },
+    {
+      "title": "Non sono svizzero, posso partecipare allo studio?",
+      "content": "Certo che puoi! Grippenet.ch s’interessa alla situazione dell'influenza per coloro che risiedono in Svizzera indipendentemente dalla cittadinanza, ed è per questo che chiunque viva in Svizzera può partecipare allo studio."
+    },
+    {
+      "title": "Sono un espatriato svizzero, sono interessato da questo studio?",
+      "content": "Purtroppo no! Solo le persone che vivono in Svizzera possono partecipare a questo studio. Ma se vivete in Danimarca, Francia, Germania, Italia, Irlanda, Portogallo, Spagna, Svezia, Regno Unito, Paesi Bassi o Belgio, esistono sistemi equivalenti per ognuno di questi paesi."
+    },
+    {
+      "title": "Sono stato vaccinato contro l'influenza stagionale o Covid-19 quest'anno, posso partecipare a questo studio?",
+      "content": "Lo studio Grippenet.ch si rivolge a tutte le persone che vivono in Svizzera, che siano state o meno vaccinate contro l'influenza stagionale o il Covid-19. Potete quindi partecipare! Lo studio permette di studiare l'efficacia dei vaccini."
+    },
+    {
+      "title": "Come posso iscrivermi?",
+      "content": "Per iscriverti, clicca su \"registrati\" in alto a destra della pagina.  Prima ti verrà chiesto di scegliere un nome utente di tuo gradimento (che può essere diverso dal tuo nome o cognome), scegliere una password e fornire un indirizzo email valido. Un link di attivazione sarà quindi inviato al tuo indirizzo e-mail. Per attivare il tuo account, clicca semplicemente sul link di attivazione. Potrai quindi accedere al tuo spazio personale sul sito, inserendo il tuo nome utente e la tua password."
+    },
+    {
+      "title": "Devo dare il mio nome per partecipare?",
+      "content": "No, il sondaggio è completamente anonimo. Per registrarsi, è necessario fornire un indirizzo e-mail valido, scegliere un nome utente e una password. Il tuo indirizzo e-mail non sarà associato ai tuoi dati durante l'analisi, quindi non ci sarà modo di identificarti durante lo studio."
+    },
+    {
+      "title": "Se mi registro, il mio indirizzo email sarà condiviso con qualche organizzazione?",
+      "content": "No. Il tuo indirizzo email sarà usato solo per inviarti una newsletter settimanale, dandoti informazioni sull'influenza, e il link per completare il tuo questionario settimanale. Non sarà condiviso con organizzazioni terze."
+    },
+    {
+      "title": "Quanto tempo mi ci vorrà per partecipare allo studio?",
+      "content": "La registrazione e la compilazione del primo questionario (informazioni di base sul tuo profilo) richiede circa 5 minuti. Compilare il questionario settimanale richiederà quindi tra 30 secondi (se non avete avuto sintomi) e un massimo di 5 minuti (se siete stati malati)."
+    },
+    {
+      "title": "Quanto dura lo studio?",
+      "content": "Lo studio non ha una data di fine al momento, ma puoi smettere di partecipare in qualsiasi momento cancellando la tua iscrizione sul sito web. Questo non vi impedirà di registrarvi nuovamente in seguito, se cambiate idea. Ogni inverno, il monitoraggio di Grippenet.ch inizia un po' prima dell'inizio dell'epidemia d'influenza e si ferma qualche settimana dopo la fine dell'epidemia."
+    },
+    {
+      "title": "Guadagnerò soldi partecipando allo studio? O mi costerà denaro?",
+      "content": "Nessuno dei due. Lo studio non vi farà guadagnare, ma non vi costerà nemmeno. La partecipazione allo studio è gratuita e volontaria."
+    },
+    {
+      "title": "Cosa succede una volta che mi sono registrato?",
+      "content": "Una volta attivato il tuo account, ti verrà chiesto di completare un questionario preliminare. Questo questionario ti sarà proposto una sola volta, ma potrai ritornarci in qualsiasi momento durante lo studio e cambiarlo se la tua situazione personale è cambiata. Ti verrà poi chiesto di completare un questionario settimanale sulla presenza o assenza di sintomi influenzali, per il quale riceverai un link via e-mail. Sei libero di riempire i questionari settimanali al ritmo che preferisci, ma idealmente dovresti riempirne uno ogni settimana per lo studio."
+    },
+    {
+      "title": "Quali domande sono poste nel questionario di profilo?",
+      "content": "Lo scopo del questionario di profilo è quello di conoscere un po' meglio il profilo di ogni utente e riguardano l'età, l'attività professionale, il luogo di residenza, il luogo di lavoro o di studio, la composizione della famiglia, il mezzo principale di spostamento, gli animali domestici presenti in casa, lo stato di vaccinazione per l'influenza o COVID-19, le allergie, ecc. Per la maggior parte delle domande, hai la possibilità di non rispondere, scegliendo la risposta \"Non so\". La compilazione del questionario di profilo richiede circa 5 minuti."
+    },
+    {
+      "title": "Quali domande sono poste nel questionario settimanale?",
+      "content": "Il questionario settimanale include domande su qualsiasi sintomo che potresti aver avuto dall'ultimo accesso (naso che cola, tosse, febbre, ecc.). Se non avete avuto alcun sintomo, ci vogliono solo pochi secondi per completarlo. Se ha avuto dei sintomi, le verranno chiesti dei dettagli, per esempio quando sono iniziati i sintomi, se ha visto un medico o se si è assentato dal lavoro. La compilazione del questionario richiede dai 3 ai 5 minuti."
+    },
+    {
+      "title": "Posso compilare il questionario per qualcun altro?",
+      "content": "Sì, è possibile. Nei paesi europei che già monitorano l'influenza via Internet, la maggior parte dei partecipanti ha un'età compresa tra i 20 e i 65 anni. Questo significa che si sa poco sulla situazione dell'influenza nei bambini e negli anziani, anche se gli anziani sono i più vulnerabili all'infezione da questo virus. Vi incoraggiamo quindi a compilare i questionari per i vostri bambini e le persone anziane che vivono nella vostra famiglia, dopo averli interpellati e aver ottenuto il loro consenso. È facile aggiungere un nuovo partecipante al tuo account (basta andare alla pagina \"Manage my household\" e cliccare su \"Add a new participant\"), e il sito ti fornirà un riassunto dei sintomi che si sono verificati nei tuoi cari dopo la loro partecipazione."
+    },
+    {
+      "title": "Vado in vacanza, devo compilare il mio questionario settimanale?",
+      "content": "Non necessariamente. Potete riempire i questionari con la frequenza che più vi aggrada. Più frequentemente si partecipa, più interessanti sono i dati raccolti, ma anche qualcuno che partecipa solo ogni due settimane è utile per lo studio."
+    },
+    {
+      "title": "Non ho avuto alcun sintomo questa settimana, devo compilare il questionario settimanale?",
+      "content": "Sì. Per avere un quadro affidabile della situazione delle malattie influenzali in Svizzera, è importante avere dati sia sulle persone malate che su quelle sane. Se non sei malato, compilare il questionario richiede solo pochi secondi."
+    },
+    {
+      "title": "Sono malato, mi verrà data una diagnosi se partecipo allo studio?",
+      "content": "No, assolutamente. La tua partecipazione ti permette di fare il punto sui sintomi che hai, ma non sostituisce una visita al tuo medico di base, che sarà in grado di fornirti una risposta medica appropriata. Il sito non sostituisce quindi mai la consulenza medica, ma fornisce consigli pratici su come proteggersi dall'influenza o dal COVID-19 quando non si è ancora malati."
+    },
+    {
+      "title": "Ho una malattia cronica che causa alcuni dei sintomi menzionati nel questionario settimanale, cosa devo compilare?",
+      "content": "Alcune malattie croniche causano sintomi che sono presenti nel questionario settimanale. Per Grippenet.ch, questi sintomi non devono essere riportati se sono abituali, ma devono essere menzionati se i sintomi sono cambiati recentemente. Per esempio, se hai i reumatismi, spunta la casella \"dolore alle articolazioni\" solo se è peggiorato di recente o è diverso da quello che provi di solito."
+    },
+    {
+      "title": "Sono già stato infettato da COVID-19, è utile e possibile per me partecipare allo studio?",
+      "content": "Sì, è possibile e interessante che lo studio abbia partecipanti che hanno già contratto COVID-19."
+    },
+    {
+      "title": "Perché non ho ricevuto un'email di attivazione all'indirizzo email che ho dato quando mi sono registrato?",
+      "content": "L'email di attivazione può talvolta arrivare nella cartella \"junk\" o \"spam\" della tua email. Se hai controllato la tua cartella \"spam\" e non hai ricevuto l'email di attivazione, ti invitiamo a registrarti di nuovo, controllando che l'indirizzo email che hai dato sia scritto senza errori di ortografia. Se questo non funziona ancora, contattaci."
+    },
+    {
+      "title": "Ho ricevuto una mail di attivazione, ma il link non funziona. Cosa devo fare?",
+      "content": "Prova a copiare e incollare il link direttamente nella barra delle applicazioni del tuo browser, assicurandoti che il link sia stato copiato per intero. Se questo ancora non funziona, probabilmente sarai portato ad una pagina che ti chiede di inserire il tuo indirizzo email per ricevere un nuovo link di attivazione. Se ancora non funziona, contattaci."
+    },
+    {
+      "title": "Ho ricevuto un'email di attivazione, sono riuscito ad attivare il mio account con successo, ma non riesco ad accedere con il mio login e la mia password. Come posso accedere con successo?",
+      "content": "La causa più probabile del problema è che il login o la password inseriti quando ti sei registrato non sono gli stessi di quelli che stai cercando di inserire ora. Per verificarlo, clicca su \"dimentica la password\". Potrai quindi inserire il tuo indirizzo email, e riceverai un'email che ti ricorderà il tuo nome utente e ti darà un link per scegliere una nuova password (puoi inserire la stessa di quella vecchia). Dovreste quindi essere in grado di accedere senza problemi. Se ancora non funziona, contattaci."
+    },
+    {
+      "title": "I miei dati sono sicuri?",
+      "content": "Prendiamo molto sul serio la sicurezza dei dati dei partecipanti. Il sistema è soggetto a requisiti rigorosi, anche nelle aree della privacy e della sicurezza delle informazioni. Il sistema è stato accuratamente testato in termini di sicurezza, privacy e capacità da parti esterne all'Università di Hasselt. I rischi per i diritti e le libertà di coloro i cui dati personali sono trattati sono stati attentamente valutati."
+    }
+  ]
+}

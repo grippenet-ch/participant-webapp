@@ -1,0 +1,81 @@
+{
+  "title": "Grippenet",
+  "loginCard": {
+    "title": "Se connecter",
+    "info": "",
+    "emailInputLabel": "E-mail",
+    "emailInputPlaceholder": "Entrer l'e-mail",
+    "passwordInputLabel": "Mot de passe",
+    "passwordInputPlaceholder": "Entrer le mot de passe",
+    "rememberMeLabel": "Enregistrer mes informations",
+    "btn": "Se connecter",
+    "passwordForgottenBtn": "J'ai oublié mon mot de passe",
+    "signupBtn": "Je n'ai pas encore de compte, je souhaite m'inscrire"
+  },
+  "logoCredits": {
+    "title": "Nos parrains"
+  },
+  "currentResultCard": {
+    "imageAlt": "Current results image",
+    "title": "Résultats actuels",
+    "body": "Grippenet surveille la présence de symptômes grippaux, qui pourraient indiquer la présence de l'Influenza ou de la COVID-19.",
+    "actionLabel": "Résultats actuels"
+  },
+  "signupCard": {
+    "imageAlt": "Participate image",
+    "title": "Participer",
+    "body": "Aidez-nous à surveiller la grippe et la COVID-19. Signalez chaque semaine si vous avez des symptômes.",
+    "actionLabel": "S'inscrire"
+  },
+  "aboutCard": {
+    "imageAlt": "About Grippenet image",
+    "title": "Concernant Grippenet",
+    "body": "Avec Grippenet, nous surveillons la propagation des symptômes grippaux à travers la Suisse. Il s'agit d'un outil de surveillance épidémiologique utilisé pour surveiller la propagation des virus.",
+    "actionLabel": "En savoir plus"
+  },
+  "infoCard": {
+    "imageAlt": "The science of viruses",
+    "title": "La science des virus",
+    "body": "Que sont l'Influenza et la COVID-19 ? Comment ces virus se propagent-ils et quel est le rôle de la recherche scientifique ?",
+    "actionLabel": "En savoir plus"
+  },
+  "newsCard": {
+    "imageAlt": "Latest updates from Infuweb",
+    "title": "Dernières nouvelles de Grippenet",
+    "body": "Nous publions régulièrement des mises à jour et des bulletins d'information sur la pandémie de COVID-19 et sur la saison de la grippe.",
+    "actionLabel": "En savoir plus"
+  },
+  "references": {
+    "title": "En savoir plus",
+    "faqLink": "Questions fréquentes",
+    "aboutLink": "Concernant Grippenet",
+    "resultsLink": "Résultats actuels"
+  },
+  "settingsReferences": {
+    "title": "Réglages rapides",
+    "profileSettings": "Gérer le(s) profil(s)",
+    "communicationSettings": "Rappel par e-mail",
+    "languageSettings": "Langues"
+  },
+  "supportReferences": {
+    "title": "Nous soutenir",
+    "supportLink": "Information"
+  },
+  "surveyList": {
+    "requiredSurveys": {
+      "title": "Questionnaires à remplir",
+      "info": "Les différents questionnaires de l'étude sont disponibles ici.",
+      "successMsg": "Merci beaucoup ! Vous avez rempli tous les questionnaires. Nous espérons avoir de vos nouvelles la semaine prochaine. Si vous souhaitez fournir de nouvelles informations plus tôt, vous pourrez remplir à nouveau le questionnaire dans quelques heures."
+    },
+    "optionalSurveys": {
+      "title": "Modifier les informations de base",
+      "info": "Si votre situation a changé, vous pouvez remplir à nouveau le(s) questionnaire(s) ci-dessous. Malheureusement, nous ne pouvons pas vous montrer les informations que vous avez saisies la dernière fois, ni vous permettre de modifier vos réponses à des questions spécifiques uniquement.",
+      "hideBtn": "Fermer",
+      "showBtn": "Vos informations de base ont-elles changé ?"
+    }
+  },
+  "teaserImage": {
+    "title": "Bienvenue sur Grippenet",
+    "content": "Commencez par vous inscrire pour participer à l'étude."
+  }
+}

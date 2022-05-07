@@ -1,0 +1,59 @@
+{
+  "columns": [
+    {
+      "columnKey": "services",
+      "items": [
+        {
+          "type": "internal",
+          "itemKey": "contact",
+          "value": "/contact"
+        }
+      ]
+    },
+    {
+      "columnKey": "about",
+      "items": [
+        {
+          "type": "internal",
+          "itemKey": "privacy",
+          "value": "/privacy"
+        },
+        {
+          "type": "internal",
+          "itemKey": "disclaimer",
+          "value": "/disclaimer"
+        },
+        {
+          "type": "internal",
+          "itemKey": "accessibility",
+          "value": "/accessibility"
+        }
+      ]
+    },
+    {
+      "columnKey": "languages",
+      "items": [
+        {
+          "type": "language",
+          "itemKey": "it",
+          "value": "it"
+        },
+        {
+          "type": "language",
+          "itemKey": "fr",
+          "value": "fr"
+        },
+        {
+          "type": "language",
+          "itemKey": "de",
+          "value": "de"
+        },
+        {
+          "type": "language",
+          "itemKey": "en",
+          "value": "en"
+        }
+      ]
+    }
+  ]
+}

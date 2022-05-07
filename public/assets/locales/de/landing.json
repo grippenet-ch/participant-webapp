@@ -1,0 +1,81 @@
+{
+  "title": "Grippenet",
+  "loginCard": {
+    "title": "Anmelden",
+    "info": "",
+    "emailInputLabel": "E-Mail-Adresse",
+    "emailInputPlaceholder": "E-Mail-Adresse eingeben",
+    "passwordInputLabel": "Passwort",
+    "passwordInputPlaceholder": "Passwort eingeben",
+    "rememberMeLabel": "Login speichern",
+    "btn": "Anmeldung",
+    "passwordForgottenBtn": "Ich habe mein Passwort vergessen",
+    "signupBtn": "Ich habe noch kein Konto, ich möchte mich registrieren"
+  },
+  "logoCredits": {
+    "title": "Sponsoren"
+  },
+  "currentResultCard": {
+    "imageAlt": "Current results image",
+    "title": "Aktuelle Ergebnisse",
+    "body": "Grippenet registriert grippeähnliche Symptome, die auf Influenza oder COVID-19 hindeuten können.",
+    "actionLabel": "Aktuelle Ergebnisse"
+  },
+  "signupCard": {
+    "imageAlt": "Participate image",
+    "title": "Teilnehmen",
+    "body": "Helfen Sie uns, das Coronavirus im Auge zu behalten. Berichten Sie uns wöchentlich, ob Sie grippeähnliche Symptome haben.",
+    "actionLabel": "Registrieren"
+  },
+  "aboutCard": {
+    "imageAlt": "About Grippenet image",
+    "title": "Über Grippenet",
+    "body": "Mit Grippenet überwachen wir die Ausbreitung von grippeähnlichen Symptomen in der ganzen Schweiz. Dabei handelt es sich um ein epidemiologisches Überwachungsinstrument, das zur Überwachung der Ausbreitung von Influenza- und COVID-19-Viren eingesetzt wird.",
+    "actionLabel": "Mehr erfahren"
+  },
+  "infoCard": {
+    "imageAlt": "Die Wissenschaft der Viren (Virologie)",
+    "title": "Die Wissenschaft der Viren (Virologie)",
+    "body": "Was sind COVID-19 und Influenza, wie verbreiten sie sich und welche Rolle spielt die wissenschaftliche Forschung in ihrer Bekämpfung und Prävention?",
+    "actionLabel": "Mehr erfahren"
+  },
+  "newsCard": {
+    "imageAlt": "Neuste Updates von Grippenet",
+    "title": "Neuste Updates von Grippenet",
+    "body": "Wir veröffentlichen regelmäßig Updates über die anhaltende COVID-19-Pandemie und die Grippesaison.",
+    "actionLabel": "Mehr erfahren"
+  },
+  "references": {
+    "title": "Mehr erfahren",
+    "faqLink": "Häufig gestellte Fragen",
+    "aboutLink": "Über Grippenet",
+    "resultsLink": "Aktuelle Ergebnisse"
+  },
+  "settingsReferences": {
+    "title": "Schnelleinstellungen",
+    "profileSettings": "Profile verwalten",
+    "communicationSettings": "E-Mail-Erinnerungen",
+    "languageSettings": "Sprachen"
+  },
+  "supportReferences": {
+    "title": "Unterstützen Sie uns",
+    "supportLink": "Informationen"
+  },
+  "surveyList": {
+    "requiredSurveys": {
+      "title": "Auszufüllende Fragebögen",
+      "info": "Die verschiedenen Fragebögen für die Studie finden Sie hier.",
+      "successMsg": "Wir danken Ihnen! Sie haben alle Fragebögen ausgefüllt. Wir hoffen, nächste Woche wieder von Ihnen zu hören. Falls Sie früher neue Informationen über Ihre Symptomslage bereitstellen möchten, können Sie den Fragebogen in wenigen Stunden erneut ausfüllen."
+    },
+    "optionalSurveys": {
+      "title": "Eingegebene Informationen ändern",
+      "info": "Wenn sich Ihre Symptomslage verändert hat, können Sie die nachstehenden Fragebögen erneut ausfüllen. Leider können wir Ihnen die Informationen, die Sie beim letzten Mal eingegeben haben, nicht zeigen. Sie können Ihre Antworten nur auf bestimmte Fragen ändern.",
+      "hideBtn": "Ausblenden",
+      "showBtn": "Haben sich Ihre eingegebenen Informationen geändert?"
+    }
+  },
+  "teaserImage": {
+    "title": "Willkommen bei Grippenet",
+    "content": "Melden Sie sich an, um an der Studie teilzunehmen."
+  }
+}

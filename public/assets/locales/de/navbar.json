@@ -1,0 +1,17 @@
+{
+  "home": "Startseite",
+  "authhome": "Mein Grippenet",
+  "results": "Aktuelle Ergebnisse",
+  "about": "Über Grippenet",
+  "faq": "Häufig gestellte Fragen",
+  "news": "Neuigkeiten",
+  "login": "Anmelden",
+  "signup": "Registrieren",
+  "rightMenu": {
+    "settings": "Einstellungen",
+    "logout": "Abmelden",
+    "verified": "Konto nicht verifiziert"
+  },
+  "exitSurveyMode": "Abbrechen",
+  "selectedProfilePrefixInSurveyMode": "Ich antworte für: "
+}

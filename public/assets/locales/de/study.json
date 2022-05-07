@@ -1,0 +1,30 @@
+{
+  "title": "Grippenet",
+  "topImage": {
+    "title": "",
+    "content": "Mit Ihrer Teilnahme an Grippenet tragen Sie dazu bei, die Ausbreitung von Infektionskrankheiten einzudämmen, indem wir uns schnell einen Überblick über die aktuelle Situation in der Schweiz verschaffen können."
+  },
+  "requiredSurveys": {
+    "title": "Auszufüllende Fragebögen",
+    "info": "Die verschiedenen Fragebögen für die Studie finden Sie hier.",
+    "successMsg": "Herzlichen Dank! Sie haben alle Fragebögen ausgefüllt. Wir hoffen, nächste Woche wieder von Ihnen zu hören. Falls Sie schon früher neue Angaben über Ihre Symptomslage machen möchten, können Sie den Fragebogen in wenigen Stunden erneut ausfüllen."
+  },
+  "optionalSurveys": {
+    "title": "Eingegebene Informationen ändern",
+    "info": "Wenn sich Ihre Symptomslage verändert hat, können Sie die nachstehenden Fragebögen erneut ausfüllen. Leider können wir Ihnen die Informationen, die Sie beim letzten Mal eingegeben haben, nicht zeigen. Zudem können Sie Ihre Antworten nur auf bestimmte Fragen ändern.",
+    "showBtn": "Haben sich Ihre eingegebenen Informationen geändert?",
+    "hideBtn": "Ausblenden"
+  },
+  "referencesBox": {
+    "title": "Siehe auch",
+    "faqLink": "Häufig gestellte Fragen",
+    "resultsLink": "Aktuelle Ergebnisse",
+    "aboutLink": "Über Grippenet"
+  },
+  "quickSettingsBox": {
+    "title": "Einstellungen",
+    "manageProfiles": "Fügen Sie das Profil Ihres Kindes hinzu oder ändern Sie Ihr eigenes Profil.",
+    "emailReminders": "Kommunikationseinstellungen ändern",
+    "language": "Sprache"
+  }
+}

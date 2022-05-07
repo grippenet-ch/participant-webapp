@@ -1,0 +1,15 @@
+{
+  "title": "About Grippenet",
+  "signupCard": {
+    "imageAlt": "Participate image",
+    "title": "Sign up",
+    "body": "Help us keep an eye on Influenza and COVID-19. Report weekly whether you experience any flu-like symptoms.",
+    "actionLabel": "Sign up"
+  },
+  "surveyCard": {
+    "imageAlt": "Report now!",
+    "title": "Report now!",
+    "body": "Report now whether you experience any flu-like symptoms.",
+    "actionLabel": "Questionnaires"
+  }
+}

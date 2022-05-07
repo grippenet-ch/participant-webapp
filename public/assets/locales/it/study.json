@@ -1,0 +1,30 @@
+{
+  "title": "Grippenet",
+  "topImage": {
+    "title": "",
+    "content": "Partecipando a Grippenet contribuisci a creare la mappa della diffusione delle malattie infettive, permettendoci di vedere rapidamente la situazione attuale in Svizzera."
+  },
+  "requiredSurveys": {
+    "title": "Questionari da completare",
+    "info": "I diversi questionari per lo studio possono essere trovati qui.",
+    "successMsg": "Grazie! Hai completato tutti i questionari. Speriamo di avere tue notizie la prossima settimana. Nel caso in cui desideri fornire nuove informazioni prima, puoi ripetere il questionario tra poche ore."
+  },
+  "optionalSurveys": {
+    "title": "Cambia i questionari di profilo",
+    "info": "Se la tua situazione è cambiata, puoi completare nuovamente i questionari di profilo elencati qui sotto. Sfortunatamente, non possiamo mostrarti le informazioni che hai inserito l'ultima volta o consentirti di modificare le tue risposte solo a domande specifiche.",
+    "showBtn": "Vuoi cambiare i tuoi dati di profilo?",
+    "hideBtn": "Nascondi"
+  },
+  "referencesBox": {
+    "title": "Vedi anche",
+    "faqLink": "Domande frequenti",
+    "resultsLink": "Risultati aggiornati",
+    "aboutLink": "Il progetto Grippenet"
+  },
+  "quickSettingsBox": {
+    "title": "Impostazioni rapide",
+    "manageProfiles": "Aggiungi il profilo di tuo/a figlio/a o modifica il tuo profilo",
+    "emailReminders": "Modifica impostazioni di comunicazione",
+    "language": "Lingua"
+  }
+}

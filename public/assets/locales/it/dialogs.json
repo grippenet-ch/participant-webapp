@@ -1,0 +1,222 @@
+{
+  "loadingMsg": "Caricamento in corso",
+  "login": {
+    "credentials": {
+      "title": "Accedi",
+      "info": "",
+      "emailInputLabel": "E-mail",
+      "emailInputPlaceholder": "Inserisci l'e-mail",
+      "passwordInputLabel": "Password",
+      "passwordInputPlaceholder": "Inserisci la password",
+      "rememberMeLabel": "Rimani connesso",
+      "btn": "Accedi",
+      "passwordForgottenBtn": "Ho dimenticato la mia password",
+      "signupBtn": "Non ho ancora un account, voglio registrarmi"
+    },
+    "verificationCode": {
+      "title": "Verifica la tua identità",
+      "info": "Inserisci il codice a sei cifre che abbiamo inviato al tuo indirizzo email. Se non lo trovi nella tua casella di posta, controlla anche la cartella SPAM o invia un nuovo codice con il pulsante qui sotto.",
+      "codeInputLabel": "Codice di verifica a 6 cifre",
+      "codeInputPlaceholder": "Inserisci il tuo codice",
+      "submitBtn": "Invia",
+      "resendBtn": "Invia un nuovo codice"
+    },
+    "errors": {
+      "accountOrPassword": "Qualcosa è andato storto. Controlla il tuo indirizzo e-mail e la password.",
+      "wrongCode": "Codice errato. Controlla il codice che ti abbiamo inviato via e-mail.",
+      "newCodeSent": "Codice errato. Ti abbiamo inviato un nuovo codice via e-mail.",
+      "rateLimit": "Dovrai attendere un po' prima di poter richiedere un nuovo codice.",
+      "unknown": "Qualcosa è andato storto. Controlla le tue informazioni o riprova più tardi."
+    }
+  },
+  "signup": {
+    "title": "Registrati",
+    "info": "",
+    "emailInputLabel": "E-mail",
+    "emailInputPlaceholder": "Inserisci l'e-mail",
+    "passwordInputLabel": "Password",
+    "passwordInputPlaceholder": "Inserisci la password",
+    "confirmPasswordInputLabel": "Conferma password",
+    "confirmPasswordInputPlaceholder": "Inserisci nuovamente la password",
+    "informedConsentCheckbox": "Accedi all'<1>dichiarazione sulla privacy</1>.*",
+    "reCaptchaCookieCheckbox": "Accedi all'<1>istruzione reCAPTCHA</1>.*",
+    "signupBtn": "Registrati",
+    "loginLink": "Ho già un account, voglio accedere",
+    "reCaptchaLinks": "Questo sito è protetto da reCAPTCHA e si applicano le <1>Norme sulla privacy</1> e i <3>Termini di servizio</3> di Google.",
+    "errors": {
+      "emailRules": "L'indirizzo mail che hai inserito non è valido.",
+      "passwordRules": "La tua password deve avere almeno 8 caratteri e contenere 3 dei seguenti 4 elementi: lettere minuscole, maiuscole, numeri, segni di punteggiatura.",
+      "passwordMatch": "Le password non sono le stesse",
+      "invalidEmail": "Il tuo indirizzo e-mail sembra non essere corretto",
+      "userCreationFailed": "Qualcosa è andato storto.",
+      "unknown": "Qualcosa è andato storto."
+    }
+  },
+  "privacyConsent": {
+    "title": "Consenso Privacy",
+    "acceptBtn": "Acconsento",
+    "cancelBtn": "Non acconsento"
+  },
+  "recaptchaConsent": {
+    "title": "Consenso ReCaptcha",
+    "acceptBtn": "Acconsento",
+    "cancelBtn": "Non acconsento"
+  },
+  "signupSuccess": {
+    "title": "Benvenuto!",
+    "successMsg": "Sei quasi iscritto a Grippenet! \n\n Per favore, conferma il tuo indirizzo e-mail facendo clic sul link nell'e-mail di conferma che ti abbiamo inviato \n Se non riesci a trovare l'e-mail, prima controlla la tua cartella spam. Puoi anche richiedere una nuova e-mail qui sotto.",
+    "emailSentMsg": "L'e-mail è stata inviata",
+    "msgForVerifiedAccount": "Se hai già verificato il tuo account, usa il pulsante qui sotto per ricaricare la pagina.",
+    "reloadUser": "Ricontrolla la verifica",
+    "resendVerificationEmailBtn": "Reinvia e-mail di conferma",
+    "wrongEmailBtn": "Hai usato l'indirizzo e-mail sbagliato? Allora cambialo qui.",
+    "errors": {
+      "verifyEmailFirst": "Per favore, verifica il tuo indirizzo e-mail utilizzando il link che ti abbiamo spedito in fase di registrazione. Se non riesci a trovarlo, per favore richiedi un nuovo link usando il pulsante qui sopra.",
+      "unknown": "Qualcosa è andato storto."
+    }
+  },
+  "passwordForgotten": {
+    "title": "Cambia la password",
+    "info": "Inserisci l'indirizzo e-mail del tuo account",
+    "successMessage": "Segui il link nell'e-mail che ti abbiamo inviato all'indirizzo sottostante.\n Se non hai ricevuto l'e-mail, controlla la cartella della posta indesiderata o riprova se possibile.",
+    "emailInputLabel": "E-mail",
+    "emailInputPlaceholder": "Inserisci l'e-mail",
+    "submitBtn": "Cambia la password",
+    "errors": {
+      "invalidId": "Qualcosa è andato storto. Controlla il tuo indirizzo e-mail o la connessione./n Puoi fare un altro tentativo quando il pulsante sarà di nuovo visibile.",
+      "unknown": "Qualcosa è andato storto. Controlla le tue informazioni o riprova più tardi."
+    }
+  },
+  "changeEmail": {
+    "title": "Cambia indirizzo e-mail",
+    "emailInputLabel": "Nuovo indirizzo e-mail",
+    "emailInputPlaceholder": "Inserisci un nuovo indirizzo e-mail",
+    "passwordInputLabel": "Password",
+    "passwordInputPlaceholder": "Inserisci la password",
+    "info": "Vuoi utilizzare un indirizzo e-mail diverso? Cambia il tuo indirizzo e-mail facendo clic sul pulsante in basso. Nota: non puoi accedere nuovamente a Grippenet finché non hai confermato l'indirizzo e-mail.",
+    "cancelBtn": "Annulla",
+    "confirmBtn": "Cambia indirizzo e-mail",
+    "errors": {
+      "wrongPasswordOrAccountId": "Qualcosa è andato storto. Controlla le tue informazioni (l'indirizzo e-mail o la password potrebbero essere sbagliati).",
+      "wrongEmailFormat": "Indirizzo e-mail non valido.",
+      "unknown": "Qualcosa è andato storto. Controlla le tue informazioni o riprova più tardi."
+    },
+    "warningDialog": {
+      "title": "Conferma nuovo indirizzo e-mail",
+      "content": "Nota: non puoi accedere nuovamente a Grippenet finché non hai confermato il nuovo indirizzo e-mail tramite il link nell'e-mail di conferma che ti abbiamo inviato.",
+      "cancelBtn": "Annulla",
+      "confirmBtn": "Conferma"
+    },
+    "successDialog": {
+      "title": "Indirizzo e-mail cambiato",
+      "content": "Successo! Il tuo indirizzo e-mail è stato modificato.",
+      "btn": "Ok"
+    }
+  },
+  "changePassword": {
+    "title": "Cambia la password",
+    "currentPasswordInputLabel": "Password corrente",
+    "currentPasswordInputPlaceholder": "Inserisci la password",
+    "newPasswordInputLabel": "Nuova password",
+    "newPasswordInputPlaceholder": "Inserisci la nuova password",
+    "confirmPasswordInputLabel": "Conferma la nuova password",
+    "confirmPasswordInputPlaceholder": "Conferma la nuova password",
+    "info": "Per motivi di sicurezza, devi prima fornire la tua password attuale.",
+    "cancelBtn": "Annulla",
+    "confirmBtn": "Conferma",
+    "errors": {
+      "wrongCurrentPassword": "Password errata",
+      "passwordRules": "La tua password deve avere almeno 8 caratteri e contenere 3 dei seguenti 4 elementi: lettere minuscole, maiuscole, numeri, segni di punteggiatura.",
+      "passwordMatch": "Le password non sono le stesse",
+      "unknown": "Qualcosa è andato storto. Controlla le tue informazioni o riprova più tardi."
+    },
+    "successDialog": {
+      "title": "Password modificata",
+      "content": "Tutto ok! La tua password è stata modificata",
+      "btn": "Ok"
+    }
+  },
+  "manageProfiles": {
+    "title": "Profili",
+    "mainProfileLabel": "Io",
+    "cancelBtn": "Annulla",
+    "newProfileBtn": "Nuovo profilo per tuo/a figlio/a o per un tuo familiare",
+    "warningDialog": {
+      "title": "Elimina profilo",
+      "content": "La rimozione del profilo {{ alias }} non può essere annullata.",
+      "cancelBtn": "Annulla",
+      "confirmBtn": "Elimina profilo"
+    }
+  },
+  "editProfile": {
+    "new": {
+      "title": "Nuovo profilo",
+      "cancelBtn": "Annulla",
+      "submitBtn": "Crea un profilo per tuo/a figlio/a o per un tuo familiare"
+    },
+    "edit": {
+      "title": "Modifica profilo",
+      "cancelBtn": "Annulla",
+      "submitBtn": "Salva modifiche"
+    },
+    "aliasInputLabel": "Soprannome",
+    "aliasInputPlaceholder": "Soprannome",
+    "consentCheckboxLabel": "Consenso",
+    "consentCheckboxText": "Puoi creare un profilo e compilare questionari solo per te stesso o come genitore o rappresentante legale di tuo/a figlio/a che non ha ancora compiuto 18 anni. Se compili un questionario per una terza persona, dichiari di avere il consenso esplicito di questa persona.",
+    "avatarSelectorLabel": "Scegli un'immagine"
+  },
+  "changeLanguage": {
+    "title": "Lingue",
+    "defaultLanguageLabel": "Lingua predefinita",
+    "info": "Qui puoi cambiare la lingua predefinita. Se disponibile, anche le e-mail verranno inviate in questa lingua.",
+    "languages": {
+      "en": "English",
+      "fr": "Français",
+      "it": "Italiano",
+      "de": "Deutsch"
+    },
+    "cancelBtn": "Annulla",
+    "confirmBtn": "Conferma lingua",
+    "errors": {
+      "emtyLanguages": "Impossibile caricare le lingue. Riprova più tardi",
+      "unknown": "Qualcosa è andato storto. Controlla le tue informazioni o riprova più tardi."
+    },
+    "successDialog": {
+      "title": "Lingua modificata",
+      "content": "Tutto ok! La lingua predefinita è cambiata.",
+      "btn": "Ok"
+    }
+  },
+  "changeNotifications": {
+    "title": "Impostazioni e-mail",
+    "info": "Puoi scegliere di non ricevere più l'e-mail di promemoria settimanale o la newsletter.",
+    "weeklyReminder": {
+      "label": "E-mail di promemoria settimanale",
+      "on": "Vorrei ricevere l'e-mail di promemoria settimanale",
+      "off": "Non ricevere l'e-mail di promemoria settimanale"
+    },
+    "newsletter": {
+      "label": "Newsletter inviata a tutti i partecipanti. Per comunicare i risultati dello studio e aggiornamenti sull'andamendo dell'epidemia di COVID-19 e influenza, invieremo una newsletter periodica a tutti i partecipanti.",
+      "on": "Vorrei ricevere la newsletter",
+      "off": "Non ricevere la newsletter"
+    },
+    "cancelBtn": "Annulla",
+    "submitBtn": "Invia",
+    "successDialog": {
+      "title": "Le impostazioni sono state modificate",
+      "content": "Fatto! Le tue impostazioni email sono state modificate.",
+      "btn": "Ok"
+    }
+  },
+  "deleteAccount": {
+    "title": "Ritiro dallo studio",
+    "info": "Sei sicuro di voler eliminare il tuo account? \nQuesta azione non può essere annullata.",
+    "cancelBtn": "Annulla",
+    "confirmBtn": "Ritira",
+    "successDialog": {
+      "title": "Account cancellato",
+      "content": "Fatto! Il tuo account è stato cancellato. Grazie per il tuo contributo. Puoi sempre partecipare di nuovo creando un nuovo account.",
+      "btn": "Ok"
+    }
+  }
+}

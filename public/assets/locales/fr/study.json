@@ -1,0 +1,30 @@
+{
+  "title": "Grippenet",
+  "topImage": {
+    "title": "",
+    "content": "En participant à Grippenet, vous nous aidez à cartographier la propagation des maladies infectieuses (telles l'Influenza ou la COVID-19), ce qui nous permet d'évaluer rapidement la situation actuelle en Suisse."
+  },
+  "requiredSurveys": {
+    "title": "Questionnaires à remplir",
+    "info": "Les différents questionnaires de l'étude sont disponibles ici.",
+    "successMsg": "Merci beaucoup ! Vous avez rempli tous les questionnaires. Nous espérons avoir de vos nouvelles la semaine prochaine. Si vous souhaitez fournir de nouvelles informations plus tôt, vous pourrez remplir à nouveau le questionnaire dans quelques heures."
+  },
+  "optionalSurveys": {
+    "title": "Modifier les informations de base",
+    "info": "Si votre situation a changé, vous pouvez remplir à nouveau le(s) questionnaire(s) ci-dessous. Malheureusement, nous ne pouvons pas vous montrer les informations que vous avez saisies la dernière fois, ni vous permettre de modifier vos réponses à des questions spécifiques uniquement.",
+    "showBtn": "Vos informations de base ont-elles changé ?",
+    "hideBtn": "Fermer"
+  },
+  "referencesBox": {
+    "title": "A voir également",
+    "faqLink": "Questions fréquentes",
+    "resultsLink": "Résultats actuels",
+    "aboutLink": "Concernant Grippenet"
+  },
+  "quickSettingsBox": {
+    "title": "Paramètres",
+    "manageProfiles": "Ajouter le profil de mon enfant ou modifier mon propre profil",
+    "emailReminders": "Modifier les paramètres de communication",
+    "language": "Langues"
+  }
+}

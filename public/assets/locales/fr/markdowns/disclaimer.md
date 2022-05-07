@@ -1,0 +1,1 @@
+Nous nous permettons d'insister sur le fait que les différents questionnaires et la plateforme Grippenet n'ont pas comme objectif une prise en charge médicale. Si vous avez des problèmes de santé, veuillez consulter un professionnel de la santé.

@@ -1,0 +1,122 @@
+{
+  "title": "Frequently Asked Questions",
+  "accordionControls": {
+    "open": "Read more",
+    "close": "Hide"
+  },
+  "topFaq": {
+    "title": "Frequently asked questions about Grippenet",
+    "content": ""
+  },
+  "signupCard": {
+    "imageAlt": "Participate image",
+    "title": "Sign up",
+    "body": "Help us keep an eye on Influenza and COVID-19. Report weekly whether you experience any flu-like symptoms.",
+    "actionLabel": "Sign up"
+  },
+  "surveyCard": {
+    "imageAlt": "Report now!",
+    "title": "Report now!",
+    "body": "Report now whether you experience any flu-like symptoms.",
+    "actionLabel": "Questionnaires"
+  },
+  "faq": [
+    {
+      "title": "Who can participate in this study?",
+      "content": "All people currently living in Switzerland who have access to the internet can participate in this study - anonymously, voluntarily and for as long as they wish."
+    },
+    {
+      "title": "I have never had the flu (Influenza), why should I participate anyhow?",
+      "content": "In order to get a representative image as close to reality as possible it is important that as many people as possible participate in this study - regardless of their medical history or risk factors. Someone who has never been sick is just as interesting as someone who is sick often. This information can help us understand why some people are more frequently affected by \"flu-like\" diseases than others."
+    },
+    {
+      "title": "I am a minor, can I still participate in the study?",
+      "content": "Yes, but only with the consent of your parents/legal representatives. To do so, one of the parents/legal representatives has to sign up for the study, add a participant to his/her/their account (via the \"Manage my household\" tab), and fill out the first preliminary questionnaire together with the minor. The minor will then be able to fill in the weekly questionnaires himself/herself/theirself, as long as the adult gives him/her/them access to his/her/their account."
+    },
+    {
+      "title": "I am not Swiss but I live in Switzerland, can I still participate in the study?",
+      "content": "Of course! Grippenet is interested in the Influenza situation in Switzerland, which is why all people living in Switzerland can participate in the study - no matter of their nationality."
+    },
+    {
+      "title": "I am Swiss but I live abroad, does this study concern me?",
+      "content": "Unfortunately not! Only people who live in Switzerland can participate in this study. But if you live in Denmark, France, Germany, Italy, Ireland, Portugal, Spain, Sweden, the United Kingdom, the Netherlands or Belgium, equivalent systems like Grippenet exist for each of these countries where you are free to sign up to."
+    },
+    {
+      "title": "I was vaccinated against the seasonal flu (Influenza) and/or COVID-19 this year, can I still participate in this study?",
+      "content": "Grippenet is open to all people living in Switzerland, whether or not they have been vaccinated against the seasonal flu (Influenza) and/or COVID-19. The study also allows us to investigate the effectiveness of vaccines."
+    },
+    {
+      "title": "How do I sign up?",
+      "content": "To sign up, click the \"sign up\" button at the top right of this page. You will be then asked to choose a username (which can be different from your first and/or last name), to choose a password, and to give a valid email address. An activation link will then be sent to your email address. To activate your account, simply click on the activation link. You will then be able to access your personal account on the website by logging in with your username and password."
+    },
+    {
+      "title": "Do I have to provide my real name to participate?",
+      "content": "No, the study is completely anonymous. To sign up, you must simply provide a valid email address and choose a username and password. Your email address will not be linked to your data during the analysis, therefore there will be no way to identify you during the study."
+    },
+    {
+      "title": "If I sign up, will my email address be shared with any other organizations?",
+      "content": "No. Your email address will only be used to send you a weekly email with the link to complete your weekly questionnaire. It will not be shared with any third-party organizations."
+    },
+    {
+      "title": "How time-consuming is the study?",
+      "content": "Signing up and filling out the first questionnaire (basic information about your profile) takes about five minutes. Filling out the weekly questionnaire will then take between 30 seconds (if you do not experience any flu-like symptoms) and five minutes maximum (if you experience flu-like symptoms)."
+    },
+    {
+      "title": "How long does the study last?",
+      "content": "The study does not have an end date currently - but you can stop participating whenever you want by unsubscribing on the website. This will not prevent you from signing up again later, if you change your mind. Every winter, Grippenet starts monitoring the development of flu-like symptoms a little before the beginning of the flu epidemic and stops a few weeks after the end of the epidemic."
+    },
+    {
+      "title": "Can I make money by participating? Or will it cost me money?",
+      "content": "Neither. You will not earn any money through participating and it will not cost you money either. Your participation in the study is free and voluntary."
+    },
+    {
+      "title": "What happens after I sign up?",
+      "content": "Once you have activated your account, you will be asked to complete a preliminary questionnaire. You will only have to complete that questionnaire once, but you can return to it any time during the study to modify the information you have entered if your personal situation has changed. In a second step you will then be asked to complete a weekly questionnaire asking whether you do or do not experience any flu-like symptoms. Each week you will receive an email with the link to the questionnaire. You are free to fill out the weekly questionnaires at the pace that suits you best, although it is ideal for the study to complete one questionnaire every week."
+    },
+    {
+      "title": "What kind of questions are asked in the preliminary questionnaire?",
+      "content": "The purpose of the preliminary questionnaire is to get to know the profile of each user a little better. It will ask you about your age, professional activity, place of residence, place of work or study, household composition, main mode of travel, pets present at home, vaccination status for Influenza and/or COVID-19, allergies, etc.. For most questions, you have the option of not answering by selecting the \"I don't know\" response. Completing the preliminary questionnaire takes about five minutes."
+    },
+    {
+      "title": "What kind of questions are asked in the weekly questionnaire?",
+      "content": "The weekly questionnaire includes questions about any flu-like symptoms you may have experienced since you last logged in to Grippenet (f.e. a runny nose, cough, fever, etc.). If you did not experience any symptoms, it only takes a few seconds to complete the questionnaire. If you have experienced any symptoms, you will be asked for more details, such as when the symptoms started, whether you saw a doctor, or if you had to take sick leave from work. Filling out the questionnaire in this case takes about three to five minutes."
+    },
+    {
+      "title": "Can I fill out the questionnaire for someone else?",
+      "content": "Yes, you can. We encourage you to fill out the questionnaires for your children and for elderly people living in your household, after obtaining their consent. It has been found that in most Grippenet countries, most participants are between 20 and 65 years old. Therefore the distribution of influenza-like symptoms in children and elderly people is not well monitored through our systems - even though the elderly are most vulnerable. It is easy to add a new participant to your account (just go to the \"My Grippenet\" page and click on \"Manage Profiles\"). This site will then provide you with a summary of flu-like symptoms that have occurred in the users in your household since the start of their participation."
+    },
+    {
+      "title": "I am going on vacation, do I have to fill out my weekly questionnaire?",
+      "content": "No. You can fill out the questionnaires at the frequency that suits you best. The more frequently you participate, the more informative is the collected data. But even someone who participates only once every two weeks is useful for the study."
+    },
+    {
+      "title": "I did not experience any flu-like symptoms this week, should I fill in the weekly questionnaire?",
+      "content": "Yes, you should. In order to have a representative image of the current situation of flu-like illnesses and symptoms in Switzerland, it is important to have data on both sick people and people who are not sick. If you are not sick, filling in the questionnaire will only take a few seconds."
+    },
+    {
+      "title": "I am sick, will Grippenet provide me with a diagnosis if I participate in the study?",
+      "content": "No. Your participation allows you to register the symptoms you are experiencing, but it does not replace a visit to your general practitioner, who will be able to provide you with an appropriate medical diagnosis and treatment. The website does not replace medical advice, but it does give you practical advice on how to protect yourself from Influenza or COVID-19 when you are not yet ill."
+    },
+    {
+      "title": "I have a chronic illness that causes some of the flu-like symptoms mentioned in the weekly questionnaire.",
+      "content": "Some chronic illnesses cause flu-like symptoms that are listed in the weekly questionnaire. For Grippenet these flu-likely symptoms do not need to be mentioned if they occure frequently. They should be mentioned though if the experienced symptoms have changed recently. For example, if you have rheumatism, only check the \"Joint pain\" box if it has recently worsened or it is different from what you usually experience."
+    },
+    {
+      "title": "Why didn't I receive an activation email sent to the email address I provided when I registered?",
+      "content": "The activation email may sometimes end up in your \"junk\" or \"spam\" folder. If you have checked your \"junk\" and \"spam\" folder and you did not receive the email with the activation link we invite you to sign up again and to make sure that the email address you provide is spelled out correctly. If it still doesn't work, please contact us."
+    },
+    {
+      "title": "I received an email with the activation link but the link does not work. What should I do?",
+      "content": "Try copy- and pasting the link directly into your browser's taskbar making sure that the entire link has been copied. If it still doesn't work you should be taken to a page that asks you to enter your email address to receive a new email containing the activation link. If it still doesn't work, please contact us."
+    },
+    {
+      "title": "I received an email with the activation link and I was able to activate my account successfully but I can't log in with my login and password. How can I successfully log in?",
+      "content": "The most likely cause of that problem is that the login or password you have registered with is not the same as the one you are trying to enter with now. To double-check this, click on \"Forgot password\". You can then enter your email address, and you will receive an email reminding you of your username and giving you a link to set a new password (you can enter the same one as the old one). You should then be able to log in without any problems. If it still doesn't work please do not hesitate to contact us."
+    },
+    {
+      "title": "Is my data safe?",
+      "content": "We take the security of the data of the participants of Grippenet very seriously. The system is subject to strict requirements, especially in the areas of privacy and information security. The system has been carefully tested in terms of security, privacy and capacity by external parties at the University of Hasselt. The risks to the rights and freedoms of those whose personal data is processed have been carefully assessed."
+
+    }
+  ]
+}

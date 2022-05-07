@@ -1,0 +1,125 @@
+{
+  "title": "Häufig gestellte Fragen",
+  "accordionControls": {
+    "open": "Mehr lesen",
+    "close": "Ausblenden"
+  },
+  "topFaq": {
+    "title": "Häufig gestellte Fragen zu Grippenet",
+    "content": ""
+  },
+  "signupCard": {
+    "imageAlt": "Participate image",
+    "title": "Teilnehmen",
+    "body": "Helfen Sie uns, das Coronavirus im Auge zu behalten. Berichten Sie uns wöchentlich, ob Sie grippeähnliche Symptome haben.",
+    "actionLabel": "Registrieren Sie sich"
+  },
+  "surveyCard": {
+    "imageAlt": "Report now!",
+    "title": "Jetzt melden!",
+    "body": "Berichten Sie, ob Sie grippeähnliche Symptome haben.",
+    "actionLabel": "Fragebögen"
+  },
+  "faq": [
+    {
+      "title": "Für wen ist diese Studie gedacht?",
+      "content": "Alle Personen, die in der Schweiz leben und einen Internetzugang haben, können an dieser Studie teilnehmen - anonym, freiwillig und so lange Sie wollen."
+    },
+    {
+      "title": "Ich bin noch nie an der Grippe (Influenza) erkrankt, warum sollte ich trotzdem teilnehmen?",
+      "content": "Um ein möglichst realitätsnahes Bild zu erhalten, ist es wichtig, dass möglichst viele Personen teilnehmen, unabhängig von ihrer Vorgeschichte oder ihren Risikofaktoren. Jemand, der selten oder nie krank ist, ist für die Studie genau so interessant wie jemand, der häufig krank ist. Es kann uns helfen, anhand Ihres Profils zu verstehen, warum manche Menschen häufiger von \"grippeähnlichen\" Symptomen betroffen sind als andere."
+    },
+    {
+      "title": "Ich bin minderjährig, kann ich trotzdem an der Studie teilnehmen?",
+      "content": "Ja, aber nur mit dem Einverständnis der Eltern oder eines/r gesetzlichen Vertreters:in. Dazu muss sich ein Elternteil oder der/die gesetzliche Vertreter:in für die Studie anmelden, dann eine/n Teilnehmer:in zu ihrem/seinem Konto hinzufügen (über die Registerkarte \"Meinen Haushalt verwalten\") und mit dem Kind den ersten Grundfragebogen ausfüllen. Das Kind kann dann die wöchentlichen Fragebögen selbst ausfüllen, sofern der/die Erwachsene ihm/ihr Zugang zu seinem/ihrem Konto gewährt."
+    },
+    {
+      "title": "Ich bin kein/e Schweizer:in, kann ich trotzdem an der Studie teilnehmen?",
+      "content": "Ja, natürlich! Grippenet ist an der Grippesituation in der Schweiz interessiert. Deshalb können alle in der Schweiz lebenden Personen an der Studie teilnehmen, egal ob sie die Schweizer Bürgschaft haben oder nicht."
+    },
+    {
+      "title": "Ich lebe zur Zeit im Ausland, bin ich von dieser Studie betroffen?",
+      "content": "Leider nein! Nur Personen, die in der Schweiz leben, können an dieser Studie teilnehmen. Wenn Sie jedoch in Dänemark, Frankreich, Deutschland, Italien, Irland, Portugal, Spanien, Schweden, dem Vereinigten Königreich, den Niederlanden oder Belgien leben, gibt es für jedes dieser Länder entsprechende Überwachungssysteme, für die Sie sich registrieren können."
+    },
+    {
+      "title": "Ich bin dieses Jahr gegen die saisonale Grippe (Influenza) und/oder gegen COVID-19 geimpft worden, kann ich trotzdem an dieser Studie teilnehmen ?",
+      "content": "Grippenet steht allen in der Schweiz lebenden Personen offen, unabhängig davon, ob sie gegen die saisonale Grippe (Influenza) oder COVID-19 geimpft wurden oder nicht. Die Studie ermöglicht es uns, die Wirksamkeit von Impfstoffen zu untersuchen."
+    },
+    {
+      "title": "Wie kann ich mich registrieren?",
+      "content": "Um sich zu registrieren, klicken Sie auf den Button \"Registrieren\" oben rechts auf dieser Seite. Sie werden zunächst aufgefordert, einen Benutzernamen (der sich von Ihrem Vor- und Nachnamen unterscheiden kann) und ein Passwort zu wählen und eine gültige E-Mail-Adresse anzugeben. Anschließend wird ein Aktivierungslink an Ihre E-Mail-Adresse gesendet. Um Ihr Konto zu aktivieren, klicken Sie einfach auf den Aktivierungslink. Sie können dann auf Ihr persönliches Konto auf der Website zugreifen, indem Sie sich mit Ihrem Benutzernamen und Passwort anmelden."
+    },
+    {
+      "title": "Muss ich meinen Namen angeben, um teilzunehmen?",
+      "content": "Nein, die Studie ist völlig anonym. Um sich anzumelden, müssen Sie eine gültige E-Mail-Adresse angeben und einen Benutzernamen und ein Passwort wählen. Ihre E-Mail-Adresse wird bei der Datenanalyse nicht mit Ihren persönlichen Daten in Verbindung gebracht, so dass es keine Möglichkeit gibt, Sie während der Studie zu identifizieren."
+    },
+    {
+      "title": "Wird meine E-Mail-Adresse, wenn ich mich anmelde, an andere Organisationen weitergegeben?",
+      "content": "Nein. Ihre E-Mail-Adresse wird nur verwendet, um Ihnen eine wöchentliche E-Mail mit dem Link zum Ausfüllen des Fragebogens zu schicken. Sie wird nicht an dritte Organisationen weitergegeben."
+    },
+    {
+      "title": "Wie lange dauert es, bis ich Teil der Studie bin?",
+      "content": "Die Anmeldung und das Ausfüllen des ersten Grundfragebogens (grundlegende Informationen zu Ihrem Profil) dauert etwa 5 Minuten. Das Ausfüllen des wöchentlichen Fragebogens dauert zwischen 30 Sekunden (wenn Sie keine grippeähnliche Symptome haben) und maximal 5 Minuten (wenn Sie grippeähnliche Symptome haben)."
+    },
+    {
+      "title": "Wie lange dauert die Studie?",
+      "content": "Die Studie hat im Moment kein Enddatum. Sie können Ihre Teilnahme jedoch jederzeit beenden, indem Sie sich auf der Website abmelden. Dies hindert Sie nicht daran, sich zu einem späteren Zeitpunkt erneut zu registrieren, falls Sie Ihre Meinung ändern und wieder an der Studie teilnehmen möchten. Jeden Winter beginnt Grippenet mit der Überwachung von grippeähnlichen Symptomen kurz vor Beginn der Grippewelle (Influenza) und beendet sie einige Wochen nach Ende der Epidemie."
+    },
+    {
+      "title": "Kann ich mit meiner Teilnahme an der Studie Geld verdienen? Oder im Gegenteil, muss ich für meine Teilnahme bezahlen?",
+      "content": "Weder noch. Mit Ihrer Teilnahme an der Studie verdienen Sie kein Geld, Sie müssen jedoch auch nicht für Ihre Teilnahme bezahlen. Die Teilnahme an der Studie ist kostenlos und freiwillig."
+    },
+    {
+      "title": "Wie geht es weiter wenn ich mich für die Studie registriert habe?",
+      "content": "Sobald Sie Ihr Konto aktiviert haben, werden Sie gebeten, einen vorläufigen Grundfragebogen auszufüllen. Diesen Grundfragebogen müssen Sie nur einmal ausfüllen. Sie können jedoch während der Studie jederzeit auf den Grundfragebogen zurückgreifen und ihn ändern, wenn sich Ihre persönliche Situation verändert hat. In einem zweiten Schritt werden Sie gebeten, wöchentlich einen Fragebogen über das Vorhandensein oder Nichtvorhandensein von grippeähnlichen Symptomen auszufüllen. Dafür erhalten Sie wöchentlich per E-Mail einen Link. Sie sind nicht verpflichtet, die wöchentlichen Fragebögen auszufüllen. Für die Studie ist es jedoch ideal, wenn Sie pro Woche einen Fragebogen ausfüllen."
+    },
+    {
+      "title": "Was für Fragen werden im vorläufigen Grundfragebogen gestellt?",
+      "content": "Der vorläufige Grundfragebogen dient dazu, das Profil der unterschiedlichen Nutzer:innen besser kennenzulernen. Gefragt wird nach dem Alter, der beruflichen Tätigkeit, dem Wohnort, dem Arbeits- oder Studienort, der Zusammensetzung des Haushalts, der Haupt-Fortbewegungsart, den Haustieren im Haushalt, dem Impfstatus gegen Grippe (Influenza) oder COVID-19, nach Allergien usw.. Bei den meisten Fragen haben Sie die Möglichkeit, keine Antwort zu geben, indem Sie die Antwort \"Ich weiß es nicht\" wählen. Das Ausfüllen des vorläufigen Grundfragebogens dauert etwa 5 Minuten."
+    },
+    {
+      "title": "Welche Fragen werden im wöchentlichen Fragebogen gestellt?",
+      "content": "Der wöchentliche Fragebogen enthält Fragen zu möglichen grippeähnlichen Symptomen, die Sie seit Ihrer letzten Anmeldung möglicherweise hatten (laufende Nase, Husten, Fieber usw.). Wenn Sie keine grippeähnlichen Symptome hatten, dauert es nur wenige Sekunden, den wöchentlichen Fragebogen auszufüllen. Wenn Sie grippeähnliche Symptome hatten, werden Sie nach weiteren Einzelheiten gefragt, z. B. wann die Symptome begannen, ob Sie ärztliche Hilfe aufgesucht haben oder ob Sie sich krankschreiben lassen mussten. Das Ausfüllen des Fragebogens dauert in diesem Fall zwischen drei und fünf Minuten."
+    },
+    {
+      "title": "Kann ich den Fragebogen für eine andere Person ausfüllen?",
+      "content": "Ja, das können Sie. Wir empfehlen Ihnen, die Fragebögen für Ihre Kinder und die älteren Menschen in Ihrem Haushalt auszufüllen, nachdem Sie deren Zustimmung eingeholt haben. Es hat sich gezeigt, dass in den meisten Influenzanet-Ländern die meisten Teilnehmer:innen zwischen 20 und 65 Jahre alt sind. Die Verbreitung der Influenza bei Kindern und älteren Menschen ist jedoch in unseren Systemen nicht gut bekannt, obwohl ältere Menschen am anfälligsten für eine Infektion mit diesem Virus sind. Es ist ganz einfach, eine/n neue/n Teilnehmer:in zu Ihrem Konto hinzuzufügen (gehen Sie einfach auf die Seite \"Meinen Haushalt verwalten\" und klicken Sie auf \"Neue/n Teilnehmer:in hinzufügen\"). Die Website bietet Ihnen eine Zusammenfassung möglicher grippeähnlicher Symptome, die bei den Teilnehmer:innen in Ihrem Haushalt seit Beginn ihrer Teilnahme aufgetreten sind."
+    },
+    {
+      "title": "Ich fahre in den Urlaub, soll ich meinen wöchentlichen Fragebogen trotzdem ausfüllen?",
+      "content": "Nein. Sie können die Fragebögen so oft ausfüllen, wie es Ihnen am besten passt. Je häufiger Sie teilnehmen, desto interessanter sind die gesammelten Daten. Aber auch jemand, der nur einmal alle zwei Wochen teilnimmt, ist für die Studie sehr bereichernd."
+    },
+    {
+      "title": "Ich habe in dieser Woche keine grippeähnlichen Symptome gehabt, soll ich den wöchentlichen Fragebogen trotzdem ausfüllen?",
+      "content": "Ja, das sollten Sie. Um ein zuverlässiges Bild von der Situation von grippeähnlichen Erkrankungen in der Schweiz zu erhalten, ist es wichtig, sowohl Daten über kranke als auch über gesunde Personen zu haben. Wenn Sie nicht krank sind, dauert das Ausfüllen des Fragebogens nur ein paar Sekunden."
+    },
+    {
+      "title": "Ich bin krank. Werde ich eine Diagnose erhalten, wenn ich an der Studie teilnehme?",
+      "content": "Nein. Ihre Teilnahme ermöglicht Ihnen eine Bestandsaufnahme Ihrer Symptome, ersetzt aber nicht eine medizinische Konsultation, die Ihnen eine angemessene medizinische Diagnose geben kann. Die Website ersetzt keine ärztliche Beratung, aber sie gibt Ihnen praktische Hinweise, wie Sie sich vor der Grippe (Influenza) oder COVID-19 schützen können."
+    },
+    {
+      "title": "Ich habe eine chronische Krankheit, die einige der im wöchentlichen Fragebogen genannten grippeähnlichen Symptome verursacht.",
+      "content": "Einige chronische Krankheiten verursachen grippeähnliche Symptome, die im wöchentlichen Fragebogen aufgeführt sind. Für Grippenet müssen diese chronischen Symptome nicht beschrieben werden, wenn sie üblich sind. Wenn die grippeähnlichen Symptome nicht üblich sind oder wenn Sie sich in letzter Zeit verändert haben, müssen sie erwähnt werden. Wenn Sie beispielsweise an Rheuma leiden, kreuzen Sie das Kästchen \"Gelenkschmerzen\" nur an, wenn sich diese in letzter Zeit verschlimmert haben oder anders sind als sonst."
+    },
+    {
+      "title": "Ich bin bereits an COVID-19 erkrankt. Ist es sinnvoll und möglich, an dieser Studie teilzunehmen?",
+      "content": "Ja. Es ist möglich und für die Studie interessant, Teilnehmer:innen zu haben, die sich bereits an COVID-19 erkrankt waren."
+    },
+    {
+      "title": "Warum habe ich keine Aktivierungs-E-Mail erhalten?",
+      "content": "Die Aktivierungs-E-Mail kann manchmal in Ihrem \"Junk\"- oder \"Spam\"-Ordner landen. Wenn Sie Ihren \"Junk\"-Ordner überprüft und die Aktivierungs-E-Mail nicht erhalten haben, bitten wir Sie, sich erneut anzumelden und darauf zu achten, dass die von Ihnen angegebene E-Mail-Adresse richtig geschrieben ist. Wenn es dann immer noch nicht funktioniert, kontaktieren Sie uns bitte."
+    },
+    {
+      "title": "Ich habe eine Aktivierungs-E-Mail erhalten, aber der Link funktioniert nicht. Was kann ich tun?",
+      "content": "Versuchen Sie, den Link direkt in die Taskleiste Ihres Browsers zu kopieren und einzufügen. Vergewissern Sie sich, dass der gesamte Link kopiert wurde. Wenn es dann immer noch nicht funktioniert, werden Sie auf eine Seite weitergeleitet, auf der Sie aufgefordert werden, Ihre E-Mail-Adresse erneut einzugeben, um einen neuen Aktivierungslink zu erhalten. Sollte es dann noch immer nicht funktionieren, zögern Sie nicht, uns zu kontaktieren."
+    },
+    {
+      "title": "Ich habe eine Aktivierungs-E-Mail erhalten und konnte mein Konto erfolgreich aktivieren, aber ich kann mich nicht mit meinem Login und Passwort anmelden. Was soll ich tun?",
+      "content": "Die wahrscheinlichste Ursache für das Problem ist, dass das Login oder das Passwort, mit dem Sie sich registriert haben, nicht mit dem übereinstimmt, was Sie jetzt einzugeben versuchen. Um dies zu überprüfen, klicken Sie auf \"Passwort vergessen\". Sie können dann Ihre E-Mail-Adresse eingeben und erhalten eine E-Mail, in der Sie an Ihren Benutzernamen erinnert werden und einen Link, über den Sie ein neues Passwort festlegen können (Sie können das alte Passwort eingeben). Danach sollten Sie sich problemlos anmelden können. Sollte es trotzdem nicht funktionieren, zögern Sie nicht, uns zu kontaktieren."
+    },
+    {
+      "title": "Sind meine Daten sicher bei Grippenet?",
+      "content": "Wir nehmen die Sicherheit der Daten der Teilnehmer:innen von Grippenet sehr ernst. Das System unterliegt strengen Anforderungen im Bereich des Datenschutzes und der Informationssicherheit. Das System wurde in Bezug auf Sicherheit, Datenschutz und Kapazität von externen Parteien an der Universität Hasselt sorgfältig getestet. Die Risiken für die Rechte und Freiheiten der Personen, deren persönliche Daten verarbeitet werden, wurden sorgfältig abgewogen."
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "verifyEmail": {
+    "title": "Überprüfen Sie Ihre E-Mail Adresse",
+    "content": {
+      "info": "",
+      "success": "Erfolgreich! Ihre E-Mail Adresse wurde bestätigt. \n\n Melden Sie sich jetzt an.",
+      "btn": {
+        "successWithAuth": "Startseite",
+        "successWithoutAuth": "Anmelden",
+        "errorWithAuth": "Startseite",
+        "errorWithoutAuth": "Zur Anmeldung gehen"
+      }
+    },
+    "errors": {
+      "wrongToken": "Etwas ist schief gelaufen. Vergewissern Sie sich, dass Sie den richtigen Link verwenden und dass Sie diesen Link nicht schon einmal ausprobiert haben. Fordern Sie gegebenenfalls einen neuen Link an.",
+      "unknown": "Etwas ist schief gelaufen. Bitte überprüfen Sie Ihre Angaben oder versuchen Sie es später erneut."
+    }
+  },
+  "passwordReset": {
+    "title": "Neues Passwort",
+    "content": {
+      "info": "",
+      "emailLabel": "E-Mail-Adresse",
+      "emailPlaceholder": "E-Mail-Adresse eingeben",
+      "newPasswordLabel": "Passwort",
+      "newPasswordPlaceholder": "Neues Passwort eingeben",
+      "confirmPasswordLabel": "Bestätigen Sie Ihr Passwort",
+      "confirmPasswordPlaceholder": "Neues Passwort erneut eingeben",
+      "btn": "Passwort ändern",
+      "restartBtn": "Erneut versuchen",
+      "successMsg": "Passwort geändert",
+      "successBtn": "Anmelden"
+    },
+    "errors": {
+      "passwordRules": "Ihr Passwort muss aus mindestens acht Zeichen bestehen und drei der folgenden vier Elemente enthalten: Kleinbuchstaben, Großbuchstaben, Zahlen, Satzzeichen.",
+      "passwordMatch": "Die eingegebenen Passwörter stimmen nicht überein",
+      "wrongToken": "Etwas ist schief gelaufen.. Vergewissern Sie sich, dass Sie den richtigen Link verwenden und dass Sie diesen Link nicht schon einmal ausprobiert haben. Fordern Sie gegebenenfalls einen neuen Link an.",
+      "unknown": "Etwas ist schief gelaufen. Bitte überprüfen Sie Ihre Angaben oder versuchen Sie es später erneut."
+    }
+  },
+  "invitation": {
+    "title": "Herzlich Willkommen!",
+    "content": {
+      "info": "## Herzlich Willkommen! \n\n Bevor Sie Grippenet nutzen können, müssen Sie ein Passwort für Ihr neues Konto festlegen.",
+      "emailLabel": "E-Mail-Adresse",
+      "emailPlaceholder": "E-Mail-Adresse eingeben",
+      "newPasswordLabel": "Passwort",
+      "newPasswordPlaceholder": "Passwort eingeben",
+      "confirmPasswordLabel": "Bestätigen Sie Ihr Passwort",
+      "confirmPasswordPlaceholder": "Passwort erneut eingeben",
+      "informedConsentCheckbox": "Rufen Sie die <1>Datenschutzerklärung</1> auf.*",
+      "btn": "Bestätigen Sie das Passwort",
+      "restartBtn": "Erneut versuchen",
+      "successMsg": "Passwort bestätigt",
+      "successBtn": "Anmelden"
+    },
+    "privacyConsent": {
+      "title": "Datenschutz Zustimmung",
+      "acceptBtn": "Ich stimme zu",
+      "cancelBtn": "Ich stimme nicht zu"
+    },
+    "errors": {
+      "passwordRules": "Ihr Passwort muss aus mindestens acht Zeichen bestehen und drei der folgenden vier Elemente enthalten: Kleinbuchstaben, Großbuchstaben, Zahlen, Satzzeichen.",
+      "passwordMatch": "Die eingegebenen Passwörter stimmen nicht überein",
+      "wrongToken": "Etwas ist schief gelaufen.. Vergewissern Sie sich, dass Sie den richtigen Link verwenden und dass Sie diesen Link nicht schon einmal ausprobiert haben. Fordern Sie gegebenenfalls einen neuen Link an.",
+      "unknown": "Etwas ist schief gelaufen. Bitte überprüfen Sie Ihre Angaben oder versuchen Sie es später erneut."
+    }
+  },
+  "studyLogin": {
+    "title": "Willkommen zurück !",
+    "content": {
+      "cardTitle": "Anmelden",
+      "info": "",
+      "emailInputLabel": "E-Mail-Adresse",
+      "emailInputPlaceholder": "E-Mail-Adresse eingeben",
+      "passwordInputLabel": "Passwort",
+      "passwordInputPlaceholder": "Passwort eingeben",
+      "rememberMeLabel": "Angaben speichern",
+      "btn": "Anmelden",
+      "passwordForgottenBtn": "Ich habe mein Passwort vergessen",
+      "signupBtn": "Ich habe noch kein Konto, ich möchte mich registrieren"
+    }
+  }
+}

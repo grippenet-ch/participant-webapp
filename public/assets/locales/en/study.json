@@ -1,0 +1,30 @@
+{
+  "title": "Grippenet",
+  "topImage": {
+    "title": "",
+    "content": "Your participation with Grippenet will help us map the spread of infectious diseases by allowing us to quickly analyse the current epidemic situation in Switzerland."
+  },
+  "requiredSurveys": {
+    "title": "Questionnaires to be completed",
+    "info": "The different questionnaires for the study can be found here.",
+    "successMsg": "Thank you! You have completed all questionnaires. We hope to hear from you again next week. In case you want to provide new information about your symptoms sooner, you can retake the questionnaire in a few hours."
+  },
+  "optionalSurveys": {
+    "title": "Change preliminary information",
+    "info": "If your situation has changed, you can re-complete the preliminary questionnaire(s) below. Unfortunately, we cannot show you the information you entered last time or let you change your answers to specific questions only.",
+    "showBtn": "Has your preliminary information changed?",
+    "hideBtn": "Hide"
+  },
+  "referencesBox": {
+    "title": "See also",
+    "faqLink": "Frequently asked questions",
+    "resultsLink": "Current results",
+    "aboutLink": "About Grippenet"
+  },
+  "quickSettingsBox": {
+    "title": "Settings",
+    "manageProfiles": "Add your child’s profile or change your own profile",
+    "emailReminders": "Change communication settings",
+    "language": "Language"
+  }
+}

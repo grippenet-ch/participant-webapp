@@ -1,0 +1,14 @@
+{
+  "exitSurveyWarningDialog": {
+    "title": "Möchten Sie den Fragebogen verlassen?",
+    "warning": "Alle eingegebenen Informationen gehen verloren, wenn Sie den Fragebogen nicht fertig ausfüllen. Sind Sie sicher, dass Sie die Seite verlassen möchten?",
+    "cancelBtn": "Mit dem Ausfüllen des Fragebogens fortfahren",
+    "confirmBtn": "Den Fragebogen verlassen"
+  },
+  "noSurveyLoaded": "Laden fehlgeschlagen. Aktualisieren Sie bitte die Seite.",
+  "submittingSurveyResponsesMsg": "Antworten einsenden",
+  "notValidQuestion": "Bitte geben Sie für alle Fragen eine gültige Antwort ein.",
+  "backBtn": "Zurück",
+  "nextBtn": "Weiter",
+  "submitBtn": "Absenden"
+}

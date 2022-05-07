@@ -1,0 +1,15 @@
+{
+  "title": "Il progetto Grippenet",
+  "signupCard": {
+    "imageAlt": "Immagine partecipa",
+    "title": "Partecipa",
+    "body": "Aiutaci a tracciare la diffusione del coronavirus e dell'influenza. Segnalaci settimanalmente se stai bene o se hai qualche sintomo.",
+    "actionLabel": "Registrati"
+  },
+  "surveyCard": {
+    "imageAlt": "Segnala ora!",
+    "title": "Segnala ora!",
+    "body": "Segnala se hai qualche sintomo.",
+    "actionLabel": "Questionari"
+  }
+}

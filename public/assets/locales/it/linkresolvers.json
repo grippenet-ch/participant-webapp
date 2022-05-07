@@ -1,0 +1,84 @@
+{
+  "verifyEmail": {
+    "title": "Verifica indirizzo e-mail",
+    "content": {
+      "info": "",
+      "success": "Successo! Il tuo indirizzo e-mail è stato confermato. \n\n Accedi ora.",
+      "btn": {
+        "successWithAuth": "Home",
+        "successWithoutAuth": "Login",
+        "errorWithAuth": "Home",
+        "errorWithoutAuth": "Vai al login"
+      }
+    },
+    "errors": {
+      "wrongToken": "Qualcosa è andato storto. Verifica di utilizzare il link corretto e di non averlo mai provato prima. Richiedi una nuova e-mail se necessario.",
+      "unknown": "Qualcosa è andato storto. Controlla le tue informazioni o riprova più tardi."
+    }
+  },
+  "passwordReset": {
+    "title": "Nuova password",
+    "content": {
+      "info": "",
+      "emailLabel": "E-mail",
+      "emailPlaceholder": "Inserisci l'e-mail",
+      "newPasswordLabel": "Password",
+      "newPasswordPlaceholder": "Inserisci una nuova password",
+      "confirmPasswordLabel": "Conferma password",
+      "confirmPasswordPlaceholder": "Inserisci nuovamente la nuova password",
+      "btn": "Cambia password",
+      "restartBtn": "Ancora",
+      "successMsg": "Password modificata",
+      "successBtn": "Accedi"
+    },
+    "errors": {
+      "passwordRules": "La tua password deve avere almeno 8 caratteri e contenere 3 dei seguenti 4 elementi: lettere minuscole, maiuscole, numeri, segni di punteggiatura.",
+      "passwordMatch": "Le password non sono le stesse",
+      "wrongToken": "Qualcosa è andato storto. Verifica di utilizzare il link corretto e di non averlo mai provato prima. Richiedi una nuova e-mail se necessario.",
+      "unknown": "Qualcosa è andato storto. Controlla le tue informazioni o riprova più tardi."
+    }
+  },
+  "invitation": {
+    "title": "Benvenuto!",
+    "content": {
+      "info": "## Benvenuto! \n\n Prima di iniziare a utilizzare il sistema, devi impostare una password per il tuo nuovo profilo Grippenet.",
+      "emailLabel": "E-mail",
+      "emailPlaceholder": "Inserisci l'e-mail",
+      "newPasswordLabel": "Password",
+      "newPasswordPlaceholder": "Inserisci la password",
+      "confirmPasswordLabel": "Conferma Password",
+      "confirmPasswordPlaceholder": "Inserisci nuovamente la password",
+      "informedConsentCheckbox": "Accedi all'<1>informativa sulla privacy</1>.*",
+      "btn": "Conferma password",
+      "restartBtn": "Ancora",
+      "successMsg": "Password confermata",
+      "successBtn": "Accedi"
+    },
+    "privacyConsent": {
+      "title": "Dichiarazione sulla privacy",
+      "acceptBtn": "Acconsento",
+      "cancelBtn": "Non acconsento"
+    },
+    "errors": {
+      "passwordRules": "La tua password deve avere almeno 8 caratteri e contenere 3 dei seguenti 4 elementi: lettere minuscole, maiuscole, numeri, segni di punteggiatura.",
+      "passwordMatch": "Le password non sono le stesse",
+      "wrongToken": "Qualcosa è andato storto. Verifica di utilizzare il link corretto e di non averlo mai provato prima. Richiedi una nuova e-mail se necessario.",
+      "unknown": "Qualcosa è andato storto. Controlla le tue informazioni o riprova più tardi."
+    }
+  },
+  "studyLogin": {
+    "title": "Bentornato!",
+    "content": {
+      "cardTitle": "Accedi",
+      "info": "",
+      "emailInputLabel": "E-mail",
+      "emailInputPlaceholder": "Inserisci l'e-mail",
+      "passwordInputLabel": "Password",
+      "passwordInputPlaceholder": "Inserisci la password",
+      "rememberMeLabel": "Ricordati di me",
+      "btn": "Accedi",
+      "passwordForgottenBtn": "Ho dimanticato la mia password",
+      "signupBtn": "Non ho ancora un account, voglio registrarmi"
+    }
+  }
+}

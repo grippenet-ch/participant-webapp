@@ -1,0 +1,81 @@
+{
+  "title": "Grippenet",
+  "loginCard": {
+    "title": "Login",
+    "info": "",
+    "emailInputLabel": "Email address",
+    "emailInputPlaceholder": "Please enter email address",
+    "passwordInputLabel": "Password",
+    "passwordInputPlaceholder": "Please enter password",
+    "rememberMeLabel": "Remember Me",
+    "btn": "Login",
+    "passwordForgottenBtn": "I forgot my password",
+    "signupBtn": "I don't have an account - I want to sign up"
+  },
+  "logoCredits": {
+    "title": "Sponsors"
+  },
+  "currentResultCard": {
+    "imageAlt": "Current results image",
+    "title": "Current results",
+    "body": "Grippenet observes flu-like symptoms which could indicate the presence of Influenza or COVID-19.",
+    "actionLabel": "Current results"
+  },
+  "signupCard": {
+    "imageAlt": "Sign up image",
+    "title": "Sign up",
+    "body": "Help us keep an eye on Influenza and COVID-19. Report weekly whether you experience any flu-like symptoms.",
+    "actionLabel": "Sign up"
+  },
+  "aboutCard": {
+    "imageAlt": "About Grippenet image",
+    "title": "About Grippenet",
+    "body": "Grippenet monitors the spread of flu-like symptoms in Switzerland. It is an epidemiological surveillance tool designed to monitor the spread of viruses.",
+    "actionLabel": "Learn more"
+  },
+  "infoCard": {
+    "imageAlt": "The science of viruses (virology)",
+    "title": "The science of viruses (virology)",
+    "body": "What are COVID-19 and influenza, how do they spread and what is the importance of scientific research in this field?",
+    "actionLabel": "Learn more"
+  },
+  "newsCard": {
+    "imageAlt": "Latest updates from Grippenet",
+    "title": "Latest news from Grippenet",
+    "body": "We regularly update you on the ongoing COVID-19 pandemic and the Influenza season.",
+    "actionLabel": "Learn more"
+  },
+  "references": {
+    "title": "Read more",
+    "faqLink": "Frequently asked questions",
+    "aboutLink": "About Grippenet",
+    "resultsLink": "Current results"
+  },
+  "settingsReferences": {
+    "title": "Quick settings",
+    "profileSettings": "Manage profiles",
+    "communicationSettings": "Email reminders",
+    "languageSettings": "Languages"
+  },
+  "supportReferences": {
+    "title": "Support us",
+    "supportLink": "Information"
+  },
+  "surveyList": {
+    "requiredSurveys": {
+      "title": "Questionnaires to be completed",
+      "info": "The different questionnaires for the study can be accessed here.",
+      "successMsg": "Thank you! You have completed all questionnaires. We hope to hear from you again next week. In case you want to provide new information about any flu-like symptoms sooner you can retake the questionnaire in few hours."
+    },
+    "optionalSurveys": {
+      "title": "Change background information",
+      "info": "If your background information has changed you can refill the background questionnaire(s) below. Unfortunately, we cannot show you the information you have entered the last time or let you change your answers to specific questions only.",
+      "hideBtn": "Hide",
+      "showBtn": "Has your background information changed?"
+    }
+  },
+  "teaserImage": {
+    "title": "Welcome to Grippenet",
+    "content": "Get started by signing up to participate in the study"
+  }
+}

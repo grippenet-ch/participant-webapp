@@ -1,0 +1,21 @@
+{
+  "services": {
+    "title": "Services",
+    "contact": "Contact",
+    "twitter": "Follow us on Twitter",
+    "facebook": "Follow us on Facebook"
+  },
+  "about": {
+    "title": "About this website",
+    "privacy": "Confidentiality agreement and participants' rights",
+    "disclaimer": "Disclaimer",
+    "accessibility": "Accessibility"
+  },
+  "languages": {
+    "title": "Languages",
+    "en": "English",
+    "fr": "Français",
+    "it": "Italiano",
+    "de": "Deutsch"
+  }
+}

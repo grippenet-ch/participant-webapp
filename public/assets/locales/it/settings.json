@@ -1,0 +1,57 @@
+{
+  "title": "Impostazioni Grippenet",
+  "account": {
+    "title": "Impostazioni dell'account",
+    "email": {
+      "title": "Indirizzo e-mail",
+      "info": "Vuoi utilizzare un indirizzo e-mail diverso? Modifica il tuo indirizzo e-mail facendo clic sul pulsante in basso. Nota: non puoi accedere nuovamente a Grippenet finché non hai confermato l'indirizzo e-mail."
+    },
+    "password": {
+      "title": "Password",
+      "info": "Vuoi cambiare la password? Modifica la tua password cliccando sul pulsante qui sotto. Nota: avrai bisogno della tua password attuale."
+    },
+    "profiles": {
+      "title": "Profili",
+      "info": "Modifica il tuo profilo o, in qualità di genitore o rappresentante legale, aggiungi il profilo di tuo figlio fino a 17 anni.",
+      "btn": "{{count}} profilo",
+      "btn_other": "{{count}} profili"
+    }
+  },
+  "communication": {
+    "title": "Impostazioni di comunicazione",
+    "emailReminders": {
+      "title": "E-mail e newsletter settimanali",
+      "info": "Puoi scegliere di non ricevere più l'e-mail di promemoria settimanale o la newsletter.",
+      "btnManageNotifications": "Modifica impostazioni"
+    },
+    "defaultLanguage": {
+      "title": "Lingua",
+      "info": "Qui puoi cambiare la lingua.",
+      "languages": {
+        "en": "English",
+        "fr": "Français",
+        "it": "Italiano",
+        "de": "Deutsch"
+      }
+    }
+  },
+  "deletion": {
+    "title": "Cancellare iscrizione a Grippenet / revoca il consenso",
+    "warning": "Se annulli l'iscrizione a Grippenet / revochi il consenso, i dati del tuo account verranno eliminati.",
+    "deleteBtn": "Revoca iscrizione"
+  },
+  "references": {
+    "title": "Hai bisogno di assistenza?",
+    "faqLink": "Domande frequenti",
+    "privacyStatementLink": "Informativa sulla privacy",
+    "contactLink": "Contatta Grippenet"
+  },
+  "systemInfo": {
+    "title": "Informazioni di sistema",
+    "appNameLabel": "Nome applicazione",
+    "appName": "Grippenet",
+    "versionLabel": "Versione",
+    "browserNameLabel": "Nome browser",
+    "browserVersionLabel": "Versione del browser"
+  }
+}

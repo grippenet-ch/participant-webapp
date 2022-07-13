@@ -10,4 +10,7 @@ help:
 	@echo "  DOCKER_OPTS : default docker build options (default : $(DOCKER_OPTS))"
 
 docker:
-	docker build -t  grippenetch/participant-webapp:v0.0.1  -f Dockerfile $(DOCKER_OPTS) --build-arg ENV_FILE=.env.local .
+	docker build -t  grippenetch/participant-webapp:$(VERSION)  -f Dockerfile $(DOCKER_OPTS) .
+
+docker-minikube:
+	docker build -t  grippenetch/participant-webapp:$(VERSION)-minikube  -f Dockerfile $(DOCKER_OPTS) --build-arg ENV_PRODUCTION_LOCAL=.env.production.local.minikube .

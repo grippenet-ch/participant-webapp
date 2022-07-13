@@ -1,14 +1,16 @@
 # build environment
 FROM node:latest as build
-# default env_file
-ARG ENV_FILE=".env.local"
+# default env files
+ARG ENV_LOCAL=".env.local"
+ARG ENV_PRODUCTION_LOCAL=".env.production.local"
 WORKDIR /app
 COPY package.json /app
 COPY yarn.lock /app
 RUN yarn install
 COPY . .
 COPY .env /app/.env
-COPY ${ENV_FILE} /app/.env.local
+COPY ${ENV_LOCAL} /app/.env.local
+COPY ${ENV_PRODUCTION_LOCAL} /app/.env.production.local
 RUN yarn build
 # production environment
 FROM nginx:stable-alpine

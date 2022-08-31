@@ -1,3 +1,15 @@
+### 01/09/2022 - Der Schulbeginn ist da, welche Szenarien sind mit SARS-CoV-2 möglich?
+
+Obwohl die Gesundheitsüberwachung in der Schweiz die Fälle von COVID-19 unterschätzt, ist der Höhepunkt der Welle BA.5 nun auch in unserem Land erreicht. Was sind also die möglichen oder wahrscheinlichen Szenarien für den Beginn des neuen Schuljahres? Professor Antoine Flahault, Leiter des Instituts für Globale Gesundheit in Genf, schlägt vier vor, die wir hier zusammenfassen (1):
+-	**Das erste (optimistische) Szenario**: Die Flaute hält noch einige Wochen an, ohne dass eine neue Variante außer dem BA.5 im Umlauf ist.
+-	**Szenario 2 (weniger optimistisch)**: Es kommt zu einer zweiten Welle der BA.5-Variante, teilweise aufgrund von Rekontaminationen, da die aktuelle Variante kaum Spuren in unserem Immunsystem hinterlässt.
+-	**Das 3. Szenario (weniger optimistisch)**: Eine neue Variante tritt auf, deren Ansteckungsfähigkeit und Virulenz unbekannt ist, und breitet sich schnell aus, wodurch eine neue Welle entsteht.
+-	**Das vierte (pessimistische) Szenario**: Dieses letzte Szenario besteht darin, dass mehrere Varianten gleichzeitig zirkulieren; diese Varianten sind im Vergleich zu den vorherigen Varianten mehr oder weniger ansteckend und virulent.
+Zusammenfassend lässt sich sagen: "Welches Szenario auch immer im Herbst eintritt, (...) ist es entscheidend, vorausschauend zu handeln, Menschlichkeit und Solidarität zu zeigen" (1). Um unsere Antizipationsfähigkeit zu verbessern, ist außerdem eine qualitativ hochwertige Gesundheitsüberwachung wichtig, die der Grund der Grippenet-Plattform ist. Vielen Dank für Ihre wertvolle Mitarbeit!
+
+Referenz:
+1.	Dasinieres L, Flahault A. Covid-19: les scénarios possibles pour la rentrée | Slate.fr [Internet]. [cited 2022 Aug 24]. Available from: http://www.slate.fr/story/232499/covid-19-scenarios-rentree-leviers
+
 ### 22/06/2022 - Steigende COVID-19-Infektionen und was Sie machen können, um sich selbst und Ihre Mitmenschen zu schützen
 
 Das Bundesamt für Gesundheit (BAG) empfiehlt fünf Schutzmassnahmen um sich vor einer möglichen COVID-19-(Re)Infektion angesichts der steigenden Fallzahlen zu schützen (1):

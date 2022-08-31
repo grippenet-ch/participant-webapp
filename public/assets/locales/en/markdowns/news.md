@@ -1,3 +1,15 @@
+### 01/09/2022 - Back to school, what are the possible scenarios with SARS-CoV-2?
+
+Although the Swiss health surveillance system underestimates the cases of COVID-19, the peak of the BA.5 wave has now been reached in our country. So what are the possible or likely scenarios for the new school year? Professor Antoine Flahault, Director of the Institute of Global Health in Geneva, proposes four scenarios, which we summarize here (1):
+-	**The 1st scenario (optimistic)**: the lull continues for a few more weeks, without any new variant other than the BA.5 currently in circulation.
+-	**The 2nd scenario (less optimistic)**: a second wave due to the BA.5 variant occurs, partly due to recontamination, as the current variant leaves little trace in our immune system.
+-	**The 3rd scenario (less optimistic)**: a new variant appears, of unknown contagiousness and virulence, and spreads rapidly, creating a new wave.
+-	**The 4th scenario (pessimistic)**: this last scenario consists of the co-circulation of several variants at the same time; these variants being more or less contagious and virulent than the previous ones.
+In conclusion, "Whatever the scenario that emerges in the autumn, (...) it is crucial to show anticipation, humanity and solidarity" (1). Moreover, in order to improve our anticipation capacities, a quality health surveillance system is important, which is the reason for the existence of the Grippenet platform. So thank you for your valuable collaboration!
+
+Reference:
+1.	Dasinieres L, Flahault A. Covid-19: les scénarios possibles pour la rentrée | Slate.fr [Internet]. [cited 2022 Aug 24]. Available from: http://www.slate.fr/story/232499/covid-19-scenarios-rentree-leviers
+
 ### 22/06/2022 - Increasing numbers of new COVID-19 infections in Switzerland - what you can do to protect yourself and your loved ones
 
 The Federal Office for Public Health recommends five main protective measures to avoid a possible infection with COVID-19 in light of the recent increase in new-infections (1):  

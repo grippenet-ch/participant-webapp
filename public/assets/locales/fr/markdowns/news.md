@@ -1,3 +1,15 @@
+### 01/09/2022 - La rentrée est là, quels scénarios possibles avec le SARS-CoV-2 ?
+
+Bien que la surveillance sanitaire suisse sous-estime les cas de COVID-19, le pic de la vague BA.5 a désormais été atteint dans notre pays. Quels sont donc les scénarios possibles ou probables pour la rentrée ? Le Professeur Antoine Flahault, directeur de l’Institut de Santé Globale à Genève, en propose quatre, que nous vous résumons ici (1):
+-	**Le 1er scénario (optimiste)** : l’accalmie se prolonge encore de quelques semaines, sans nouveau variant autre que le BA.5 actuellement en circulation.
+-	**Le 2ème scénario (moins optimiste)** : une deuxième vague due au variant BA.5 se présente, en partie en raison des recontaminations, le variant actuel laissant peu de traces dans notre système immunitaire.
+-	**Le 3ème scénario (moins optimiste)** : un nouveau variant apparaît, de contagiosité et de virulence inconnue, et se propage rapidement, créant ainsi une nouvelle vague.
+-	**Le 4ème scénario (pessimiste)** : ce dernier scénario consiste en la co-circulation de plusieurs variants en même temps ; ces variants étant plus ou moins contagieux et virulents par rapport aux précédents.
+Pour conclure, « Quel que soit le scénario qui advienne à l'automne, (…) il est crucial de faire preuve d'anticipation, d'humanité et de solidarité » (1). Par ailleurs, afin d’améliorer nos capacités d’anticipation, une veille sanitaire de qualité est importante, raison d’être de la plateforme Grippenet. Merci donc à vous pour votre précieuse collaboration !
+
+Référence :
+1.	Dasinieres L, Flahault A. Covid-19: les scénarios possibles pour la rentrée | Slate.fr [Internet]. [cited 2022 Aug 24]. Available from: http://www.slate.fr/story/232499/covid-19-scenarios-rentree-leviers
+
 ### 22/06/2022 - Augmentation du nombre de cas de COVID-19 en Suisse - Ce que vous pouvez faire pour vous protéger et protéger vos proches
 
 L'Office fédéral de la santé publique recommande cinq mesures principales de protection pour éviter une éventuelle infection par la COVID-19, compte tenu de l'augmentation récente des nouvelles infections (1):  

@@ -1,3 +1,19 @@
+### 06/10/2022 - COVID-19 cases increase in Switzerland
+
+We provide today an update on the epidemiological situation regarding COVID-19 in Switzerland, according to the latest available data from the Federal Office of Public Health, dated 4 October 2022 (1):
+
+- **Laboratory-confirmed cases**: 25'134 cases since 27.09.22. On 03.10.22: 4’328 new cases.
+- **Hospitalisations**: 290 hospitalisations since 27.09.22. On 03.10.22: 6 new hospitalisations.
+- **Laboratory-confirmed deaths**: 13 deaths since 27.09.22. On 03.10.22: 1 death.
+- **Intensive care units occupancy rate**: 73.50%, of which 3.90% by patients with COVID-19.
+- **Vaccination rate**: 70.28% of the population received at least one dose of vaccine.
+- **Estimated proportion of virus variants (average over 7 days)**: 100.0% of variant B.1.1.529 (Omicron).
+
+In this context, in order to protect yourself and your family, we remind you of the importance of barrier measures and of getting tested in case of symptoms.
+
+Reference:
+1. COVID-⁠19 Suisse | Coronavirus | Dashboard [Internet]. [cited 2022 Oct 5]. Available from: https://www.covid19.admin.ch/fr/overview
+
 ### 01/09/2022 - Back to school, what are the possible scenarios with SARS-CoV-2?
 
 Although the Swiss health surveillance system underestimates the cases of COVID-19, the peak of the BA.5 wave has now been reached in our country. So what are the possible or likely scenarios for the new school year? Professor Antoine Flahault, Director of the Institute of Global Health in Geneva, proposes four scenarios, which we summarize here (1):

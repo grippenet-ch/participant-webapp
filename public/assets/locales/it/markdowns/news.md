@@ -1,3 +1,19 @@
+### 06/10/2022 - Aumentano i casi di COVID-19 in Svizzera
+
+Siamo lieti di fornirvi un aggiornamento sulla situazione epidemiologica della COVID-19 in Svizzera, secondo gli ultimi dati disponibili dell'Ufficio federale della sanità pubblica, datati 4 ottobre 2022 (1) :
+
+- **Casi confermati in laboratorio** : 25'134 casi dal 27.09.22. Il 03.10.22: 4'328 nuovi casi.
+- **Ricoveri ospedalieri** : 290 ricoveri dal 27.09.22. Il 03.10.22: 6 nuovi ricoveri.
+- **Decessi confermati in laboratorio** : 13 morti dal 27.09.22. Il 03.10.22 : 1 morte.
+- **Tasso di occupazione dell'unità di terapia intensiva** : 73.50%, di cui 3.90% da pazienti con COVID-19.
+- **Tasso di vaccinazione** : il 70,28% della popolazione ha ricevuto almeno una dose di vaccino.
+- **Proporzione stimata di varianti del virus (media su 7 giorni)** : 100.0% della variante B.1.1.529 (Omicron).
+
+In questo contesto, per proteggere voi stessi e la vostra famiglia, vi ricordiamo l'importanza delle misure di barriera e di sottoporvi al test in caso di sintomi.
+
+Riferimento :
+1. COVID-⁠19 Suisse | Coronavirus | Dashboard [Internet]. [cited 2022 Oct 5]. Available from: https://www.covid19.admin.ch/fr/overview
+
 ### 01/09/2022 - Il ritorno a scuola è arrivato, quali sono i possibili scenari con la SARS-CoV-2?
 
 Sebbene la sorveglianza sanitaria svizzera sottostimi i casi di COVID-19, il picco dell'ondata BA.5 è stato raggiunto nel nostro Paese. Quali sono dunque gli scenari possibili o probabili per il nuovo anno scolastico? Il professor Antoine Flahault, direttore dell'Istituto di salute globale di Ginevra, propone quattro scenari, che riassumiamo qui (1) :

@@ -1,3 +1,19 @@
+### 06/10/2022 - Fälle von COVID-19 nehmen in der Schweiz zu
+
+Im heutigen Newsletter geben wir Ihnen einen Überblick über die epidemiologische Lage bezüglich der COVID-19 Situation in der Schweiz. Dies ist basierend auf den letzten verfügbaren Daten des Bundesamtes für Gesundheit vom 04. Oktober 2022 (1):
+
+-	**Laborbestätigte Fälle**: 25’134 Fälle seit dem 27.09.22. Am 03.10.22: 4'328 neue Fälle.
+-	**Hospitalisierungen**: 290 Hospitalisierungen seit dem 27.09.22. Am 03.10.22: 6 neue Hospitalisierungen.
+-	**Laborbestätigte Todesfälle**: 13 Todesfälle seit dem 27.09.22. Am 03.10.22: 1 Todesfall.
+-	**Belegungsrate der Intensivstationen**: 73.50%, davon 3.90% durch Patient:Innen mit COVID-19.
+-	**Impfrate**: 70.28% der Bevölkerung erhielten mindestens eine Impfdosis.
+-	**Geschätzter Anteil der Virusvarianten (7-Tage-Mittelwert)**: 100.0% der Variante B.1.1.529 (Omicron).
+
+Um Sie und Ihre Angehörigen zu schützen, erinnern wir gerne an die Wichtigkeit von Schutzmassnahmen sowie auch daran, sich bei Symptomen testen zu lassen.
+
+Referenz:
+1. COVID-⁠19 Suisse | Coronavirus | Dashboard [Internet]. [cited 2022 Oct 5]. Available from: https://www.covid19.admin.ch/fr/overview
+
 ### 01/09/2022 - Der Schulbeginn ist da, welche Szenarien sind mit SARS-CoV-2 möglich?
 
 Obwohl die Gesundheitsüberwachung in der Schweiz die Fälle von COVID-19 unterschätzt, ist der Höhepunkt der Welle BA.5 nun auch in unserem Land erreicht. Was sind also die möglichen oder wahrscheinlichen Szenarien für den Beginn des neuen Schuljahres? Professor Antoine Flahault, Leiter des Instituts für Globale Gesundheit in Genf, schlägt vier vor, die wir hier zusammenfassen (1):

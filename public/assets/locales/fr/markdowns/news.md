@@ -1,3 +1,19 @@
+### 06/10/2022 – Les cas de COVID-19 augmentent en Suisse
+
+Nous vous proposons ce jour un point sur la situation épidémiologique concernant la COVID-19 en Suisse, selon les dernières données disponibles de l’Office fédéral de la santé publique, datant du 4 octobre 2022 (1) :
+
+-	**Cas confirmés en laboratoire** : 25’134 cas depuis le 27.09.22. Le 03.10.22 : 4’328 nouveaux cas.
+-	**Hospitalisations** : 290 hospitalisations depuis le 27.09.22. Le 03.10.22 : 6 nouvelles hospitalisations.
+-	**Décès confirmés en laboratoire** : 13 décès depuis le 27.09.22. Le 03.10.22 : 1 décès.
+-	**Taux d’occupation des unités de soins intensifs** : 73.50%, dont 3.90% par des patients atteints de COVID-19.
+-	**Taux de vaccination** : 70.28% de la population a reçu au moins une dose de vaccin.
+-	**Proportion estimée des variants du virus (moyenne sur 7 jours)** : 100.0% du variant B.1.1.529 (Omicron).
+
+Dans ce contexte, afin de vous protéger ainsi que vos proches, nous vous rappelons l’importance des gestes barrières et de vous faire tester en cas de symptômes.
+
+Référence :
+1. COVID-⁠19 Suisse | Coronavirus | Dashboard [Internet]. [cited 2022 Oct 5]. Available from: https://www.covid19.admin.ch/fr/overview
+
 ### 01/09/2022 - La rentrée est là, quels scénarios possibles avec le SARS-CoV-2 ?
 
 Bien que la surveillance sanitaire suisse sous-estime les cas de COVID-19, le pic de la vague BA.5 a désormais été atteint dans notre pays. Quels sont donc les scénarios possibles ou probables pour la rentrée ? Le Professeur Antoine Flahault, directeur de l’Institut de Santé Globale à Genève, en propose quatre, que nous vous résumons ici (1):

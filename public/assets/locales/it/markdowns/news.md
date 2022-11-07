@@ -1,3 +1,18 @@
+### 08/11/2022 – È ora di fare il vaccino antinfluenzale!
+
+La vaccinazione contro l'influenza è un modo efficace, semplice ed economico per proteggere se stessi e i propri cari dall'influenza. Oggi vi proponiamo un riassunto dei punti chiave della vaccinazione antinfluenzale, tratto dal bollettino informativo dell'UFSP (1):
+
+-	**Periodo consigliato**: da metà ottobre fino all'inizio della stagione influenzale (di solito intorno a gennaio).
+-	**Vaccini disponibili**: 4 vaccini quadrivalenti disponibili in Svizzera per la stagione 2022/2023.
+-	**Chi è interessato**: Le raccomandazioni per la vaccinazione nel 2022 sono identiche a quelle degli anni precedenti. Sono rivolti in particolare agli adulti/bambini con un elevato rischio di complicazioni in caso di influenza, nonché alle persone che sono regolarmente a stretto contatto (nella sfera privata o professionale) con persone vulnerabili, ovvero persone di età superiore ai 65 anni, pazienti con una storia di influenza, donne in gravidanza e personale del sistema sanitario. Per maggiori dettagli: www.sevaccinercontrelagrippe.ch (2).
+-	**Dove farsi vaccinare**: dal medico di famiglia, dal pediatra o dal ginecologo, presso il SGA, in farmacia, in ospedale (e in alcuni casi dal personale di assistenza nei servizi di assistenza domiciliare).
+-	**Rimborso**: per le persone ad alto rischio di complicanze da influenza, la vaccinazione è coperta dall'assicurazione sanitaria obbligatoria (soggetta all'importo della franchigia).
+-	**Altre norme igieniche**: oltre alla vaccinazione, semplici norme igieniche possono ridurre il rischio di trasmissione dell'influenza (ad esempio, ventilare regolarmente gli spazi chiusi, rimanere a casa in caso di sospetto di influenza/COVID-19, mantenere le distanze, indossare una maschera, osservare una buona igiene delle mani).
+
+Riferimenti :
+1.	OFSP O fédéral de la santé publique. OFSP-Bulletin 40/22 [Internet]. [cited 2022 Oct 25]. Available from: https://www.bag.admin.ch/bag/fr/home/das-bag/publikationen/periodika/bag-bulletin.html
+2.	Site de l’OFSP sur la grippe saisonnière et la vaccination. [Internet]. [cited 2022 Oct 25]. Available from: https://sevaccinercontrelagrippe.ch/fr-ch/gemeinsam-gegen-grippe.html
+
 ### 06/10/2022 - Aumentano i casi di COVID-19 in Svizzera
 
 Siamo lieti di fornirvi un aggiornamento sulla situazione epidemiologica della COVID-19 in Svizzera, secondo gli ultimi dati disponibili dell'Ufficio federale della sanità pubblica, datati 4 ottobre 2022 (1) :

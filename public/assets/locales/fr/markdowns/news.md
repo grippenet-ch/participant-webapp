@@ -1,3 +1,18 @@
+### 08/11/2022 – Il est temps de se faire vacciner contre la grippe !
+
+La vaccination contre la grippe représente un moyen efficace, simple et économique de se protéger contre la grippe, soi-même ainsi que ses proches. Nous vous proposons ce jour un résumé des points clés concernant la vaccination antigrippale, tiré du bulletin d’information de l’OFSP (1):
+
+-	**Période recommandée** : Dès mi-octobre, jusqu’au début de la vague de grippe (vers janvier en général).
+-	**Vaccins disponibles** : 4 vaccins quadrivalents disponibles en Suisse pour la saison 2022/2023.
+-	**Personnes concernées** : Les recommandations de vaccination en 2022 sont identiques à celles des années précédentes. Elles s’adressent notamment aux adultes / enfants présentant un risque élevé de complications en cas de grippe, ainsi qu’aux personnes qui sont régulièrement en contact étroit (dans la sphère privée ou professionnelle) avec les personnes vulnérables, à savoir celles de plus de 65 ans, les patients présentant des antécédents, les femmes enceintes et le personnel du système de santé. Plus de détails sur le site : www.sevaccinercontrelagrippe.ch (2).
+-	**Lieu de vaccination** : Chez son médecin de famille, pédiatre ou gynécologue, dans son EMS, dans une pharmacie, à l’hôpital (et dans certains cas, par le personnel soignant des services d’aide et de soins à domicile).
+-	**Remboursement** : Pour les personnes présentant un risque élevé de complications en cas de grippe, la vaccination est prise en charge par l’assurance obligatoire des soins (sous réserve du montant de la franchise).
+-	**Autres règles d’hygiène** : En plus de la vaccination, des règles d’hygiène simples permettent de réduire le risque de transmission de la grippe (par exemple : aérer régulièrement les espaces clos, rester chez soi en cas de suspicion de grippe / COVID-19, garder ses distances, porter un masque, observer une bonne hygiène des mains).
+
+Références :
+1.	OFSP O fédéral de la santé publique. OFSP-Bulletin 40/22 [Internet]. [cited 2022 Oct 25]. Available from: https://www.bag.admin.ch/bag/fr/home/das-bag/publikationen/periodika/bag-bulletin.html
+2.	Site de l’OFSP sur la grippe saisonnière et la vaccination. [Internet]. [cited 2022 Oct 25]. Available from: https://sevaccinercontrelagrippe.ch/fr-ch/gemeinsam-gegen-grippe.html
+
 ### 06/10/2022 – Les cas de COVID-19 augmentent en Suisse
 
 Nous vous proposons ce jour un point sur la situation épidémiologique concernant la COVID-19 en Suisse, selon les dernières données disponibles de l’Office fédéral de la santé publique, datant du 4 octobre 2022 (1) :
@@ -21,6 +36,7 @@ Bien que la surveillance sanitaire suisse sous-estime les cas de COVID-19, le pi
 -	**Le 2ème scénario (moins optimiste)** : une deuxième vague due au variant BA.5 se présente, en partie en raison des recontaminations, le variant actuel laissant peu de traces dans notre système immunitaire.
 -	**Le 3ème scénario (moins optimiste)** : un nouveau variant apparaît, de contagiosité et de virulence inconnue, et se propage rapidement, créant ainsi une nouvelle vague.
 -	**Le 4ème scénario (pessimiste)** : ce dernier scénario consiste en la co-circulation de plusieurs variants en même temps ; ces variants étant plus ou moins contagieux et virulents par rapport aux précédents.
+
 Pour conclure, « Quel que soit le scénario qui advienne à l'automne, (…) il est crucial de faire preuve d'anticipation, d'humanité et de solidarité » (1). Par ailleurs, afin d’améliorer nos capacités d’anticipation, une veille sanitaire de qualité est importante, raison d’être de la plateforme Grippenet. Merci donc à vous pour votre précieuse collaboration !
 
 Référence :

@@ -1,3 +1,18 @@
+### 08/11/2022 – Es ist Zeit, sich gegen Grippe impfen zu lassen!
+
+Die Grippeimpfung ist eine wirksame, einfache und kostengünstige Möglichkeit, sich selbst und seine Angehörigen vor einer Grippe zu schützen. Wir bieten Ihnen heute eine Zusammenfassung der wichtigsten Punkte zur Grippeimpfung aus dem Informationsbulletin des BAG (1):
+
+- **Empfohlener Zeitraum**: ab Mitte Oktober bis zum Beginn der Grippewelle (in der Regel gegen Januar).
+-	**Verfügbare Impfstoffe**: 4 Impfstoffe, die in der Schweiz für die Saison 2022/2023 verfügbar sind.
+-	**Betroffene Personen**: Die Impfempfehlungen für 2022 sind identisch mit denjenigen der Vorjahre. Sie richten sich insbesondere an Erwachsene / Kinder mit einem hohen Komplikationsrisiko im Falle einer Grippeerkrankung sowie an Personen, die regelmässig (privat oder beruflich) in engem Kontakt mit gefährdeten Personen stehen, d.h. Personen über 65 Jahre, Patienten mit Vorerkrankungen, schwangere Frauen und Personal des Gesundheitssystems. Weitere Einzelheiten finden Sie unter: www.sevaccinercontrelagrippe.ch (2).
+-	**Ort der Impfung**: beim Hausarzt, Kinderarzt oder Gynäkologen, im Pflegeheim, in einer Apotheke, im Krankenhaus (und in einigen Fällen durch das Pflegepersonal der Spitex).
+-	**Rückerstattung**: Bei Personen mit einem hohen Komplikationsrisiko bei Grippe wird die Impfung von der obligatorischen Krankenpflegeversicherung übernommen (vorbehaltlich der Höhe des Selbstbehalts).
+-	**Weitere Hygieneregeln**: Neben der Impfung können einfache Hygieneregeln das Risiko einer Grippeübertragung verringern (z. B. regelmäßiges Lüften geschlossener Räume, bei Verdacht auf Grippe/COVID-19 zu Hause bleiben, Abstand halten, Mundschutz tragen, gute Händehygiene beachten).
+
+Referenzen:
+1.	OFSP O fédéral de la santé publique. OFSP-Bulletin 40/22 [Internet]. [cited 2022 Oct 25]. Available from: https://www.bag.admin.ch/bag/fr/home/das-bag/publikationen/periodika/bag-bulletin.html
+2.	Site de l’OFSP sur la grippe saisonnière et la vaccination. [Internet]. [cited 2022 Oct 25]. Available from: https://sevaccinercontrelagrippe.ch/fr-ch/gemeinsam-gegen-grippe.html
+
 ### 06/10/2022 - Fälle von COVID-19 nehmen in der Schweiz zu
 
 Im heutigen Newsletter geben wir Ihnen einen Überblick über die epidemiologische Lage bezüglich der COVID-19 Situation in der Schweiz. Dies ist basierend auf den letzten verfügbaren Daten des Bundesamtes für Gesundheit vom 04. Oktober 2022 (1):
@@ -21,6 +36,7 @@ Obwohl die Gesundheitsüberwachung in der Schweiz die Fälle von COVID-19 unters
 -	**Szenario 2 (weniger optimistisch)**: Es kommt zu einer zweiten Welle der BA.5-Variante, teilweise aufgrund von Rekontaminationen, da die aktuelle Variante kaum Spuren in unserem Immunsystem hinterlässt.
 -	**Das 3. Szenario (weniger optimistisch)**: Eine neue Variante tritt auf, deren Ansteckungsfähigkeit und Virulenz unbekannt ist, und breitet sich schnell aus, wodurch eine neue Welle entsteht.
 -	**Das vierte (pessimistische) Szenario**: Dieses letzte Szenario besteht darin, dass mehrere Varianten gleichzeitig zirkulieren; diese Varianten sind im Vergleich zu den vorherigen Varianten mehr oder weniger ansteckend und virulent.
+
 Zusammenfassend lässt sich sagen: "Welches Szenario auch immer im Herbst eintritt, (...) ist es entscheidend, vorausschauend zu handeln, Menschlichkeit und Solidarität zu zeigen" (1). Um unsere Antizipationsfähigkeit zu verbessern, ist außerdem eine qualitativ hochwertige Gesundheitsüberwachung wichtig, die der Grund der Grippenet-Plattform ist. Vielen Dank für Ihre wertvolle Mitarbeit!
 
 Referenz:

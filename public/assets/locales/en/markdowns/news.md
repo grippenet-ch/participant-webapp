@@ -1,3 +1,18 @@
+### 08/11/2022 – It's time to get your flu vaccine!
+
+Vaccination against influenza is an effective, simple and economical way to protect yourself and your loved ones against influenza. Today we offer you a summary of the key points concerning flu vaccination, taken from the FOPH's information bulletin (1):
+
+-	**Recommended period**: From mid-October until the start of the flu season (usually around January).
+-	**Available vaccines**: 4 vaccines available in Switzerland for the 2022/2023 season.
+-	**Who is concerned**: The recommendations for vaccination in 2022 are identical to those of previous years. They are aimed in particular at adults/children with a high risk of complications in the event of influenza, as well as at people who are regularly in close contact (in the private or professional sphere) with vulnerable people, namely those over 65 years of age, patients with comorbidities, pregnant women and health system personnel. More details at: www.sevaccinercontrelagrippe.ch (2).
+-	**Where to get vaccinated**: From your family doctor, paediatrician or gynaecologist, in your retirement home, in a pharmacy, in hospital (and in some cases, by nursing staff from home help and care services).
+-	**Reimbursement**: For people with a high risk of complications from influenza, the vaccination is covered by the health insurance (subject to the deductible amount).
+-	**Other hygiene rules**: In addition to vaccination, simple hygiene rules can reduce the risk of influenza transmission (e.g. regular ventilation of enclosed spaces, staying at home if influenza/COVID-19 is suspected, keeping your distance, wearing a mask, good hand hygiene).
+
+References:
+1.	OFSP O fédéral de la santé publique. OFSP-Bulletin 40/22 [Internet]. [cited 2022 Oct 25]. Available from: https://www.bag.admin.ch/bag/fr/home/das-bag/publikationen/periodika/bag-bulletin.html
+2.	Site de l’OFSP sur la grippe saisonnière et la vaccination. [Internet]. [cited 2022 Oct 25]. Available from: https://sevaccinercontrelagrippe.ch/fr-ch/gemeinsam-gegen-grippe.html
+
 ### 06/10/2022 - COVID-19 cases increase in Switzerland
 
 We provide today an update on the epidemiological situation regarding COVID-19 in Switzerland, according to the latest available data from the Federal Office of Public Health, dated 4 October 2022 (1):
@@ -21,6 +36,7 @@ Although the Swiss health surveillance system underestimates the cases of COVID-
 -	**The 2nd scenario (less optimistic)**: a second wave due to the BA.5 variant occurs, partly due to recontamination, as the current variant leaves little trace in our immune system.
 -	**The 3rd scenario (less optimistic)**: a new variant appears, of unknown contagiousness and virulence, and spreads rapidly, creating a new wave.
 -	**The 4th scenario (pessimistic)**: this last scenario consists of the co-circulation of several variants at the same time; these variants being more or less contagious and virulent than the previous ones.
+
 In conclusion, "Whatever the scenario that emerges in the autumn, (...) it is crucial to show anticipation, humanity and solidarity" (1). Moreover, in order to improve our anticipation capacities, a quality health surveillance system is important, which is the reason for the existence of the Grippenet platform. So thank you for your valuable collaboration!
 
 Reference:

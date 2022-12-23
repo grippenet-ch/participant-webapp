@@ -1,3 +1,9 @@
+### 23/12/2022 – Happy Holidays and thank you for your loyalty to Grippenet!
+
+The Grippenet team wishes you a happy holiday season and a happy new year 2023! Thanks to your participation, you contribute to a better surveillance of Influenza and COVID-19 in Switzerland, and we warmly thank you for your involvement!
+
+<img style="width: 50%;margin-bottom: 10px" src="assets/images/christmas_2022.jpg" alt="Happy Christmas 2022">
+
 ### 08/11/2022 – It's time to get your flu vaccine!
 
 Vaccination against influenza is an effective, simple and economical way to protect yourself and your loved ones against influenza. Today we offer you a summary of the key points concerning flu vaccination, taken from the FOPH's information bulletin (1):

@@ -1,3 +1,9 @@
+### 23/12/2022 – Joyeuses fêtes de fin d’année et merci pour votre fidélité envers Grippenet !
+
+L’équipe de Grippenet vous souhaite de joyeuses fêtes de fin d’année et une heureuse année 2023 ! Grâce à votre participation, vous contribuez à une meilleure surveillance de la grippe et de la COVID-19 en Suisse, et nous vous remercions chaleureusement de votre implication !
+
+<img style="width: 50%;margin-bottom: 10px" src="assets/images/christmas_2022.jpg" alt="Happy Christmas 2022">
+
 ### 08/11/2022 – Il est temps de se faire vacciner contre la grippe !
 
 La vaccination contre la grippe représente un moyen efficace, simple et économique de se protéger contre la grippe, soi-même ainsi que ses proches. Nous vous proposons ce jour un résumé des points clés concernant la vaccination antigrippale, tiré du bulletin d’information de l’OFSP (1):

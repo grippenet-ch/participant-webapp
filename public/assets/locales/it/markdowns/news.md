@@ -1,3 +1,9 @@
+### 23/12/2022 - Buone feste e grazie per la vostra fedeltà a Grippenet!
+
+Il team di Grippenet vi augura un buon Natale e un felice anno nuovo 2023! Grazie alla vostra partecipazione, contribuite a una migliore sorveglianza dell'influenza e della COVID-19 in Svizzera e vi ringraziamo calorosamente per il vostro coinvolgimento!
+
+<img style="width: 50%;margin-bottom: 10px" src="assets/images/christmas_2022.jpg" alt="Happy Christmas 2022">
+
 ### 08/11/2022 – È ora di fare il vaccino antinfluenzale!
 
 La vaccinazione contro l'influenza è un modo efficace, semplice ed economico per proteggere se stessi e i propri cari dall'influenza. Oggi vi proponiamo un riassunto dei punti chiave della vaccinazione antinfluenzale, tratto dal bollettino informativo dell'UFSP (1):

@@ -1,3 +1,9 @@
+### 23/12/2022 - Frohe Festtage und danke für Ihre Treue zu Grippenet!
+
+Das Grippenet-Team wünscht Ihnen ein frohes Weihnachtsfest und ein glückliches Jahr 2023! Durch Ihre Teilnahme tragen Sie zu einer besseren Überwachung von Grippe und COVID-19 in der Schweiz bei, und wir danken Ihnen herzlich für Ihr Engagement!
+
+<img style="width: 50%;margin-bottom: 10px" src="assets/images/christmas_2022.jpg" alt="Happy Christmas 2022">
+
 ### 08/11/2022 – Es ist Zeit, sich gegen Grippe impfen zu lassen!
 
 Die Grippeimpfung ist eine wirksame, einfache und kostengünstige Möglichkeit, sich selbst und seine Angehörigen vor einer Grippe zu schützen. Wir bieten Ihnen heute eine Zusammenfassung der wichtigsten Punkte zur Grippeimpfung aus dem Informationsbulletin des BAG (1):

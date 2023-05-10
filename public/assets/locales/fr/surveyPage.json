@@ -10,5 +10,18 @@
   "notValidQuestion": "Veuillez sélectionner une réponse valide pour toutes les questions.",
   "backBtn": "Retour",
   "nextBtn": "Suivant",
-  "submitBtn": "Envoyer"
+  "submitBtn": "Envoyer",
+  "surveyLoadingError": {
+     "content": "Malheureusement, quelque chose s'est mal passé lors du chargement du questionnaire.\n\nVeuillez s'il-vous-plaît réessayer ou contacter notre [assistance](mailto:support@grippenet.ch) si le problème persiste.",
+     "btn": "Essayer à nouveau"
+   },
+   "surveySubmissionError": {
+     "content": "Malheureusement, quelque chose s'est mal passé lors de l'envoi du questionnaire.\n\nVeuillez s'il-vous-plaît réessayer ou contacter notre [assistance](mailto:support@grippenet.ch) si le problème persiste.",
+     "btn": "Essayer à nouveau"
+   },
+   "submitSuccessDialog": {
+     "title": "Information",
+     "content": "Votre questionnaire a été soumis avec succès.",
+     "btn": "Continuer"
+   }
 }

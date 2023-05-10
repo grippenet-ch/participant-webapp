@@ -10,5 +10,18 @@
   "notValidQuestion": "Seleziona una risposta valida per tutte le domande.",
   "backBtn": "Indietro",
   "nextBtn": "Avanti",
-  "submitBtn": "Invia"
+  "submitBtn": "Invia",
+  "surveyLoadingError": {
+     "content": "Purtroppo qualcosa è andato storto nel caricamento del questionario.\n\nSi prega di riprovare o di contattare il nostro [supporto](mailto:support@grippenet.ch) se il problema persiste.",
+     "btn": "Riprova"
+   },
+   "surveySubmissionError": {
+     "content": "Purtroppo qualcosa è andato storto durante l'invio del questionario.\n\nSi prega di riprovare o di contattare il nostro [supporto](mailto:support@grippenet.ch) se il problema persiste.",
+     "btn": "Riprova"
+   },
+   "submitSuccessDialog": {
+     "title": "Info",
+     "content": "Il questionario è stato inviato con successo.",
+     "btn": "Continuare"
+   }
 }

@@ -10,5 +10,18 @@
   "notValidQuestion": "Bitte geben Sie für alle Fragen eine gültige Antwort ein.",
   "backBtn": "Zurück",
   "nextBtn": "Weiter",
-  "submitBtn": "Absenden"
+  "submitBtn": "Absenden",
+  "surveyLoadingError": {
+     "content": "Leider ging beim Laden des Fragebogens etwas schief.\n\nBitte versuchen Sie es erneut oder kontaktieren Sie unseren [support](mailto:support@grippenet.ch), wenn das Problem weiterhin besteht.",
+     "btn": "Nochmals versuchen"
+   },
+   "surveySubmissionError": {
+     "content": "Leider ging beim Versenden des Fragebogens etwas schief.\n\nBitte versuchen Sie es erneut oder kontaktieren Sie unseren [support](mailto:support@grippenet.ch), wenn das Problem weiterhin besteht.",
+     "btn": "Nochmals versuchen"
+   },
+   "submitSuccessDialog": {
+     "title": "Info",
+     "content": "Ihr Fragebogen wurde erfolgreich abgeschickt.",
+     "btn": "Weiter"
+   }
 }

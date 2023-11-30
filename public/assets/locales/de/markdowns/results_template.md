@@ -13,10 +13,4 @@ Die nachfolgende Grafik zeigt die wöchentlichen Inzidenzen von grippeähnlichen
   data-url="resources/switzerland/visualizations/ili_incidence_series_de.json"
 />
 
-Die nachfolgende Grafik zeigt den Prozentsatz der Teilnehmer:innen, die bereits zweifach gegen COVID-19 geimpft wurden. Die einzelnen Punkte stellen den tatsächlichen Prozentsatz dar, die durchgezogene Linie zeigt den Mittelwert der letzten beiden gemessenen Werte.
-
-<lineandscatterchart
-  data-url="resources/switzerland/visualizations/covid_vaccine_series_de.json"
-/>
-
 **HINWEIS**: Die Hauptsymptome einer COVID-19-Erkrankung können auch von anderen Viren ausgelöst werden, wie z. B. von den üblichen Grippeviren. Daher können die von der Grippenet-Plattform, einer symptombasierten Überwachungsplattform, erfassten Werte auch Symptome von anderen möglichen Krankheiten registrieren.

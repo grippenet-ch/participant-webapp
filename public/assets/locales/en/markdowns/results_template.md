@@ -13,10 +13,4 @@ The plot displayed below shows the weekly incidence of flu-like illness cases (C
   data-url="resources/switzerland/visualizations/ili_incidence_series_en.json"
 />
 
-The plot displayed below shows the percentage of participants of the Grippenet project who completed the vaccination series against COVID-19 (2 doses). The single points represent the actual percentage value, the continuous line represents a continuing mean of the last two values measured.
-
-<lineandscatterchart
-  data-url="resources/switzerland/visualizations/covid_vaccine_series_en.json"
-/>
-
 **NOTE**: The main symptoms of a COVID-19 infection may also be caused by other viruses, like the common flu viruses. The data collected by the Grippenet platform (a symptoms-based monitoring platform) may contain a overrepresentation of symptoms from other infections.

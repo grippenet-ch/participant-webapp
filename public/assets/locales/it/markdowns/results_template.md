@@ -12,10 +12,4 @@ Il grafico qui sotto mostra l'incidenza settimanale delle malattie simili all'in
   data-url="resources/switzerland/visualizations/ili_incidence_series_it.json"
 />
 
-Il grafico sottostante mostra la percentuale di partecipanti al Grippenet che hanno completato la serie di vaccinazioni COVID-19 (2 dosi). I singoli punti rappresentano il valore percentuale attuale, la linea solida rappresenta una media mobile degli ultimi due valori misurati.
-
-<lineandscatterchart
-  data-url="resources/switzerland/visualizations/covid_vaccine_series_it.json"
-/>
-
 **NOTA**: i sintomi principali di un'infezione da COVID-19 possono essere scatenati anche da altri virus, come i comuni virus influenzali. I valori raccolti dalla piattaforma Grippenet, una piattaforma di sorveglianza basata sui sintomi, possono contenere una sovrapposizione di segnali di altre infezioni.

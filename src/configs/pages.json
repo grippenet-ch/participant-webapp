@@ -240,6 +240,15 @@
               "className": "col-12 col-lg-8",
               "items": [
                 {
+                  "itemKey": "privacyPolicyChange",
+                  "config": {
+                    "type": "extension",
+                    "config": {
+                      "type": "privacy-policy-change"
+                    }
+                  }
+                },
+                {
                   "itemKey": "surveyList",
                   "className": "",
                   "config": {

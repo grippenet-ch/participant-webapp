@@ -1,12 +1,12 @@
 @import './color-scheme';
-@import '~case-web-ui/build/scss/helpers/spacing.scss';
-@import '~case-web-ui/build/scss/helpers/forms.scss';
-@import '~case-web-ui/build/scss/helpers/custom_range.scss';
-@import '~case-web-ui/build/scss/helpers/navbar.scss';
-@import '~case-web-ui/build/scss/helpers/borders.scss';
-@import '~case-web-ui/build/scss/helpers/date_input.scss';
-@import '~case-web-ui/build/scss/helpers//typography.scss';
-@import '~case-web-ui/build/scss/helpers/utilities.scss';
+@import '~@influenzanet/case-web-ui/build/scss/helpers/spacing.scss';
+@import '~@influenzanet/case-web-ui/build/scss/helpers/forms.scss';
+@import '~@influenzanet/case-web-ui/build/scss/helpers/custom_range.scss';
+@import '~@influenzanet/case-web-ui/build/scss/helpers/navbar.scss';
+@import '~@influenzanet/case-web-ui/build/scss/helpers/borders.scss';
+@import '~@influenzanet/case-web-ui/build/scss/helpers/date_input.scss';
+@import '~@influenzanet/case-web-ui/build/scss/helpers//typography.scss';
+@import '~@influenzanet/case-web-ui/build/scss/helpers/utilities.scss';
 
 @include datepicker_classes($theme-colors);
 
@@ -37,5 +37,5 @@ $enable-rounded: false !default;
 }
 
 
-@import '~case-web-ui/build/scss/iconfonts';
+@import '~@influenzanet/case-web-ui/build/scss/iconfonts';
 @import '~bootstrap/scss/bootstrap.scss';

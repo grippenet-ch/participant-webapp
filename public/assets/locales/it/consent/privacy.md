@@ -1,6 +1,6 @@
 Facendo clic sul pulsante "Acconsento", accetti di partecipare al progetto Grippenet e accetti che i ricercatori elaborino i tuoi dati per questo sondaggio.
 
-L'indagine mira a identificare la circolazione nella popolazione di sintomi che possano indicare la presenza di malattie infettive come il nuovo coronavirus o l'influenza. Questo studio è importante per determinare se il numero di persone con sintomi è in aumento o in diminuzione. Maggiori informazioni sullo scopo del sondaggio e sui tuoi diritti sono disponibili nella [informativa sulla privacy] (privacy).
+L'indagine mira a identificare la circolazione nella popolazione di sintomi che possano indicare la presenza di malattie infettive come il nuovo coronavirus o l'influenza. Questo studio è importante per determinare se il numero di persone con sintomi è in aumento o in diminuzione. Maggiori informazioni sullo scopo del sondaggio e sui tuoi diritti sono disponibili nella [informativa sulla privacy](privacy).
 
 #### REQUISITI PER LA TUA PARTECIPAZIONE ALLO STUDIO
 
@@ -13,8 +13,8 @@ L'indagine mira a identificare la circolazione nella popolazione di sintomi che 
 * Comprendo che la mia partecipazione allo studio può essere interrotta senza il mio consenso.
 * Dichiaro di avere almeno 18 anni e sono consapevole che Grippenet non è un sito Web medico e mi rivolgerò sempre a un medico per qualsiasi domanda.
 * Per il consenso prestato per conto di un minore, in aggiunta alle precedenti condizioni, si applica quanto segue:
-         * Se il consenso viene concesso per conto di un minore di 14 anni, dichiaro di essere legalmente autorizzato a concedere il consenso come genitore o tutore.
-         * Se il consenso viene concesso per conto di un minore di età compresa tra 14 e 17 anni, dichiaro di essere legalmente autorizzato a concedere il consenso come genitore o tutore e ne ho discusso anche con il minore interessato.
-         * Per ragioni di chiarezza, il consenso per chiunque abbia compiuto 18 anni deve essere sempre prestato dall'interessato e non da nessun altro.
+  * Se il consenso viene concesso per conto di un minore di 14 anni, dichiaro di essere legalmente autorizzato a concedere il consenso come genitore o tutore.
+  * Se il consenso viene concesso per conto di un minore di età compresa tra 14 e 17 anni, dichiaro di essere legalmente autorizzato a concedere il consenso come genitore o tutore e ne ho discusso anche con il minore interessato.
+  * Per ragioni di chiarezza, il consenso per chiunque abbia compiuto 18 anni deve essere sempre prestato dall'interessato e non da nessun altro.
 
 Accetto di partecipare allo studio.

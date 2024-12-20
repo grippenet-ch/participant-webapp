@@ -6,6 +6,7 @@ import { RootState } from "@influenzanet/case-web-app-core/build/store/rootReduc
 import { Profile } from "@influenzanet/case-web-app-core/build/api/types/user";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faPenToSquare } from "@fortawesome/free-solid-svg-icons";
+import { faTriangleExclamation } from "@fortawesome/free-solid-svg-icons";
 import { MarkdownLoader } from "@influenzanet/case-web-ui";
 import { useTranslation } from "react-i18next";
 import clsx from 'clsx';
@@ -64,7 +65,7 @@ const PrivacyPolicyChange: React.FC = () => {
         >
           {isAccordionOpen && (
             <h5 className="mb-0">
-              <strong>{t("actionRequired")}</strong>:{" "}
+              <FontAwesomeIcon icon={faTriangleExclamation} size="lg" className="me-1" />{" "}
               {t("privacyPolicyUpdates")}
             </h5>
           )}

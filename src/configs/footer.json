@@ -2,6 +2,7 @@
   "columns": [
     {
       "columnKey": "services",
+      "classNameOverride": "col-12 col-sm-10 col-md-8 col-lg-4 col-xl-3 mt-3 text-white flex-grow-1",
       "items": [
         {
           "type": "internal",
@@ -12,7 +13,7 @@
     },
     {
       "columnKey": "about",
-      "items": [
+      "classNameOverride": "col-12 col-sm-10 col-md-8 col-lg-4 col-xl-3 mt-3 text-white flex-grow-1",      "items": [
         {
           "type": "internal",
           "itemKey": "privacy",
@@ -32,6 +33,7 @@
     },
     {
       "columnKey": "languages",
+      "classNameOverride": "col-12 col-sm-10 col-md-8 col-lg-4 col-xl-3 mt-3 text-white flex-grow-1",
       "items": [
         {
           "type": "language",

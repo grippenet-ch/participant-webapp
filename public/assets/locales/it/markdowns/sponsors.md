@@ -1,4 +1,46 @@
-<table width="100%" class="mb-3" style="padding-bottom: 30px">
-<tr><td><div style="text-align: center; padding: 0 30px;"><h2>Sostenitori</h2></div></td></tr>
-<tr><td style="padding: 0;"><table width="100%"><tr><td width="25%"><table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%"><tr><td ><a href="https://www.unige.ch/medecine/isg/en/about-us/" target="_blank"><img align="center" border="0" src="assets/images/isg_logo.png" alt="Image" title="Image" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 200px;" width="105"/></a></td></tr></table></td><td width="25%"><table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%"><tr><td ><a href="https://ethz.ch" target="_blank"><img align="center" border="0" src="assets/images/eth_logo.png" alt="Image" title="Image" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 200px;" width="105"/></a></td></tr></table></td><td width="25%"><table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%"><tr><td ><a href="https://www.cimplex-project.eu/" target="_blank"><img align="center" border="0" src="assets/images/cimplex_logo.png" alt="Image" title="Image" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 100px;" width="105"/></a></td></tr></table></td><td width="25%"><table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%"><tr><td ><a href="https://isi.it/en/home" target="_blank"><img align="center" border="0" src="assets/images/isi.png" alt="Image" title="Image" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 200px;" width="105"/></a></td></tr></table></td></tr></table></td></tr>
-</table>
+<div class="row">
+  <div class="col-12 d-flex justify-content-center">
+    <h2>Sostenitori</h2>
+  </div>
+</div>
+<div class="row mb-2">
+  <a
+    class="col-md d-flex justify-content-center"
+    href="https://www.ispm.unibe.ch/"
+    target="_blank"
+  >
+    <img
+      class="img-fluid"
+      style="max-height: 120px;"
+      src="assets/images/logo_unibern.png"
+      alt="Unibe logo"
+      title="Unibe"
+    />
+  </a>
+  <a
+    class="col-md d-flex justify-content-center"
+    href="http://influenzanet.info"
+    target="_blank"
+  >
+    <img
+      class="img-fluid"
+      style="max-height: 120px;"
+      src="assets/images/influenzanet.png"
+      alt="Influenzanet logo"
+      title="Influenzanet"
+    />
+  </a>
+  <a
+    class="col-md d-flex justify-content-center"
+    href="https://isi.it/en/home"
+    target="_blank"
+  >
+    <img
+      class="img-fluid"
+      style="max-height: 120px;"
+      src="assets/images/isi.jpg"
+      alt="ISI logo"
+      title="ISI"
+    />
+  </a>
+</div>

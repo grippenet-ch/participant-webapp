@@ -1,3 +1,9 @@
+### 06/01/2025 - Merci pour votre participation à Grippenet !
+
+Le nouveau team de Grippenet de l'Université de Berne remercie tous les participants fidèles et espère continuer à vous motiver à contribuer à cet important projet. En Suisse, la saison de la grippe se déroule généralement entre décembre et mars, avec un pic en janvier ou février ([Bulletin OFSP 43/24](https://www.bag.admin.ch/dam/bag/de/dokumente/cc/Kampagnen/Bulletin/2024/bu-43-24.pdf.download.pdf/BU_43_24_DE.pdf)). Le suivi de vos symptômes nous aide à mieux comprendre la dynamique des maladies infectieuses et permet des interventions plus ciblées. Vous jouez un rôle clé dans l'amélioration de notre compréhension de la grippe et du COVID-19 en Suisse.
+
+Si vous avez des questions concernant Grippenet ou des suggestions pour améliorer votre expérience, n’hésitez pas à [nous contacter](mailto:support@grippenet.ch).
+
 ### 23/12/2022 – Joyeuses fêtes de fin d’année et merci pour votre fidélité envers Grippenet !
 
 L’équipe de Grippenet vous souhaite de joyeuses fêtes de fin d’année et une heureuse année 2023 ! Grâce à votre participation, vous contribuez à une meilleure surveillance de la grippe et de la COVID-19 en Suisse, et nous vous remercions chaleureusement de votre implication !

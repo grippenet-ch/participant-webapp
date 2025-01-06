@@ -1,3 +1,9 @@
+### 06/01/2025 – Danke für Ihr Engagement bei Grippenet!
+
+Das neue Grippenet-Team der Universität Bern bedankt sich herzlich bei allen treuen Teilnehmenden und hofft, Sie weiterhin zu einem wertvollen Beitrag motivieren zu können. In der Schweiz tritt die Grippewelle typischerweise zwischen Dezember und März auf, mit den meisten Fällen im Januar oder Februar ([BAG-Bulletin 43/24](https://www.bag.admin.ch/dam/bag/de/dokumente/cc/Kampagnen/Bulletin/2024/bu-43-24.pdf.download.pdf/BU_43_24_DE.pdf)). Durch die Dokumentation Ihrer Symptome tragen Sie dazu bei, die Dynamik von Infektionskrankheiten wie der Grippe und COVID-19 besser zu verstehe, um eine gezielte Intervention zu ermöglichen.
+
+Bitte zögern Sie nicht, [uns zu kontaktieren](mailto:support@grippenet.ch), wenn Sie Fragen zu Grippenet haben oder Vorschläge zur Verbesserung der Plattform haben.
+
 ### 23/12/2022 - Frohe Festtage und danke für Ihre Treue zu Grippenet!
 
 Das Grippenet-Team wünscht Ihnen ein frohes Weihnachtsfest und ein glückliches Jahr 2023! Durch Ihre Teilnahme tragen Sie zu einer besseren Überwachung von Grippe und COVID-19 in der Schweiz bei, und wir danken Ihnen herzlich für Ihr Engagement!

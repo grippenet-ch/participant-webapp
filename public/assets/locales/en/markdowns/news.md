@@ -1,3 +1,9 @@
+### 06/01/2025 – Thank you for your participation in Grippenet!
+
+The new Grippenet team at University of Bern sincerely thanks all loyal participants and hopes to continue motivating you to contribute to this important project. In Switzerland, the flu season typically occurs between December and March, with a peak in January or February ([BAG Bulletin 43/24](https://www.bag.admin.ch/dam/bag/de/dokumente/cc/Kampagnen/Bulletin/2024/bu-43-24.pdf.download.pdf/BU_43_24_DE.pdf)). By tracking your symptoms, you help us to better understand the dynamics of infectious diseases of influenza-like illnesses (ILIs) in Switzerland, enabling more targeted and effective interventions.
+
+If you have any questions about Grippenet or suggestions for improving your experience, please don’t hesitate to [contact us](mailto:support@grippenet.ch).
+
 ### 23/12/2022 – Happy Holidays and thank you for your loyalty to Grippenet!
 
 The Grippenet team wishes you a happy holiday season and a happy new year 2023! Thanks to your participation, you contribute to a better surveillance of Influenza and COVID-19 in Switzerland, and we warmly thank you for your involvement!

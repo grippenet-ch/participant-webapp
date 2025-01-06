@@ -1,3 +1,9 @@
+### 06/01/2025 - Grazie per la vostra partecipazione a Grippenet!
+
+Il nuovo team di Grippenet dell’Università di Berna ringrazia sinceramente tutti i partecipanti fedeli e spera di continuare a motivarvi a contribuire a questo importante progetto. In Svizzera, la stagione influenzale si verifica generalmente tra dicembre e marzo, con un picco tra gennaio e febbraio ([Bulletin OFSP 43/24](https://www.bag.admin.ch/dam/bag/de/dokumente/cc/Kampagnen/Bulletin/2024/bu-43-24.pdf.download.pdf/BU_43_24_DE.pdf)). Monitorando i vostri sintomi, ci aiutate a comprendere meglio le dinamiche delle malattie infettive come l'influenza e il COVID-19 in Svizzera, permettendo interventi più mirati ed efficaci.
+
+Se avete domande su Grippenet o suggerimenti per migliorare la vostra esperienza, non esitate [a contattarci](mailto:support@grippenet.ch).
+
 ### 23/12/2022 - Buone feste e grazie per la vostra fedeltà a Grippenet!
 
 Il team di Grippenet vi augura un buon Natale e un felice anno nuovo 2023! Grazie alla vostra partecipazione, contribuite a una migliore sorveglianza dell'influenza e della COVID-19 in Svizzera e vi ringraziamo calorosamente per il vostro coinvolgimento!

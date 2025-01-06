@@ -1,5 +1,6 @@
 ## What is Grippenet?<br>
-Grippenet is a participatory surveillance system that contributes to the detection and surveillance of influenza-like-illnesses (ILIs) and COVID-19 in Switzerland. It aims to provide a better understanding of the transmission of these diseases. It is a project that was launched and implemented in Switzerland in 2016 in collaboration with the Institute of Global Health (ISG) of the Faculty of Medicine of the University of Geneva, the Laboratory of Computational Epidemiology (ISI, Turin), Computational Social Sciences (ETH, Zürich), the Laboratory of Digital Epidemiology (EPFL, Lausanne) and the National Reference Center for Influenza (HUG, Geneva). Grippenet is part of a larger scale project, Influenzanet, which is a European monitoring system introduced in 2003 initially by the Netherlands and Belgium and later ratified by ten other European countries, including Switzerland in 2016. Since March 2020, Grippenet.ch also contributes to the monitoring of the COVID-19 pandemic.
+
+Grippenet is a participatory surveillance system that monitors influenza-like illnesses (ILIs) in Switzerland, aiming to enhance the understanding of the transmission dynamic of these diseases. It was launched and implemented in Switzerland in 2016 by the Institute of Global Health (ISG) at the University of Geneva and its partners. Since 2025, it has been led by researchers from the [Institute of Social and Preventive Medicine](https://www.ispm.unibe.ch/index_eng.html) (ISPM) at the University of Bern.
 
 ## How does Grippenet work?<br>
 

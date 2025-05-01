@@ -240,6 +240,14 @@
               "className": "col-12 col-lg-8",
               "items": [
                 {
+                  "itemKey": "userSymptomsHistory",
+                  "className": "row g-0 bg-primary",
+                  "config": {
+                    "type": "userSymptomsHistory",
+                    "studyId": "standard"
+                  }
+                },
+                {
                   "itemKey": "surveyList",
                   "className": "",
                   "config": {

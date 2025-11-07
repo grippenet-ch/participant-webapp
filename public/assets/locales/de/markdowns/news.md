@@ -1,3 +1,9 @@
+### 07/11/2025 – Anstieg der Atemwegsinfektionen
+
+* Atemwegsinfektionen nehmen derzeit wieder zu. Aktuelle Informationen zur Lage in der Schweiz finden Sie unter: [https://www.idd.bag.admin.ch/](https://www.idd.bag.admin.ch/).
+* Wenn Sie sich krank fühlen, bleiben Sie bitte zu Hause, meiden Sie öffentliche Verkehrsmittel und – falls möglich – arbeiten Sie von zuhause. Ruhen Sie sich aus, um schneller zu genesen.
+* Eine Impfung kann vorbeugend vor einer (schweren) Erkrankung schützen. Weitere Informationen dazu finden Sie unter: [https://www.vacciner-suisse.ch/de](https://www.impfen-schweiz.ch/de).
+
 ### 06/01/2025 – Danke für Ihr Engagement bei Grippenet!
 
 Das neue Grippenet-Team der Universität Bern bedankt sich herzlich bei allen treuen Teilnehmenden und hofft, Sie weiterhin zu einem wertvollen Beitrag motivieren zu können. In der Schweiz tritt die Grippewelle typischerweise zwischen Dezember und März auf, mit den meisten Fällen im Januar oder Februar ([BAG-Bulletin 43/24](https://www.bag.admin.ch/dam/bag/de/dokumente/cc/Kampagnen/Bulletin/2024/bu-43-24.pdf.download.pdf/BU_43_24_DE.pdf)). Durch die Dokumentation Ihrer Symptome tragen Sie dazu bei, die Dynamik von Infektionskrankheiten wie der Grippe und COVID-19 besser zu verstehe, um eine gezielte Intervention zu ermöglichen.

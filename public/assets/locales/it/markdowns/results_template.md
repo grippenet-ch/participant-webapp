@@ -1,15 +1,9 @@
-In questa pagina potrete trovare i risultati più aggiornati basati sui dati raccolti da Grippenet.
+In questa pagina sono disponibili i risultati più recenti di Grippenet.ch.
 
-# Sorveglianza dell'influenza e COVID-19
+# Sorveglianza dei sintomi e delle infezioni respiratorie in Svizzera
 
-Il grafico qui sotto mostra l'incidenza settimanale delle malattie simili all'influenza (COVID-19 o Influenza) osservate a livello nazionale nell'ultimo anno. I singoli punti rappresentano il valore reale di incidenza, la linea solida rappresenta una media dei valori misurati in una finestra di due settimane.
-
-<lineandscatterchart
-  data-url="resources/switzerland/visualizations/covid_incidence_series_it.json"
-/>
-
+Il grafico seguente mostra l’incidenza settimanale delle infezioni respiratorie simili all’influenza (ILI) registrate su Grippenet.ch. I punti rappresentano l’incidenza segnalata per ciascuna settimana, mentre la linea continua indica la media su un periodo mobile di due settimane.
 <lineandscatterchart
   data-url="resources/switzerland/visualizations/ili_incidence_series_it.json"
 />
-
-**NOTA**: i sintomi principali di un'infezione da COVID-19 possono essere scatenati anche da altri virus, come i comuni virus influenzali. I valori raccolti dalla piattaforma Grippenet, una piattaforma di sorveglianza basata sui sintomi, possono contenere una sovrapposizione di segnali di altre infezioni.
+**NOTA**: I principali sintomi delle ILI possono essere causati da diversi virus, come i virus influenzali stagionali, il virus respiratorio sinciziale (RSV) o i coronavirus. Il monitoraggio basato sui sintomi tramite Grippenet.ch consente di osservare le infezioni simili all’influenza indipendentemente dal virus responsab

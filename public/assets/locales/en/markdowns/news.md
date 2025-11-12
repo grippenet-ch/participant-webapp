@@ -1,3 +1,9 @@
+### 07/11/2025 – Increase in respiratory infections
+* The number of infectious diseases is increasing during the winter. You can find more information for Switzerland at: [www.idd.bag.admin.ch](https://www.idd.bag.admin.ch/)
+* If you feel unwell, please stay at home, avoid public transport, and – if possible – work from home. Get rest to recover  quickly.
+* Vaccination can help prevent (severe) diseases. More information is available at: [www.impfen-schweiz.ch](https://www.vacciner-suisse.ch/de)
+
+
 ### 06/01/2025 – Thank you for your participation in Grippenet!
 
 The new Grippenet team at University of Bern sincerely thanks all loyal participants and hopes to continue motivating you to contribute to this important project. In Switzerland, the flu season typically occurs between December and March, with a peak in January or February ([BAG Bulletin 43/24](https://www.bag.admin.ch/dam/bag/de/dokumente/cc/Kampagnen/Bulletin/2024/bu-43-24.pdf.download.pdf/BU_43_24_DE.pdf)). By tracking your symptoms, you help us to better understand the dynamics of infectious diseases of influenza-like illnesses (ILIs) in Switzerland, enabling more targeted and effective interventions.

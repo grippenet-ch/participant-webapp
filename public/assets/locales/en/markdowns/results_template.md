@@ -1,7 +1,7 @@
 On this page, you can see the latest results from Grippenet.ch.
 <br />
 
-# Monitoring of Symptoms and Respiratory Infections in Switzerland
+# Monitoring of symptoms and respiratory infections in Switzerland
 
 The graph below shows the weekly incidence of influenza-like illness (ILI) cases recorded on Grippenet.ch.
 Each point represents the reported incidence for a given week, while the solid line shows the average over a two-week moving window.

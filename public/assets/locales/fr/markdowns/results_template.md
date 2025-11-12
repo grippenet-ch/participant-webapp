@@ -1,16 +1,13 @@
-Sur cette page, vous trouverez les derniers résultats des données collectées par Grippenet.
+Sur cette page, vous trouverez les résultats les plus récents de Grippenet.ch.
 <br />
 
-# Surveillance de l'Influenza & de la COVID-19
+# Surveillance des symptômes et des infections respiratoires en Suisse
 
-Le graphique ci-dessous montre l'incidence hebdomadaire des cas de syndromes grippaux (COVID-19 ou Influenza) observés au niveau national au cours de l'année dernière. Les points individuels représentent la valeur réelle de l'incidence, tandis que la ligne continue représente une moyenne des valeurs mesurées dans une fenêtre de deux semaines.
-
-<lineandscatterchart
-  data-url="resources/switzerland/visualizations/covid_incidence_series_fr.json"
-/>
+Le graphique ci-dessous montre l’incidence des infections respiratoires aiguës de type grippal (ILI) enregistrées sur Grippenet.ch. Les points représentent l’incidence signalée chaque semaine, tandis que la ligne continue indique la moyenne sur une période mobile de deux semaines.
 
 <lineandscatterchart
   data-url="resources/switzerland/visualizations/ili_incidence_series_fr.json"
 />
 
-**Remarque** : Les principaux symptômes d'une infection à la COVID-19 peuvent aussi bien être provoqués par d'autres virus, comme les virus de la grippe (Influenza). Les données recueillies par la plateforme Grippenet, une plateforme de surveillance basée sur les symptômes, peuvent représenter une superposition de signaux provenant de plusieurs infections virales différentes.
+**REMARQUE** :
+Les principaux symptômes des ILI peuvent être causés par différents virus, par exemple les virus grippaux saisonniers, le virus respiratoire syncytial (VRS) ou les coronavirus. La surveillance symptomatique sur Grippenet.ch permet d’observer les infections respiratoires de type grippal, quel que soit l’agent pathogène en cause.

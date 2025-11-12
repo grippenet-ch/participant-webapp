@@ -1,3 +1,10 @@
+### 07/11/2025 – Aumento delle infezioni delle vie respiratorie
+
+* Le infezioni respiratorie sono attualmente in aumento. Informazioni aggiornate sulla situazione in Svizzera sono disponibili su: [www.idd.bag.admin.ch](https://www.idd.bag.admin.ch/)
+* Se non vi sentite bene, restate a casa, evitate i trasporti pubblici e – se possibile – lavorate da casa. Riposatevi per guarire più rapidamente.
+* Vaccinarsi in autunno protegge dalle infezioni respiratorie in inverno. Maggiori informazioni sono disponibili su: [www.vaccinare-svizzera.ch](https://www.vaccinare-svizzera.ch/it)
+
+
 ### 06/01/2025 - Grazie per la vostra partecipazione a Grippenet!
 
 Il nuovo team di Grippenet dell’Università di Berna ringrazia sinceramente tutti i partecipanti fedeli e spera di continuare a motivarvi a contribuire a questo importante progetto. In Svizzera, la stagione influenzale si verifica generalmente tra dicembre e marzo, con un picco tra gennaio e febbraio ([Bulletin OFSP 43/24](https://www.bag.admin.ch/dam/bag/de/dokumente/cc/Kampagnen/Bulletin/2024/bu-43-24.pdf.download.pdf/BU_43_24_DE.pdf)). Monitorando i vostri sintomi, ci aiutate a comprendere meglio le dinamiche delle malattie infettive come l'influenza e il COVID-19 in Svizzera, permettendo interventi più mirati ed efficaci.

@@ -1,3 +1,9 @@
+### 07.11.2025 – Augmentation d'infections respiratoires
+* Le nombre d'infections respiratoires augmente pendant l'hiver. Vous trouverez des informations actualisées sur la situation en Suisse sur : [www.idd.bag.admin.ch](https://www.idd.bag.admin.ch/)
+* Si vous ne vous sentez pas bien, restez à la maison, évitez les transports publics et – si possible – travaillez à domicile. Reposez-vous pour favoriser une guérison plus rapide.
+* La vaccination peut protéger préventivement contre une infection (grave). Pour plus d’informations, consultez : [https://www.vacciner-suisse.ch/fr](https://www.vacciner-suisse.ch/fr)
+
+
 ### 06/01/2025 - Merci pour votre participation à Grippenet !
 
 Le nouveau team de Grippenet de l'Université de Berne remercie tous les participants fidèles et espère continuer à vous motiver à contribuer à cet important projet. En Suisse, la saison de la grippe se déroule généralement entre décembre et mars, avec un pic en janvier ou février ([Bulletin OFSP 43/24](https://www.bag.admin.ch/dam/bag/de/dokumente/cc/Kampagnen/Bulletin/2024/bu-43-24.pdf.download.pdf/BU_43_24_DE.pdf)). Le suivi de vos symptômes nous aide à mieux comprendre la dynamique des maladies infectieuses et permet des interventions plus ciblées. Vous jouez un rôle clé dans l'amélioration de notre compréhension de la grippe et du COVID-19 en Suisse.

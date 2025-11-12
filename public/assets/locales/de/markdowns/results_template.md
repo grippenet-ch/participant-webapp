@@ -1,16 +1,10 @@
-Auf dieser Seite können Sie die neuesten Daten von Grippenet einsehen.
+Auf dieser Seite finden Sie die neuesten Ergebnisse von Grippenet.ch.
 <br />
 
-# Überwachung von Influenza und COVID-19
+# Erfassung von Symptomen und Atemwegsinfektionen in der Schweiz 
 
-Die nachfolgende Grafik zeigt die wöchentlichen Inzidenzen von grippeähnlichen Erkrankungen (COVID-19 oder Influenza), die im letzten Jahr auf nationaler Ebene registriert wurden. Die einzelnen Punkte stellen die tatsächliche Inzidenz dar, die durchgezogene Linie zeigt den Durchschnitt der in einem zweiwöchigen Zeitfenster gemessenen Werte.
+Die nachfolgende Grafik zeigt die wöchentliche Inzidenz grippeähnlicher Infektionen (ILI), die auf Grippenet.ch erfasst wurden. Die Punkte stehen für die gemeldete Inzidenz in einer Woche, die durchgezogene Linie stellt der Durchschnitt über ein Zeitfenster von zwei Wochen dar.
 
-<lineandscatterchart
-  data-url="resources/switzerland/visualizations/covid_incidence_series_de.json"
-/>
+<lineandscatterchart data-url="resources/switzerland/visualizations/ili_incidence_series_de.json" /> 
 
-<lineandscatterchart
-  data-url="resources/switzerland/visualizations/ili_incidence_series_de.json"
-/>
-
-**HINWEIS**: Die Hauptsymptome einer COVID-19-Erkrankung können auch von anderen Viren ausgelöst werden, wie z. B. von den üblichen Grippeviren. Daher können die von der Grippenet-Plattform, einer symptombasierten Überwachungsplattform, erfassten Werte auch Symptome von anderen möglichen Krankheiten registrieren.
+**HINWEIS**: Die Hauptsymptome von ILI können durch verschiedene Viren verursacht werden (beispielsweise durch saisonale Grippeviren, das Respiratorische Synzytial-Virus (RSV) oder Coronaviren). Die symptombasierte Erfassung auf Grippenet.ch ermöglicht es, ILI unabhängig vom auslösenden Erreger zu beobachten.

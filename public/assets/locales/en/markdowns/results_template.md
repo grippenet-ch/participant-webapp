@@ -1,16 +1,14 @@
-On this page you are able to see the latest results from the data collected by Grippenet.
+On this page, you can see the latest results from Grippenet.ch.
 <br />
 
-# Influenza & COVID-19 monitoring
+# Monitoring of Symptoms and Respiratory Infections in Switzerland
 
-The plot displayed below shows the weekly incidence of flu-like illness cases (COVID-19 or Influenza) observed at the national level within the last year. The single points represent the actual incidence value, the continuous line represents a continuing average of the values measured in a two weeks window.
-
-<lineandscatterchart
-  data-url="resources/switzerland/visualizations/covid_incidence_series_en.json"
-/>
+The graph below shows the weekly incidence of influenza-like illness (ILI) cases recorded on Grippenet.ch.
+Each point represents the reported incidence for a given week, while the solid line shows the average over a two-week moving window.
 
 <lineandscatterchart
   data-url="resources/switzerland/visualizations/ili_incidence_series_en.json"
 />
 
-**NOTE**: The main symptoms of a COVID-19 infection may also be caused by other viruses, like the common flu viruses. The data collected by the Grippenet platform (a symptoms-based monitoring platform) may contain a overrepresentation of symptoms from other infections.
+**NOTE**:
+The main symptoms of ILI can be caused by various viruses, such as seasonal influenza viruses, respiratory syncytial virus (RSV), or coronaviruses. Symptom-based monitoring via Grippenet.ch makes it possible to track ILI regardless of the underlying virus.

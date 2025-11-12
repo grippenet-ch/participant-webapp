@@ -1,8 +1,9 @@
-### 07/11/2025 – Anstieg der Atemwegsinfektionen
+### 07/11/2025 – Anstieg der Atemwegserkrankungen
 
-* Atemwegsinfektionen nehmen derzeit wieder zu. Aktuelle Informationen zur Lage in der Schweiz finden Sie unter: [https://www.idd.bag.admin.ch/](https://www.idd.bag.admin.ch/).
+* Atemwegsinfektionen nehmen in den Winter Monaten  zu. Aktuelle Informationen zur Lage in der Schweiz finden Sie unter: [www.idd.bag.admin.ch](https://www.idd.bag.admin.ch/).
 * Wenn Sie sich krank fühlen, bleiben Sie bitte zu Hause, meiden Sie öffentliche Verkehrsmittel und – falls möglich – arbeiten Sie von zuhause. Ruhen Sie sich aus, um schneller zu genesen.
-* Eine Impfung kann vorbeugend vor einer (schweren) Erkrankung schützen. Weitere Informationen dazu finden Sie unter: [https://www.vacciner-suisse.ch/de](https://www.impfen-schweiz.ch/de).
+* Eine Impfung kann vorbeugend vor einer (schweren) Erkrankung schützen. Weitere Informationen dazu finden Sie unter: [www.impfen-schweiz.ch](https://www.impfen-schweiz.ch/de).
+
 
 ### 06/01/2025 – Danke für Ihr Engagement bei Grippenet!
 

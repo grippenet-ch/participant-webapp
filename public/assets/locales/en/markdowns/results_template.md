@@ -20,7 +20,9 @@ Each point represents the reported incidence for a given week, while the solid l
 **NOTE**:
 The main symptoms of ILI can be caused by various viruses, such as seasonal influenza viruses, respiratory syncytial virus (RSV), or coronaviruses. Symptom-based monitoring via Grippenet.ch makes it possible to track ILI regardless of the underlying virus.
 
-<img src="assets/images/Grippenet_symptom_en.png" width="100%">
+<img 
+  src="assets/images/Grippenet_symptom_en.png" width="100%"
+  />
 
 The graph above shows the number of participants reporting a specific symptom. A combination of symptoms may indicate a specific infectious disease, such as the flu, Covid-19, RSV, or others.
 

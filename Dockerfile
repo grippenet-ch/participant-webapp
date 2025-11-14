@@ -1,5 +1,5 @@
 # build environment
-FROM node:latest as build
+FROM node:22-alpine as build
 # default env files
 ARG ENV_LOCAL=".env.local"
 ARG ENV_PRODUCTION_LOCAL=".env.production.local"

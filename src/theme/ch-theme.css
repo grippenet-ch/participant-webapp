@@ -36,6 +36,13 @@ $enable-rounded: false !default;
   }
 }
 
+.recharts-line-curve {
+  stroke: rgba(var(--bs-primary-rgb));
+}
+
+.recharts-symbols {
+  fill: rgba(var(--bs-primary-rgb));
+}
 
 @import '~@influenzanet/case-web-ui/build/scss/iconfonts';
 @import '~bootstrap/scss/bootstrap.scss';

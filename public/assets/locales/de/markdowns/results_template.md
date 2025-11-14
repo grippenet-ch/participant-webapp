@@ -10,12 +10,17 @@ Gemeinsam können wir die Lage in der Schweiz frühzeitig erfassen. Die Teilnehm
 
 # Erfassung von Symptomen und Atemwegsinfektionen in der Schweiz 
 
-Die nachfolgende Grafik zeigt die wöchentliche Inzidenz grippeähnlicher Infektionen (ILI), die auf Grippenet.ch erfasst wurden. Die Punkte stehen für die gemeldete Inzidenz in einer Woche, die durchgezogene Linie stellt der Durchschnitt über ein Zeitfenster von zwei Wochen dar.
+Die nachfolgende Grafik zeigt die wöchentliche Inzidenz grippeähnlicher Infektionen (ILI), die auf Grippenet.ch erfasst wurden. Die Punkte zeigen die gemeldete Inzidenz (bzw. die Symptome) in einer Woche, die durchgezogene Linie zeigt den Durchschnitt über ein Zeitfenster von zwei Wochen dar.
 
-<lineandscatterchart data-url="resources/switzerland/visualizations/ili_incidence_series_de.json" /> 
+
+<lineandscatterchart
+  data-url="resources/switzerland/visualizations/ili_incidence_series_de.json"
+/>
 
 **HINWEIS**: Die Hauptsymptome von ILI können durch verschiedene Viren verursacht werden (beispielsweise durch saisonale Grippeviren, das Respiratorische Synzytial-Virus (RSV) oder Coronaviren). Die symptombasierte Erfassung auf Grippenet.ch ermöglicht es, ILI unabhängig vom auslösenden Erreger zu beobachten.
 
-<img src="assets/images/Grippenet_symptom_de.png" width="100%">
+<img 
+  src="assets/images/Grippenet_symptom_de.png" width="100%"
+  />
 
 Die Grafik zeigt die Anzahl der Teilnehmenden, die ein bestimmtes Symptom melden. Eine Kombination von Symptomen kann auf eine spezifische Infektionskrankheit hinweisen, z.B. Grippe, Covid-19, RSV oder andere.

@@ -10,12 +10,7 @@ Gemeinsam können wir die Lage in der Schweiz frühzeitig erfassen. Die Teilnehm
 
 # Erfassung von Symptomen und Atemwegsinfektionen in der Schweiz 
 
-<<<<<<< Updated upstream
-Die nachfolgende Grafik zeigt die wöchentliche Inzidenz von ILI, die auf Grippenet.ch erfasst wurden. Die Punkte zeigen die gemeldete Inzidenz (bzw. die Symptome) in einer Woche, die durchgezogene Linie zeigt den Durchschnitt über ein Zeitfenster von zwei Wochen dar.
-=======
-Die nachfolgende Grafik zeigt die wöchentliche Inzidenz ILI, die auf Grippenet.ch erfasst wurden. Die Punkte stehen für die gemeldete Inzidenz in einer Woche, die durchgezogene Linie stellt der Durchschnitt über ein Zeitfenster von zwei Wochen dar.
->>>>>>> Stashed changes
-
+Die nachfolgende Grafik zeigt die wöchentliche Inzidenz von ILI, die auf Grippenet.ch erfasst wurden. Die Punkte stehen für die gemeldete Inzidenz in einer Woche, die durchgezogene Linie stellt der Durchschnitt über ein Zeitfenster von zwei Wochen dar.
 
 <lineandscatterchart
   data-url="resources/switzerland/visualizations/ili_incidence_series_de.json"

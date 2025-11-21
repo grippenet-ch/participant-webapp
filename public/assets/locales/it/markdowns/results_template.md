@@ -9,7 +9,7 @@ Insieme possiamo monitorare la situazione in Svizzera già nelle fasi iniziali. 
  
 # Sorveglianza dei sintomi e delle infezioni respiratorie in Svizzera
 
-Il grafico seguente mostra l’incidenza settimanale delle infezioni respiratorie simili all’influenza (ILI) registrate su Grippenet.ch. I punti rappresentano l’incidenza segnalata per ciascuna settimana, mentre la linea continua indica la media su un periodo mobile di due settimane.
+Il grafico seguente mostra l’incidenza settimanale delle ILI registrate su Grippenet.ch. I punti rappresentano l’incidenza segnalata per ciascuna settimana, mentre la linea continua indica la media su un periodo mobile di due settimane.
 
 <lineandscatterchart
   data-url="resources/switzerland/visualizations/ili_incidence_series_it.json"

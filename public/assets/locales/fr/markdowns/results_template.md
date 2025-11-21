@@ -10,7 +10,7 @@ Ensemble, nous pouvons suivre la situation en Suisse dès les premiers stades. L
 
 # Surveillance des symptômes et des infections respiratoires en Suisse
 
-Le graphique ci-dessous montre l’incidence des infections respiratoires aiguës de type grippal (ILI) enregistrées sur Grippenet.ch. Les points représentent l’incidence signalée chaque semaine, tandis que la ligne continue indique la moyenne sur une période mobile de deux semaines.
+Le graphique ci-dessous montre l’incidence des ILI enregistrées sur Grippenet.ch. Les points représentent l’incidence signalée chaque semaine, tandis que la ligne continue indique la moyenne sur une période mobile de deux semaines.
 
 <lineandscatterchart
   data-url="resources/switzerland/visualizations/ili_incidence_series_fr.json"

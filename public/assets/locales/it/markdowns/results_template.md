@@ -11,9 +11,9 @@ Insieme possiamo monitorare la situazione in Svizzera già nelle fasi iniziali. 
 
 Il grafico seguente mostra l’incidenza settimanale delle ILI registrate su Grippenet.ch. I punti rappresentano l’incidenza segnalata per ciascuna settimana, mentre la linea continua indica la media su un periodo mobile di due settimane.
 
-<lineandscatterchart
-  data-url="resources/switzerland/visualizations/ili_incidence_series_it.json"
-/>
+<img 
+  src="assets/images/Grippenet_incidence.png" width="100%"
+  />
 
 **NOTA**: I principali sintomi delle ILI possono essere causati da diversi virus, come i virus influenzali stagionali, il virus respiratorio sinciziale (RSV) o i coronavirus. Il monitoraggio basato sui sintomi tramite Grippenet.ch consente di osservare le infezioni simili all’influenza indipendentemente dal virus responsab
 

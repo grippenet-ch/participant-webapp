@@ -12,9 +12,10 @@ Gemeinsam können wir die Lage in der Schweiz frühzeitig erfassen. Die Teilnehm
 
 Die nachfolgende Grafik zeigt die wöchentliche Inzidenz von ILI, die auf Grippenet.ch erfasst wurden. Die Punkte stehen für die gemeldete Inzidenz in einer Woche, die durchgezogene Linie stellt der Durchschnitt über ein Zeitfenster von zwei Wochen dar.
 
-<lineandscatterchart
-  data-url="resources/switzerland/visualizations/ili_incidence_series_de.json"
-/>
+<img 
+  src="assets/images/Grippenet_incidence.png" width="100%"
+  />
+
 
 **HINWEIS**: Die Hauptsymptome von ILI können durch verschiedene Viren verursacht werden (beispielsweise durch saisonale Grippeviren, das Respiratorische Synzytial-Virus (RSV) oder Coronaviren). Die symptombasierte Erfassung auf Grippenet.ch ermöglicht es, ILI unabhängig vom auslösenden Erreger zu beobachten.
 

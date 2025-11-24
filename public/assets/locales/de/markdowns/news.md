@@ -1,13 +1,13 @@
-### 07/11/2025 – Anstieg der Atemwegserkrankungen
+### 07/11/2025 – Vermehrt Atemwegsinfektionen
 
 * Atemwegsinfektionen nehmen in den Winter Monaten  zu. Aktuelle Informationen zur Lage in der Schweiz finden Sie unter: [www.idd.bag.admin.ch](https://www.idd.bag.admin.ch/).
-* Wenn Sie sich krank fühlen, bleiben Sie bitte zu Hause, meiden Sie öffentliche Verkehrsmittel und – falls möglich – arbeiten Sie von zuhause. Ruhen Sie sich aus, um schneller zu genesen.
+* Wenn Sie krank sind, bleiben Sie bitte zu Hause, meiden Sie öffentliche Verkehrsmittel und ruhen Sie sich aus, um schneller zu genesen.
 * Eine Impfung kann vorbeugend vor einer (schweren) Erkrankung schützen. Weitere Informationen dazu finden Sie unter: [www.impfen-schweiz.ch](https://www.impfen-schweiz.ch/de).
 
 
 ### 06/01/2025 – Danke für Ihr Engagement bei Grippenet!
 
-Das neue Grippenet-Team der Universität Bern bedankt sich herzlich bei allen treuen Teilnehmenden und hofft, Sie weiterhin zu einem wertvollen Beitrag motivieren zu können. In der Schweiz tritt die Grippewelle typischerweise zwischen Dezember und März auf, mit den meisten Fällen im Januar oder Februar ([BAG-Bulletin 43/24](https://www.bag.admin.ch/dam/bag/de/dokumente/cc/Kampagnen/Bulletin/2024/bu-43-24.pdf.download.pdf/BU_43_24_DE.pdf)). Durch die Dokumentation Ihrer Symptome tragen Sie dazu bei, die Dynamik von Infektionskrankheiten wie der Grippe und COVID-19 besser zu verstehe, um eine gezielte Intervention zu ermöglichen.
+Das neue Grippenet-Team der Universität Bern bedankt sich herzlich bei allen treuen Teilnehmenden und hofft, Sie weiterhin zu einem wertvollen Beitrag motivieren zu können. In der Schweiz tritt die Grippewelle typischerweise zwischen Dezember und März auf, mit den meisten Fällen im Januar oder Februar ([BAG-Bulletin 43/24](https://www.bag.admin.ch/dam/fr/sd-web/0AMaf-774Cpc/:Volumes:jobs:order:opixcntl:m2409:0341:g3:243467_de_BAG_Bulletin_42-24.pdf)). Durch die Dokumentation Ihrer Symptome tragen Sie dazu bei, die Dynamik von Infektionskrankheiten wie der Grippe und COVID-19 besser zu verstehe, um eine gezielte Intervention zu ermöglichen.
 
 Bitte zögern Sie nicht, [uns zu kontaktieren](mailto:support@grippenet.ch), wenn Sie Fragen zu Grippenet haben oder Vorschläge zur Verbesserung der Plattform haben.
 

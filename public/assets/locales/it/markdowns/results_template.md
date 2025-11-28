@@ -1,22 +1,22 @@
-In questa pagina sono disponibili i risultati più recenti di Grippenet.ch.
+In questa pagina puoi vedere gli ultimi risultati di Grippenet.ch.
 <br />
 
-# Descrizione dei dati
+**Descrizione dei dati**
 
-Il progetto utilizza dati provenienti da un sistema di sorveglianza partecipativa volto a monitorare le infezioni respiratorie acute (ARI) e le malattie simili all’influenza (ILI) in Svizzera. L’obiettivo è comprendere meglio la dinamica di trasmissione delle infezioni respiratorie e fornire informazioni sui sintomi che esse causano.
+Il progetto utilizza i dati di un sistema di sorveglianza partecipativa che mira a monitorare le infezioni respiratorie acute (ARI) e le sindromi simil-influenzali (ILI) in Svizzera, con l’obiettivo di migliorare la comprensione della dinamica di trasmissione delle malattie infettive respiratorie e di fornire informazioni sui sintomi che esse causano.
 
-Insieme possiamo monitorare la situazione in Svizzera già nelle fasi iniziali. I partecipanti segnalano ogni settimana se hanno avuto uno o più sintomi.
- 
-# Sorveglianza dei sintomi e delle infezioni respiratorie in Svizzera
+Insieme possiamo osservare la situazione in Svizzera fin dalle prime fasi. I partecipanti possono segnalare ogni settimana se hanno avuto uno o più sintomi.
 
-Il grafico seguente mostra l’incidenza settimanale delle ILI registrate su Grippenet.ch. I punti rappresentano l’incidenza segnalata per ciascuna settimana, mentre la linea continua indica la media su un periodo mobile di due settimane.
+**Monitoraggio dei sintomi e delle infezioni respiratorie in Svizzera**
 
-<img 
-  src="assets/images/Grippenet_incidence.png" width="100%"
-  />
+Il grafico seguente mostra l’incidenza settimanale stimata dei casi di ILI e ARI registrati su Grippenet.ch.
+La linea rappresenta una media mobile.
 
-**NOTA**: I principali sintomi delle ILI possono essere causati da diversi virus, come i virus influenzali stagionali, il virus respiratorio sinciziale (RSV) o i coronavirus. Il monitoraggio basato sui sintomi tramite Grippenet.ch consente di osservare le infezioni simili all’influenza indipendentemente dal virus responsab
+<img src="assets/images/Grippenet_incidence.png" width="100%" />
 
-<img src="assets/images/Grippenet_symptom_it.png" width="100%">
+*Nota:* I sintomi di ARI e ILI possono essere causati da diversi virus, come i virus influenzali stagionali, il virus respiratorio sinciziale (RSV) o i coronavirus. Il monitoraggio basato sui sintomi tramite Grippenet.ch permette di seguire ARI e ILI indipendentemente dal virus responsabile.
 
-Il grafico mostra il numero di partecipanti che segnalano un sintomo specifico. Una combinazione di sintomi può indicare una malattia infettiva specifica, come l’influenza, il Covid-19, il RSV o altre.
+<img src="assets/images/Grippenet_symptom_it.png" width="100%" />
+
+Il grafico sopra mostra la frequenza con cui i partecipanti hanno riportato uno specifico sintomo (più il colore è scuro, maggiore è il numero di partecipanti che hanno segnalato il sintomo in quella settimana).
+Una combinazione di sintomi può indicare una malattia infettiva specifica, come l’influenza, il Covid-19, l’RSV o altre infezioni.

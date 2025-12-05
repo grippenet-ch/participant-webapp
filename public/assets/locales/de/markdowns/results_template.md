@@ -17,10 +17,10 @@ Die nachfolgende Grafik zeigt die wöchentliche Inzidenz von ARI und ILI, die au
   />
 
 
-**Hinweis**: Die Hauptsymptome von ARI und ILI können durch verschiedene Viren verursacht werden (beispielsweise durch saisonale Grippeviren, das Respiratorische Synzytial-Virus (RSV) oder Coronaviren). Die symptombasierte Erfassung auf Grippenet.ch ermöglicht es, ARI und ILI unabhängig vom auslösenden Erreger zu beobachten.
+**Hinweis**: Die Hauptsymptome von ARI (und ILI) können durch verschiedene Viren verursacht werden (beispielsweise durch saisonale Grippeviren (Influenza A und B), das Respiratorische Synzytial-Virus (RSV) oder Coronaviren). Die symptombasierte Erfassung auf Grippenet.ch ermöglicht es, ARI und ILI unabhängig vom auslösenden Erreger zu beobachten.
 
 <img 
   src="assets/images/Grippenet_symptom_de.png" width="100%"
   />
 
-Die Grafik zeigt die Anzahl der Teilnehmenden, die ein bestimmtes Symptom melden (je dünkler desto mehr Teilnehmende meldeten dieses Symptom in einer Woche). Eine Kombination von Symptomen kann auf eine spezifische Infektionskrankheit hinweisen, z.B. Grippe, Covid-19, RSV oder andere.
+Die Grafik zeigt die Anzahl der Teilnehmenden, die ein bestimmtes Symptom melden (je dünkler desto mehr Teilnehmende meldeten dieses Symptom in einer Woche). Eine Kombination von Symptomen kann auf eine spezifische Infektionskrankheit hinweisen, z.B. Grippe, Covid-19, RSV-Infektion oder andere.

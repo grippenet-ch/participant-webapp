@@ -1,7 +1,7 @@
 ### 07/11/2025 – Aumento delle infezioni delle vie respiratorie
 
 * Le infezioni respiratorie sono attualmente in aumento. Informazioni aggiornate sulla situazione in Svizzera sono disponibili su: [www.idd.bag.admin.ch](https://www.idd.bag.admin.ch/)
-* Se non vi sentite bene, restate a casa, evitate i trasporti pubblici e riposatevi per guarire più rapidamente.
+* Se siete malati, evitate i mezzi pubblici, rispettate le misure igieniche, restate a casa se possibile e riposatevi per guarire più rapidamente.
 * Vaccinarsi in autunno protegge dalle infezioni respiratorie in inverno. Maggiori informazioni sono disponibili su: [www.vaccinare-svizzera.ch](https://www.vaccinare-svizzera.ch/it)
 
 

@@ -1,6 +1,6 @@
 ### 07/11/2025 – Augmentation d'infections respiratoires
 * Le nombre d'infections respiratoires augmente pendant l'hiver. Vous trouverez des informations actualisées sur la situation en Suisse sur : [www.idd.bag.admin.ch](https://www.idd.bag.admin.ch/)
-* Si vous ne vous sentez pas bien, restez à la maison, évitez les transports publics et reposez-vous pour favoriser une guérison plus rapide.
+* Si vous êtes malade, évitez les transports publics, respectez les mesures d’hygiène, restez à la maison si possible et reposez-vous pour guérir plus rapidement.
 * La vaccination peut protéger préventivement contre une infection (grave). Pour plus d’informations, consultez : [https://www.vacciner-suisse.ch/fr](https://www.vacciner-suisse.ch/fr)
 
 

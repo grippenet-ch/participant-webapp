@@ -1,6 +1,6 @@
 ### 07/11/2025 – Increase in respiratory infections
 * The number of infectious diseases is increasing during the winter. You can find more information for Switzerland at: [www.idd.bag.admin.ch](https://www.idd.bag.admin.ch/)
-* If you feel unwell, please stay at home, avoid public transport, and get rest to recover  quickly.
+* If you are ill, avoid public transport, follow hygiene measures, stay at home if possible, and rest to recover more quickly.
 * Vaccination can help prevent (severe) diseases. More information is available at: [www.impfen-schweiz.ch](https://www.vacciner-suisse.ch/de)
 
 

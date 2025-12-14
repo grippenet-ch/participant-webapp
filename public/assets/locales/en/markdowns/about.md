@@ -1,13 +1,21 @@
-## What is Grippenet?<br>
+**What is Grippenet?**  
+Grippenet.ch is a participatory population survey that monitors acute respiratory infections (ARIs) and influenza-like illnesses (ILIs) in Switzerland. By participating, individuals help with the early detection of infection waves and contribute to a better understanding of symptoms associated with respiratory infections. The project was developed in 2016 in collaboration with the Institute of Global Health (ISG, University of Geneva), the Laboratory of Computational Epidemiology (ISI, Turin), Computational Social Sciences (ETH Zürich), the Laboratory of Digital Epidemiology (EPFL, Lausanne), and the National Reference Center for Influenza (HUG, Geneva). Since 2025, the project has been led by researchers at the [Institute of Social and Preventive Medicine](https://www.ispm.unibe.ch/index_eng.html) (ISPM, University of Bern).
 
-Grippenet is a participatory surveillance system that monitors influenza-like illnesses (ILIs) in Switzerland, aiming to enhance the understanding of the transmission dynamic of these diseases. It was launched and implemented in Switzerland in 2016 by the Institute of Global Health (ISG) at the University of Geneva and its partners. Since 2025, it has been led by researchers from the [Institute of Social and Preventive Medicine](https://www.ispm.unibe.ch/index_eng.html) (ISPM) at the University of Bern.
+Weekly reports from participants help monitor respiratory infections and provide early insights into their spread and associated symptoms.
 
-## How does Grippenet work?<br>
+---
 
-The concept is simple: First you sign up quickly and anonymously to the official Grippenet-Website. As a first-time user, you complete your profile by answering questions about your age, your current work status, etc. Then, in a second step, each week you report whether or not you experience any flu-like symptoms through a link that is sent to your email. If you happen to experience any flu-like symptoms, you will be asked additional questions about those symptoms. The entire weekly process takes about 30 seconds if you don’t experience any symptoms, and around 5 minutes if you do.  
-Our project works to collect data which is not necessarily captured by the traditional surveillance conducted through the Sentinella network in Switzerland (in which general practitioners voluntarily report cases of flu symptoms). Thanks to the participation of our volunteers, we will be able to collect data on flu-like symptoms apart from the traditional input of doctors and hospitals, allowing real-time surveillance and monitoring of mild cases for which many patients do not necessarily seek medical consultations. The data collected will allow us, in association with the classical surveillance network, to monitor the epidemic of influenza and COVID-19. In addition to this, the data collected in Switzerland and in other Influenzanet countries will be analyzed in order to better understand the evolution and transmission of these viruses. By participating, you are contributing to the health of the general population and to public health research.
+**How does Grippenet work?**  
+The principle is simple: you register confidentially and quickly on [Grippenet.ch](www.grippenet.ch). Upon registration, you complete a short questionnaire once, providing information about your age, occupation, and any pre-existing conditions, allowing us to collect basic background information.  
 
+Afterwards, you receive a weekly reminder by email asking whether you have influenza-like symptoms or not. If so, you answer a few additional questions about the symptoms you are experiencing. The process takes only 30 seconds to a maximum of 5 minutes. Ideally, participants respond briefly each week.  
 
-## Surveillance of the COVID-19 pandemic<br>
+Through your participation, we can collect symptom data without involving doctors or hospitals. This allows timely observation of mild cases, for which patients usually do not seek medical care. The collected data complement other systems (more at [Grippenet.ch/info](www.grippenet.ch/info)).  
 
-Seasonal influenza and COVID-19 have similar symptoms: fever, cough, fatigue and shortness of breath are all common symptoms of both diseases. Therefore, the monitoring of reported symptoms via the weekly questionnaires can be applied to the surveillance of the COVID-19 epidemic. Outside of the influenza season, any increase in so-called "flu-like" symptoms during this pandemic period is likely to be related to COVID-19 cases, allowing us to monitor the evolution of the pandemic. Your participation with Grippenet.ch will help us to better understand the extent of the pandemic. Similar to our data collection on ILIs, your participation will allow us to capture data on people who do not experience severe disease, and who are not necessarily seeking medical consultations. Many of these cases are likely to represent the majority of COVID-19 infections.
+In a second phase, data collected in Switzerland and other European countries will be analysed to better understand virus transmission, symptoms, and implemented measures. Grippenet.ch is part of [Influenzanet](https://influenzanet.info/), a European network founded in 2003 that conducts similar surveys and analyses in several countries.
+
+By participating, you make an important contribution to public health and research.
+
+<img 
+  src="assets/images/Flyer_GrippenetCH_Page_EN.jpg" width="95%"
+  />

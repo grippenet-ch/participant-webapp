@@ -18,7 +18,7 @@
   "currentResultCard": {
     "imageAlt": "Current results image",
     "title": "Current results",
-    "body": "Grippenet observes flu-like symptoms which could indicate the presence of Influenza or COVID-19.",
+    "body": "The results of the participatory survey are updated regularly.",
     "actionLabel": "Current results"
   },
   "signupCard": {
@@ -28,21 +28,21 @@
     "actionLabel": "Sign up"
   },
   "aboutCard": {
-    "imageAlt": "About Grippenet image",
+    "imageAlt": "Participate image",
     "title": "About Grippenet",
-    "body": "Grippenet monitors the spread of flu-like symptoms in Switzerland. It is an epidemiological surveillance tool designed to monitor the spread of viruses.",
+    "body": "Grippenet is a participatory research project that aims to track respiratory infections in Switzerland and improve our understanding of how they are transmitted and what symptoms they cause.",
     "actionLabel": "Learn more"
   },
   "infoCard": {
-    "imageAlt": "The science of viruses (virology)",
-    "title": "The science of viruses (virology)",
-    "body": "What are COVID-19 and influenza, how do they spread and what is the importance of scientific research in this field?",
+    "imageAlt": "Information about respiratory infection image",
+    "title": "Information about respiratory infection",
+    "body": "Respiratory infections can be caused by various viruses and bacteria. Research such as that conducted by Grippenet.ch helps us track these infections and understand their symptoms.",
     "actionLabel": "Learn more"
   },
   "newsCard": {
-    "imageAlt": "Latest updates from Grippenet",
+    "imageAlt": "Latest updates from Grippenet image",
     "title": "Latest news from Grippenet",
-    "body": "We regularly update you on the ongoing COVID-19 pandemic and the Influenza season.",
+    "body": "We will keep you updated.",
     "actionLabel": "Learn more"
   },
   "references": {

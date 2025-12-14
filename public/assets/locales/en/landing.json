@@ -18,13 +18,13 @@
   "currentResultCard": {
     "imageAlt": "Current results image",
     "title": "Current results",
-    "body": "The results of the participatory survey are updated regularly.",
+    "body": "The results from Grippenet are updated regularly.",
     "actionLabel": "Current results"
   },
   "signupCard": {
     "imageAlt": "Sign up image",
     "title": "Sign up",
-    "body": "Help us keep an eye on Influenza and COVID-19. Report weekly whether you experience any flu-like symptoms.",
+    "body": "Help us to observe respiratory infections, such as influenza, by reporting weekly whether or not you have experienced any symptoms..",
     "actionLabel": "Sign up"
   },
   "aboutCard": {

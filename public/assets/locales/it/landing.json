@@ -18,13 +18,13 @@
   "currentResultCard": {
     "imageAlt": "Immagine dei risultati aggiornati",
     "title": "Risultati aggiornati",
-    "body": "I risultati dell'indagine partecipativa vengono aggiornati regolarmente.",
+    "body": "I risultati di Grippenet vengono aggiornati regolarmente.",
     "actionLabel": "Risultati aggiornati"
   },
   "signupCard": {
     "imageAlt": "Immagine partecipa",
     "title": "Partecipa",
-    "body": "Aiutaci a monitorare la diffusione del coronavirus e dell'influenza. Segnalaci settimanalmente se stai bene o se hai qualche sintomo.",
+    "body": "Aiutaci a monitorare le infezioni respiratorie, come l'influenza, segnalando ogni settimana se presenti o meno sintomi.",
     "actionLabel": "Registrati"
   },
   "aboutCard": {

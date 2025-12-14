@@ -18,13 +18,13 @@
   "currentResultCard": {
     "imageAlt": "Current results image",
     "title": "Résultats actuels",
-    "body": "Les résultats de l'enquête participative sont régulièrement mis à jour.",
+    "body": "Les résultats de Grippenet sont régulièrement mis à jour.",
     "actionLabel": "Résultats actuels"
   },
   "signupCard": {
     "imageAlt": "Participate image",
     "title": "Participer",
-    "body": "Aidez-nous à surveiller la grippe et la COVID-19. Signalez chaque semaine si vous avez des symptômes.",
+    "body": "Aidez-nous à surveiller les infections respiratoires, telles que la grippe, en signalant chaque semaine si vous présentez ou non des symptômes.",
     "actionLabel": "S'inscrire"
   },
   "aboutCard": {

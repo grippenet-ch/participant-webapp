@@ -1,9 +1,22 @@
-## Qu'est-ce que Grippenet ?<br>
-Grippenet est un système de surveillance participative qui suit les maladies grippales en Suisse, dans le but de mieux comprendre la dynamique de transmission de ces maladies. Il a été lancé et mis en œuvre en 2016 par l’Institut de Santé Globale (ISG) de l’Université de Genève et ses partenaires en Suisse. Depuis 2025, il est dirigé par des chercheurs de [Institute of Social and Preventive Medicine](https://www.ispm.unibe.ch/index_eng.html) (ISPM) de l’Université de Berne.
+**Qu’est-ce que Grippenet ?**  
+Grippenet.ch est une enquête participative auprès de la population qui recense les infections respiratoires aiguës (ARI) et les infections de type grippal (ILI) en Suisse. Les participant·e·s contribuent ainsi à la détection précoce des vagues d’infection et à une meilleure compréhension des symptômes associés aux infections respiratoires. Le projet a été développé en 2016 en collaboration avec l’Institut de santé globale (ISG, Université de Genève), le Laboratoire de Computational Epidemiology (ISI, Turin), Computational Social Sciences (ETH Zurich), le Laboratoire d’épidémiologie numérique (EPFL, Lausanne) et le Centre national de référence pour la grippe (HUG, Genève). Depuis 2025, le projet est dirigé par des chercheurs de l’['Institute of Social and Preventive Medicine'](https://www.ispm.unibe.ch/index_eng.html) (ISPM, Université de Berne).
 
-## Comment ça marche ?<br>
+Les déclarations hebdomadaires des participant·e·s permettent de surveiller les infections respiratoires et d’obtenir des informations précoces sur leur propagation ainsi que sur les symptômes observés.
 
-Le principe est le suivant : vous vous inscrivez de manière anonyme et rapide sur le site. Lors de l’inscription, un premier questionnaire avec des données relatives à l’âge, au travail, à certaines maladies préexistantes est à remplir et permet de collecter les informations de base sur votre profil. Puis, vous nous indiquez chaque semaine, grâce à un lien qui vous est envoyé, si vous souffrez ou non de symptômes grippaux. Si vous en souffrez, certains détails sur les symptômes vous seront demandés. Le processus prend entre 30 secondes et 5 minutes, ceci une fois par semaine. En plus de la surveillance classique faite par le réseau *Sentinella* (médecins généralistes déclarant eux-mêmes les cas de symptômes grippaux), et grâce à votre aide, nous pourrons recueillir des données concernant les symptômes grippaux sans l’apport des médecins et des hôpitaux, ce qui permet une surveillance plus précoce et la surveillance des cas légers pour lesquels beaucoup de patient-es ne consultent pas forcément. Les données recueillies nous permettront, en association avec le réseau de surveillance classique, de suivre l'épidémie de grippe et de COVID-19. Dans un deuxième temps, les données collectées en Suisse, mais aussi dans les autres pays européens, seront analysées pour mieux comprendre le fonctionnement et la transmission de ces virus. De par votre participation, vous contribuez donc à la santé de la population générale et à la recherche en santé publique.
+---
 
-## Surveillance de la pandémie de COVID-19 <br>
-La grippe saisonnière (Influenza) et la COVID-19 peuvent se manifester par des symptômes similaires : fièvre, toux, fatigue et essoufflement sont des symptômes fréquemment retrouvés dans les deux maladies. Le suivi des symptômes déclarés via les questionnaires hebdomadaires peut dès lors s’appliquer à la surveillance de l’épidémie de COVID-19. En dehors de la saison de la grippe, toute augmentation de syndromes dits \"grippaux\" en cette période pandémique est vraisemblablement liée aux cas de COVID-19, nous permettant ainsi de suivre l’évolution de la pandémie. Votre participation à Grippenet nous aidera à mieux comprendre l’étendue de la pandémie, y compris chez des personnes sans atteinte grave, qui représentent en toute vraisemblance la majorité des cas d’infection à la COVID-19.
+**Comment fonctionne Grippenet ?**  
+Le principe est simple : vous vous inscrivez de manière confidentielle et rapide sur [Grippenet.ch](www.grippenet.ch). Lors de l’inscription, vous remplissez une seule fois un court questionnaire avec des informations sur votre âge, votre profession et d’éventuelles maladies préexistantes, ce qui nous permet de recueillir des informations de base.  
+
+Ensuite, vous recevez chaque semaine un rappel par e-mail vous invitant à indiquer si vous présentez ou non des symptômes de type grippal. Le cas échéant, vous répondez à quelques questions supplémentaires concernant les symptômes observés. La procédure ne prend que 30 secondes à 5 minutes. L’objectif est de répondre brièvement chaque semaine.  
+
+Grâce à votre participation, nous pouvons collecter des données sur les symptômes sans l’intervention des médecins ou des hôpitaux. Cela permet également d’observer rapidement les cas légers, pour lesquels les patient·e·s ne consultent généralement pas. Les données recueillies complètent d’autres systèmes ([Grippenet.ch/info](www.grippenet.ch/info)).  
+
+Dans une seconde phase, les données collectées en Suisse et dans d’autres pays européens seront analysées afin de mieux comprendre la transmission, les symptômes des virus et les mesures mises en place. Grippenet.ch fait partie de [Influenzanet](https://influenzanet.info/), un réseau européen fondé en 2003 qui mène des enquêtes et analyses similaires dans plusieurs pays.
+
+Par votre participation, vous apportez une contribution importante à la santé publique et à la recherche.
+
+<img 
+  src="assets/images/Flyer_GrippenetCH_Page_FR.jpg" width="95%"
+  />
+

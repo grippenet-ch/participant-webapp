@@ -18,31 +18,31 @@
   "currentResultCard": {
     "imageAlt": "Current results image",
     "title": "Résultats actuels",
-    "body": "Grippenet surveille la présence de symptômes grippaux, qui pourraient indiquer la présence de l'Influenza ou de la COVID-19.",
+    "body": "Les résultats de Grippenet sont régulièrement mis à jour.",
     "actionLabel": "Résultats actuels"
   },
   "signupCard": {
     "imageAlt": "Participate image",
     "title": "Participer",
-    "body": "Aidez-nous à surveiller la grippe et la COVID-19. Signalez chaque semaine si vous avez des symptômes.",
+    "body": "Aidez-nous à surveiller les infections respiratoires, telles que la grippe, en signalant chaque semaine si vous présentez ou non des symptômes.",
     "actionLabel": "S'inscrire"
   },
   "aboutCard": {
     "imageAlt": "About Grippenet image",
     "title": "Concernant Grippenet",
-    "body": "Avec Grippenet, nous surveillons la propagation des symptômes grippaux à travers la Suisse. Il s'agit d'un outil de surveillance épidémiologique utilisé pour surveiller la propagation des virus.",
+    "body": "Grippenet est un projet de recherche participatif qui vise à suivre les infections respiratoires en Suisse, afin d'améliorer notre compréhension de leur mode de transmission et des symptômes qu'elles provoquent.",
     "actionLabel": "En savoir plus"
   },
   "infoCard": {
-    "imageAlt": "The science of viruses",
-    "title": "La science des virus",
-    "body": "Que sont l'Influenza et la COVID-19 ? Comment ces virus se propagent-ils et quel est le rôle de la recherche scientifique ?",
+    "imageAlt": "Informations sur les infections respiratoires",
+    "title": "Informations sur les infections respiratoires",
+    "body": "Les infections respiratoires peuvent être causées par différents virus et bactéries. Les recherches menées par Grippenet.ch, entre autres, nous aident à suivre l'incidence de ces infections et à comprendre leurs symptômes.",
     "actionLabel": "En savoir plus"
   },
   "newsCard": {
     "imageAlt": "Latest updates from Infuweb",
     "title": "Dernières nouvelles de Grippenet",
-    "body": "Nous publions régulièrement des mises à jour et des bulletins d'information sur la pandémie de COVID-19 et sur la saison de la grippe.",
+    "body": "Nous vous tiendrons au courant.",
     "actionLabel": "En savoir plus"
   },
   "references": {

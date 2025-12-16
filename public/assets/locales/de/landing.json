@@ -18,31 +18,31 @@
   "currentResultCard": {
     "imageAlt": "Current results image",
     "title": "Aktuelle Ergebnisse",
-    "body": "Grippenet registriert grippeähnliche Symptome, die auf Influenza oder COVID-19 hindeuten können.",
+    "body": "Die Berechnungen von Grippenet werden regelmässig aktualisiert.",
     "actionLabel": "Aktuelle Ergebnisse"
   },
   "signupCard": {
-    "imageAlt": "Participate image",
+    "imageAlt": "Teilnehmen image",
     "title": "Teilnehmen",
-    "body": "Helfen Sie uns, das Coronavirus im Auge zu behalten. Berichten Sie uns wöchentlich, ob Sie grippeähnliche Symptome haben.",
+    "body": "Helfen Sie uns dabei, Atemwegsinfektionen wie Influenza zu beobachten, indem Sie wöchentlich angeben, ob Sie Symptome haben oder nicht.",
     "actionLabel": "Registrieren"
   },
   "aboutCard": {
-    "imageAlt": "About Grippenet image",
+    "imageAlt": "Über Grippenet image",
     "title": "Über Grippenet",
-    "body": "Mit Grippenet überwachen wir die Ausbreitung von grippeähnlichen Symptomen in der ganzen Schweiz. Dabei handelt es sich um ein epidemiologisches Überwachungsinstrument, das zur Überwachung der Ausbreitung von Influenza- und COVID-19-Viren eingesetzt wird.",
+    "body": "Grippenet ist eine partizipative Bevölkerungsbefragung, mit der respiratorische Infektionen in der Schweiz zeitnah erfasst werden, um die Übertragungsdynamik und die auftretenden Symptome besser zu verstehen.",
     "actionLabel": "Mehr erfahren"
   },
   "infoCard": {
-    "imageAlt": "Die Wissenschaft der Viren (Virologie)",
-    "title": "Die Wissenschaft der Viren (Virologie)",
-    "body": "Was sind COVID-19 und Influenza, wie verbreiten sie sich und welche Rolle spielt die wissenschaftliche Forschung in ihrer Bekämpfung und Prävention?",
+    "imageAlt": "Weiteres zu respiratorischen Infektionen",
+    "title": "Weiteres zu respiratorischen Infektionen",
+    "body": "Respiratorische Infektionen werden durch verschiedene Viren oder Bakterien verursacht. Grippenet.ch trägt dazu bei, deren Auftreten in der Bevölkerung zeitnah zu erfassen und besser zu verstehen.",
     "actionLabel": "Mehr erfahren"
   },
   "newsCard": {
-    "imageAlt": "Neuste Updates von Grippenet",
-    "title": "Neuste Updates von Grippenet",
-    "body": "Wir veröffentlichen regelmäßig Updates über die anhaltende COVID-19-Pandemie und die Grippesaison.",
+    "imageAlt": "Neuigkeiten von Grippenet",
+    "title": "Neuigkeiten von Grippenet",
+    "body": "Gerne halten wir Sie auf dem laufenden",
     "actionLabel": "Mehr erfahren"
   },
   "references": {

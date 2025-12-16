@@ -18,31 +18,31 @@
   "currentResultCard": {
     "imageAlt": "Immagine dei risultati aggiornati",
     "title": "Risultati aggiornati",
-    "body": "Grippenet identifica la presenza di sintomi simili all'influenza, che potrebbero indicare la presenza di influenza o COVID-19.",
+    "body": "I risultati di Grippenet vengono aggiornati regolarmente.",
     "actionLabel": "Risultati aggiornati"
   },
   "signupCard": {
     "imageAlt": "Immagine partecipa",
     "title": "Partecipa",
-    "body": "Aiutaci a monitorare la diffusione del coronavirus e dell'influenza. Segnalaci settimanalmente se stai bene o se hai qualche sintomo.",
+    "body": "Aiutaci a monitorare le infezioni respiratorie, come l'influenza, segnalando ogni settimana se presenti o meno sintomi.",
     "actionLabel": "Registrati"
   },
   "aboutCard": {
     "imageAlt": "Informazioni sull'immagine Grippenet",
     "title": "Informazioni su Grippenet",
-    "body": "Con Grippenet, monitoriamo la diffusione dei sintomi dell'influenza in tutta la Svizzera. È uno strumento di sorveglianza epidemiologica utilizzato per monitorare la diffusione dei virus.",
+    "body": "Grippenet è un progetto di ricerca partecipativa che mira a monitorare le infezioni respiratorie in Svizzera e a migliorare la nostra comprensione delle modalità di trasmissione e dei sintomi correlati.",
     "actionLabel": "Per saperne di più"
   },
   "infoCard": {
-    "imageAlt": "La scienza dei virus",
-    "title": "La scienza dei virus",
-    "body": "Cosa sono il COVID-19 e l'influenza, come si diffondono e qual è il ruolo della ricerca?",
+    "imageAlt": "Altre informazioni sulle infezioni respiratorie. ",
+    "title": "Altre informazioni sulle infezioni respiratorie. ",
+    "body": "Le infezioni respiratorie possono essere causate da vari virus e batteri. Ricerche come quelle condotte da Grippenet.ch ci aiutano a monitorare queste infezioni e a comprenderne i sintomi.",
     "actionLabel": "Per saperne di più"
   },
   "newsCard": {
     "imageAlt": "Ultimi aggiornamenti da Grippenet",
     "title": "Ultime notizie",
-    "body": "Pubblichiamo regolarmente aggiornamenti e notizie sulla pandemia di Covid-19 in corso e sulla stagione influenzale.",
+    "body": "Saremo lieti di tenervi aggiornati.",
     "actionLabel": "Per saperne di più"
   },
   "references": {

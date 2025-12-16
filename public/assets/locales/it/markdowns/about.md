@@ -1,8 +1,21 @@
-## Cos'è Grippenet?
-Grippenet è un sistema di monitoraggio partecipativo che rileva le malattie simili all'influenza in Svizzera, con l'obiettivo di comprendere meglio la dinamica di trasmissione di queste malattie. È stato lanciato e implementato nel 2016 dall'Istituto di Salute Globale (ISG) dell'Università di Ginevra e dai suoi partner in Svizzera. Dal 2025, è gestito da ricercatori dell'[Institute of Social and Preventive Medicine](https://www.ispm.unibe.ch/index_eng.html) (ISPM) dell'Università di Berna.
+**Che cos’è Grippenet?**  
+Grippenet.ch è un’indagine partecipativa della popolazione che rileva le infezioni respiratorie acute (ARI) e le infezioni simil-influenzali (ILI) in Svizzera. In questo modo, i partecipanti contribuiscono all’individuazione precoce delle ondate di infezione e a una migliore comprensione dei sintomi associati alle infezioni respiratorie. Il progetto è stato sviluppato nel 2016 in collaborazione con l’Istituto di Salute Globale (ISG, Università di Ginevra), il Laboratorio di Computational Epidemiology (ISI, Torino), Computational Social Sciences (ETH Zurigo), il Laboratorio di Epidemiologia Digitale (EPFL, Losanna) e il Centro Nazionale di Riferimento per l’Influenza (HUG, Ginevra). Dal 2025, il progetto è guidato dai ricercatori dell’['Institute of Social and Preventive Medicine'](https://www.ispm.unibe.ch/index_eng.html) (ISPM, Università di Berna).
 
-## Come funziona?
-Il principio è il seguente: ci si registra in modo anonimo e veloce sul sito. Al momento della registrazione, ti sarà chiesto di completare un questionario con dati che riguardano l’età, il lavoro e alcune malattie preesistenti, che ci permetteranno di raccogliere informazioni di base sul tuo profilo. Successivamente, ogni settimana, potrai indicarci, tramite un link che ti verrà inviato, se soffri o meno di sintomi influenzali. In caso di sintomi, ti verranno chiesti alcuni dettagli in merito. Il processo dura tra 30 secondi e 5 minuti, una volta alla settimana. Oltre alla sorveglianza classica fatta dalla rete Sentinella (i medici di base che segnalano direttamente i casi di sintomi influenzali), e grazie al vostro aiuto, saremo in grado di raccogliere dati sui sintomi influenzali senza l'apporto dei medici e degli ospedali, permettendo una sorveglianza più precoce e il monitoraggio dei casi lievi per i quali molti pazienti non consultano necessariamente (il medico). I dati raccolti ci permetteranno, in associazione con la rete di sorveglianza classica, di seguire l'epidemia di influenza e COVID-19. In una seconda fase, i dati raccolti in Svizzera, ma anche in altri paesi europei, saranno analizzati per capire meglio il funzionamento e la trasmissione di questi virus. Partecipando, contribuirai alla salute della popolazione in generale e alla ricerca sulla salute pubblica.
+Le segnalazioni settimanali dei partecipanti aiutano a monitorare le infezioni respiratorie e a ottenere informazioni tempestive sulla loro diffusione e sui sintomi osservati.
 
-## Sorveglianza dell'epidemia di COVID-19
-L'influenza stagionale e la COVID-19 possono avere sintomi simili: febbre, tosse, affaticamento e mancanza di respiro sono sintomi comuni a entrambe le malattie. Il monitoraggio dei sintomi riferiti tramite i questionari settimanali può quindi essere applicato anche alla sorveglianza dell'epidemia di COVID-19. Al di fuori della stagione dell'influenza, qualsiasi aumento delle cosiddette sindromi "simil-influenzali" durante questo periodo pandemico è probabilmente legato ai casi di COVID-19, e questo ci consente di monitorare l'evoluzione della pandemia. La tua partecipazione a Grippenet.ch ci aiuterà a capire meglio la portata della pandemia, anche nelle persone senza malattia grave, che probabilmente rappresentano la maggior parte delle infezioni da COVID-19.
+---
+
+**Come funziona Grippenet?**  
+Il principio è semplice: ci si registra in modo riservato e rapido su [Grippenet.ch](www.grippenet.ch). Al momento dell’iscrizione, si compila una sola volta un breve questionario con informazioni sull’età, la professione ed eventuali malattie preesistenti, così da raccogliere informazioni di base.  
+
+Successivamente, i partecipanti ricevono ogni settimana un promemoria via e-mail per indicare se presentano o meno sintomi simil-influenzali. In caso affermativo, vengono poste alcune domande aggiuntive sui sintomi riscontrati. La procedura richiede solo da 30 secondi a un massimo di 5 minuti. L’obiettivo è rispondere brevemente ogni settimana.  
+
+Grazie alla partecipazione, è possibile raccogliere dati sui sintomi senza il coinvolgimento di medici o ospedali. In questo modo si possono osservare tempestivamente anche i casi lievi, per i quali di solito non viene consultato un medico. I dati raccolti completano altri sistemi ([Grippenet.ch/info](www.grippenet.ch/info)).  
+
+In una seconda fase, i dati raccolti in Svizzera e in altri Paesi europei verranno analizzati per comprendere meglio la trasmissione, i sintomi dei virus e le misure adottate. Grippenet.ch fa parte di [Influenzanet](https://influenzanet.info/), una rete europea fondata nel 2003 che conduce indagini e analisi simili in diversi Paesi.
+
+Con la tua partecipazione contribuisci in modo importante alla salute pubblica e alla ricerca.
+
+<img 
+  src="assets/images/Flyer_GrippenetCH_Page_IT.jpg" width="95%"
+  />

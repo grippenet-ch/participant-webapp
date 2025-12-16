@@ -1,10 +1,21 @@
-## Was ist Grippenet?<br>
-Grippenet ist ein partizipatives Monitoring-System, das grippeähnliche Erkrankungen in der Schweiz erfasst, um die Übertragungsdynamik dieser Krankheiten besser zu verstehen. Es wurde 2016 vom Institut für Globale Gesundheit (ISG) der Universität Genf und seinen Partnern in der Schweiz ins Leben gerufen und implementiert. Seit 2025 wird es von Forschern des [Instituts für Sozial- und Präventivmedizin](https://www.ispm.unibe.ch/index_eng.html) (ISPM) der Universität Bern geleitet.
+**Was ist Grippenet?**  
+Grippenet.ch ist eine partizipative Bevölkerungsbefragung, das akute Atemwegsinfektionen (ARI) und grippeähnliche Infektionen (ILI) in der Schweiz erfasst. Damit können Teilnehmende helfen bei der frühzeitigen Erkennung von Infektionswellen sowie auftretende Symptome bei Atemwegsinfektionen besser zu verstehen. Das Projekt wurde 2016 in Zusammenarbeit mit dem Institut für Globale Gesundheit (ISG, Universität Genf), dem Labor für Computational Epidemiology (ISI, Turin), Computational Social Sciences (ETH Zürich), dem Labor für Digitale Epidemiologie (EPFL, Lausanne) und dem Nationalen Referenzzentrum für Influenza (HUG, Genf) entwickelt. Seit 2025 wird das Projekt von Forschenden des [Instituts für Sozial- und Präventivmedizin](https://www.ispm.unibe.ch/index_eng.html) (ISPM, Universität Bern) geleitet.
 
-## Wie funktioniert Grippenet? <br>
+Wöchentliche Meldungen der Teilnehmenden helfen, Atemwegsinfektionen zu überwachen und frühzeitig Einblicke in deren Verbreitung sowie auftretende Symptome zu erhalten.
 
-Das Prinzip ist wie folgt: Sie registrieren sich anonym und schnell auf unserer Website. Wenn Sie sich anmelden, müssen Sie zunächst einen Grundfragebogen mit Angaben zu Ihrem Alter, Ihrer Arbeit und möglichen Vorerkrankungen ausfüllen. So können wir grundlegende Informationen zu Ihrem Profil sammeln. In einem zweiten Schritt teilen Sie uns jede Woche über einen Ihnen per Email zugesendeten Link mit, ob Sie unter grippeähnlichen Symptomen leiden oder nicht. Wenn dies der Fall ist, werden Sie um einige weitere Angaben zu den auftretenden Symptomen gebeten. Der Vorgang dauert zwischen 30 Sekunden und 5 Minuten und findet einmal pro Woche statt. Zusätzlich zur klassischen Überwachung durch das Sentinella-Netz (Allgemeinmediziner, die Grippesymptome selbst melden) können wir so, dank Ihrer Hilfe, Daten über Grippesymptome ohne die Mitwirkung von Ärzt:innen und Krankenhäusern erheben. Dies ermöglicht eine zeitnahe Überwachung und Beobachtung auch von leichten Fällen, bei denen Patient:innen meist keine ärztliche Hilfe aufsuchen. Die gesammelten Daten ermöglichen es uns, das klassische Überwachungsnetz für die Grippeepidemie und COVID-19 zu unterstützen. In einer zweiten Phase sollen die in der Schweiz, aber auch in anderen europäischen Ländern gesammelten Daten analysiert werden, um die Funktionsweise und die Übertragung dieser Viren besser verstehen zu können. Mit Ihrer Teilnahme leisten Sie einen Beitrag zur Gesundheit der Bevölkerung und zur Forschung im Bereich der öffentlichen Gesundheit.
+---
 
-## Überwachung der COVID-19-Epidemie <br>
+**Wie funktioniert Grippenet?**  
+Das Prinzip ist einfach: Sie registrieren sich vertraulich und schnell auf [Grippenet.ch](www.grippenet.ch). Bei der Anmeldung füllen Sie zunächst einmalig einen kurzen Fragebogen mit Angaben zum Alter, zu Ihrem Beruf und möglichen Vorerkrankungen aus, so dass wir grundlegende Informationen erhalten.  
 
-Die saisonale Grippe (Influenza) und COVID-19 können ähnliche Symptome hervorrufen. So sind Fieber, Husten, Müdigkeit und Kurzatmigkeit häufige Symptome beider Krankheiten. Die Überwachung der von Ihnen gemeldeten Symptome anhand der wöchentlichen Fragebögen kann entsprechend für die Überwachung der COVID-19-Epidemie genutzt werden. Außerhalb der Grippesaison kann eine Zunahme von "grippeähnlichen" Symptomen während dieser Pandemieperiode mit COVID-19-Fällen in Verbindung gebracht werden. So kann die Entwicklung der Pandemie verfolgt werden. Mit Ihrer Teilnahme an Grippenet helfen Sie uns, das Ausmaß der Pandemie besser zu verstehen, um so auch Menschen ohne schwere Verläufe registrieren zu können, die wahrscheinlich die Mehrheit der COVID-19-Infektionen ausmachen.
+Anschliessend (werden Sie wöchentlich per Mail erinnert) Fragen zu beantworten, ob Sie grippeähnliche Symptome haben oder nicht. Falls ja, beantworten Sie einige zusätzliche Fragen zu den auftretenden Symptomen. Der Vorgang dauert nur 30 Sekunden bis maximal 5 Minuten. Das Ziel wäre wöchentlich kurz zu antworten.  
+
+Mit Ihrer Teilnahme können wir Daten zu Symptomen sammeln, ohne dass Ärzt:innen oder Krankenhäuser beteiligt sind. So können auch leichte (Krankheits-)Fälle zeitnah beobachtet werden, bei denen Patient:innen meist keine ärztliche Hilfe in Anspruch nehmen. Die gesammelten Daten ergänzen andere Systeme (mehr dazu unter [Grippenet.ch/info](www.grippenet.ch/info)).
+
+In einer zweiten Phase werden die in der Schweiz und in anderen europäischen Ländern gesammelten Daten analysiert, um die Übertragung, die Symptome von Viren und getroffene Massnahmen besser zu verstehen. Grippenet.ch ist Teil von [Influenzanet](https://influenzanet.info/), einem europäischen Netzwerk, das 2003 gegründet wurde und ähnliche Erhebungen und Analysen in verschiedenen Ländern durchführt.
+
+Mit Ihrer Teilnahme leisten Sie einen wichtigen Beitrag zur öffentlichen Gesundheit und Forschung.
+
+<img 
+  src="assets/images/Flyer_GrippenetCH_DE.jpg" width="95%"
+  />

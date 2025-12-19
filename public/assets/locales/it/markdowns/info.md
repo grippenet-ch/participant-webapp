@@ -38,7 +38,7 @@ In Svizzera esistono diversi sistemi per monitorare le infezioni respiratorie ne
 - [Swiss Pathogen Surveillance Platform (SPSP)](https://spsp.ch/)
 - [Swiss Paediatric Surveillance Unit (SPSU)](https://www.spsu.ch/en/home)
 
-**[Grippenet.ch](www.grippenet.ch)** integra questi sistemi. Attraverso un’indagine partecipativa, i ricercatori dell’[Università di Berna](https://www.ispm.unibe.ch/) raccolgono informazioni sui sintomi direttamente dalla popolazione, anche da persone che non consultano un medico. Ciò consente di individuare le ondate di infezione in Svizzera e i sintomi respiratori associati, comprese informazioni che non vengono rilevate tramite il monitoraggio delle acque reflue.
+**[Grippenet.ch](www.grippenet.ch)** integra questi sistemi. Attraverso un’indagine partecipativa, i ricercatori dell’[Università di Berna](https://www.ispm.unibe.ch/) raccolgono informazioni sui sintomi direttamente dalla popolazione, anche da persone che non consultano un medico. Ciò consente di individuare le ondate di infezione e i sintomi respiratori associati in Svizzera.
 
 Tutte le persone residenti in Svizzera possono **partecipare** online, indipendentemente dall’età, dallo stato vaccinale o dalle condizioni di salute. Idealmente, i partecipanti segnalano i propri sintomi ogni settimana (ma anche segnalazioni occasionali sono preziose).  
 Per domande, contattateci all’indirizzo [support@grippenet.ch](mailto:support@grippenet.ch) o tramite [Grippenet.ch](www.grippenet.ch/about).

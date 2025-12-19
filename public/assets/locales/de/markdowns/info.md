@@ -39,7 +39,7 @@ In der Schweiz gibt es verschiedene Systeme, um Atemwegsinfektionen in der Bevö
 - [Swiss Paediatric Surveillance Unit (SPSU)](https://www.spsu.ch/en/home)
 
 
-**[Grippenet.ch](www.grippenet.ch)** ergänzt diese Systeme. Mit partizipativer Befragungen wollen Forschende der [Universität Bern](https://www.ispm.unibe.ch/)Symptome direkt in der Bevölkerung erfassen (auch bei Personen, die keine Ärztin oder keinen Arzt aufsuchen). So lassen sich Infektionswellen in der Schweiz und die damit verbundenen respiratorischen Symptome erkennen (und damit Informationen gewinnen, die im Abwasser nicht erfasst werden).
+**[Grippenet.ch](www.grippenet.ch)** ergänzt diese Systeme. Mit partizipativer Befragungen wollen Forschende der [Universität Bern](https://www.ispm.unibe.ch/)Symptome direkt in der Bevölkerung erfassen (auch bei Personen, die keine Ärztin oder keinen Arzt aufsuchen). So lassen sich Infektionswellen und die damit verbundenen respiratorischen Symptome  in der Schweiz erkennen.
 
 Alle in der Schweiz wohnhaften Personen können online **mitmachen**, unabhängig vom Alter, Impfstatus oder Gesundheitszustand. Idealerweise melden Teilnehmende ihre Symptome wöchentlich (aber bereits gelegentliche Meldungen sind wertvoll).
 Bei Fragen kontaktieren Sie uns unter [support@grippenet.ch](mailto:support@grippenet.ch) oder unter [Grippenet.ch](www.grippenet.ch/about)

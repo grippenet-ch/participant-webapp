@@ -39,7 +39,7 @@ En Suisse, différents systèmes permettent d’observer les infections respirat
 - [Swiss Pathogen Surveillance Platform (SPSP)](https://spsp.ch/)
 - [Swiss Paediatric Surveillance Unit (SPSU)](https://www.spsu.ch/en/home)
 
-**[Grippenet.ch](www.grippenet.ch)** complète ces systèmes. Grâce à une enquête participative, des chercheurs de l’[Université de Berne](https://www.ispm.unibe.ch/) recueillent des informations sur les symptômes directement auprès de la population, y compris auprès de personnes qui ne consultent pas de médecin. Cela permet d’identifier les vagues d’infection en Suisse et les symptômes respiratoires associés, y compris des informations qui ne sont pas disponibles via la surveillance des eaux usées.
+**[Grippenet.ch](www.grippenet.ch)** complète ces systèmes. Grâce à une enquête participative, des chercheurs de l’[Université de Berne](https://www.ispm.unibe.ch/) recueillent des informations sur les symptômes directement auprès de la population, y compris auprès de personnes qui ne consultent pas de médecin. Cela permet d’identifier les vagues d’infection et les symptômes respiratoires associés en Suisse.
 
 Toutes les personnes résidant en Suisse peuvent **participer** en ligne, indépendamment de l’âge, du statut vaccinal ou de l’état de santé. Idéalement, les participant·e·s déclarent leurs symptômes chaque semaine (mais des déclarations occasionnelles sont également précieuses).  
 Pour toute question, veuillez nous contacter à [support@grippenet.ch](mailto:support@grippenet.ch) ou via [Grippenet.ch](www.grippenet.ch/about).

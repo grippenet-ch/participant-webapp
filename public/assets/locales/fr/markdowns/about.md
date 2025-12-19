@@ -12,7 +12,7 @@ Ensuite, vous recevez chaque semaine un rappel par e-mail vous invitant à indiq
 
 Grâce à votre participation, nous pouvons collecter des données sur les symptômes sans l’intervention des médecins ou des hôpitaux. Cela permet également d’observer rapidement les cas légers, pour lesquels les patient·e·s ne consultent généralement pas. Les données recueillies complètent d’autres systèmes ([Grippenet.ch/info](www.grippenet.ch/info)).  
 
-Dans une seconde phase, les données collectées en Suisse et dans d’autres pays européens seront analysées afin de mieux comprendre la transmission, les symptômes des virus et les mesures mises en place. Grippenet.ch fait partie de [Influenzanet](https://influenzanet.info/), un réseau européen fondé en 2003 qui mène des enquêtes et analyses similaires dans plusieurs pays.
+Dans une seconde phase, les données collectées en Suisse et dans d’autres pays européens seront analysées afin de mieux comprendre la transmission, les symptômes des virus et les mesures mises en place. Grippenet.ch fait partie de [Influenzanet](https://influenzanet.info/), un réseau européen fondé en 2003, qui met en relation des chercheurs menant des enquêtes et des analyses similaires dans différents pays.
 
 Par votre participation, vous apportez une contribution importante à la santé publique et à la recherche.
 

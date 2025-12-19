@@ -12,7 +12,7 @@ Afterwards, you receive a weekly reminder by email asking whether you have influ
 
 Through your participation, we can collect symptom data without involving doctors or hospitals. This allows timely observation of mild cases, for which patients usually do not seek medical care. The collected data complement other systems (more at [Grippenet.ch/info](www.grippenet.ch/info)).  
 
-In a second phase, data collected in Switzerland and other European countries will be analysed to better understand virus transmission, symptoms, and implemented measures. Grippenet.ch is part of [Influenzanet](https://influenzanet.info/), a European network founded in 2003 that conducts similar surveys and analyses in several countries.
+In a second phase, data collected in Switzerland and other European countries will be analysed to better understand virus transmission, symptoms, and implemented measures. Grippenet.ch is part of [Influenzanet](https://influenzanet.info/), a European network founded in 2003 that connects researchers conducting similar surveys and analyses in different countries.
 
 By participating, you make an important contribution to public health and research.
 

@@ -12,7 +12,7 @@ Anschliessend (werden Sie wöchentlich per Mail erinnert) Fragen zu beantworten,
 
 Mit Ihrer Teilnahme können wir Daten zu Symptomen sammeln, ohne dass Ärzt:innen oder Krankenhäuser beteiligt sind. So können auch leichte (Krankheits-)Fälle zeitnah beobachtet werden, bei denen Patient:innen meist keine ärztliche Hilfe in Anspruch nehmen. Die gesammelten Daten ergänzen andere Systeme (mehr dazu unter [Grippenet.ch/info](www.grippenet.ch/info)).
 
-In einer zweiten Phase werden die in der Schweiz und in anderen europäischen Ländern gesammelten Daten analysiert, um die Übertragung, die Symptome von Viren und getroffene Massnahmen besser zu verstehen. Grippenet.ch ist Teil von [Influenzanet](https://influenzanet.info/), einem europäischen Netzwerk, das 2003 gegründet wurde und ähnliche Erhebungen und Analysen in verschiedenen Ländern durchführt.
+In einer zweiten Phase werden die in der Schweiz und in anderen europäischen Ländern gesammelten Daten analysiert, um die Übertragung, die Symptome von Viren und getroffene Massnahmen besser zu verstehen. Grippenet.ch ist Teil von [Influenzanet](https://influenzanet.info/), einem europäischen Netzwerk, das 2003 gegründet wurde und Forschende vernetzt, die in verschiedenen Ländern ähnliche Erhebungen und Analysen durchführen.
 
 Mit Ihrer Teilnahme leisten Sie einen wichtigen Beitrag zur öffentlichen Gesundheit und Forschung.
 

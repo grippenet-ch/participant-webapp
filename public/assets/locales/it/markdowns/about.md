@@ -12,7 +12,7 @@ Successivamente, i partecipanti ricevono ogni settimana un promemoria via e-mail
 
 Grazie alla partecipazione, è possibile raccogliere dati sui sintomi senza il coinvolgimento di medici o ospedali. In questo modo si possono osservare tempestivamente anche i casi lievi, per i quali di solito non viene consultato un medico. I dati raccolti completano altri sistemi ([Grippenet.ch/info](www.grippenet.ch/info)).  
 
-In una seconda fase, i dati raccolti in Svizzera e in altri Paesi europei verranno analizzati per comprendere meglio la trasmissione, i sintomi dei virus e le misure adottate. Grippenet.ch fa parte di [Influenzanet](https://influenzanet.info/), una rete europea fondata nel 2003 che conduce indagini e analisi simili in diversi Paesi.
+In una seconda fase, i dati raccolti in Svizzera e in altri Paesi europei verranno analizzati per comprendere meglio la trasmissione, i sintomi dei virus e le misure adottate. Grippenet.ch fa parte di [Influenzanet](https://influenzanet.info/), una rete europea fondata nel 2003, che collega ricercatori che svolgono indagini e analisi simili in diversi Paesi.
 
 Con la tua partecipazione contribuisci in modo importante alla salute pubblica e alla ricerca.
 

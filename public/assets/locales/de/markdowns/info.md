@@ -1,6 +1,6 @@
-**Definition von respiratorischen Infektionen**
+**Definition von Atemwegsinfektionen**
 
-Respiratorische Infektionen betreffen die Atemwege und können durch verschiedene Viren oder Bakterien verursacht werden. Zu den häufigsten **viralen** Erregern gehören Influenza-Viren, SARS-CoV-2 (Coronavirus), das Respiratorische Synzytialvirus (RSV) sowie andere Erkältungsviren. Auch bakterielle Erreger (wie *Pneumokokken*, *Pertussis* oder *Haemophilus influenzae*) können Atemwegsinfektionen auslösen.
+Atemwegsinfektionen bzw. respiratorische Infektionen betreffen die Atemwege und können durch verschiedene Viren oder Bakterien verursacht werden. Zu den häufigsten **viralen** Erregern gehören Influenza-Viren, SARS-CoV-2 (Coronavirus), das Respiratorische Synzytialvirus (RSV) sowie andere Erkältungsviren. Auch bakterielle Erreger (wie *Pneumokokken*, *Pertussis* oder *Haemophilus influenzae*) können Atemwegsinfektionen auslösen.
 
 Symptome viraler Atemwegsinfektionen können ähnlich sein: dazu gehören z.B. Husten, Schnupfen, Müdigkeit, andere Atembeschwerden und  Fieber. Diese Beschwerden sind meist unspezifisch und können mild (z.B. einer Erkältung) oder schwer (z.B. Lungenentzündung) sein.
 

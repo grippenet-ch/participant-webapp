@@ -1,4 +1,13 @@
-### 07/11/2025 – Vermehrt Atemwegsinfektionen
+### 07/01/2026 – Anstieg von Atemwegsinfektionen
+In der Schweiz befinden wir uns derzeit in einer Grippewelle. Neben Influenza zirkuliert auch das Respiratorische Synzytialvirus (RSV) stark. SARS-CoV-2 hingegen wird aktuell weniger häufig nachgewiesen.
+
+Informationen dazu, wie Sie sich vor Atemwegsinfektionen schützen können, finden Sie auf der [Website des BAG](https://www.bag.admin.ch/de/so-schuetzen-wir-uns-vor-atemwegsinfektionen).
+
+Weitere aktuelle Informationen zur epidemiologischen Lage in der Schweiz finden Sie unter [www.idd.bag.admin.ch](https://www.idd.bag.admin.ch/).
+
+
+
+### 11/11/2025 – Vermehrt Atemwegsinfektionen
 
 * Atemwegsinfektionen nehmen in den Winter Monaten zu. Weitere aktuelle Informationen zur Lage in der Schweiz finden Sie unter: [www.idd.bag.admin.ch](https://www.idd.bag.admin.ch/).
 * Wenn Sie krank sind, meiden Sie öffentliche Verkehrsmittel, beachten Sie Hygienemassnahmen, bleiben Sie falls möglich zu Hause und ruhen Sie sich aus, um schneller zu genesen.

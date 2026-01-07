@@ -1,4 +1,15 @@
-### 07/11/2025 – Augmentation d'infections respiratoires
+### 07/01/2026 – Augmentation des infections respiratoires
+
+La Suisse connaît actuellement une vague de grippe. Outre l’influenza, le virus respiratoire syncytial (VRS) circule également de manière importante. En revanche, le SARS-CoV-2 est actuellement détecté moins fréquemment.
+
+Vous trouverez des informations sur les moyens de vous protéger contre les infections respiratoires sur le site de l’ [OFSP](https://www.bag.admin.ch/fr/infections-des-voies-respiratoires-voici-comment-nous-proteger).
+
+Des informations actuelles sur la situation épidémiologique en Suisse sont disponibles sur [www.idd.bag.admin.ch](https://www.idd.bag.admin.ch/).
+
+
+
+
+### 11/11/2025 – Augmentation d'infections respiratoires
 * Le nombre d'infections respiratoires augmente pendant l'hiver. Vous trouverez des informations actualisées sur la situation en Suisse sur : [www.idd.bag.admin.ch](https://www.idd.bag.admin.ch/)
 * Si vous êtes malade, évitez les transports publics, respectez les mesures d’hygiène, restez à la maison si possible et reposez-vous pour guérir plus rapidement.
 * La vaccination peut protéger préventivement contre une infection (grave). Pour plus d’informations, consultez : [https://www.vacciner-suisse.ch/fr](https://www.vacciner-suisse.ch/fr)

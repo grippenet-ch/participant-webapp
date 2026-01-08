@@ -1,4 +1,14 @@
-### 07/11/2025 – Increase in respiratory infections
+### 07/01/2026 – Further increase in respiratory infections.
+
+Switzerland is currently experiencing a flu epidemic. In addition to influenza, the respiratory syncytial virus (RSV) is also circulating widely. Conversely, SARS-CoV-2 is currently being detected less frequently.
+
+Information on how to protect yourself against respiratory infections can be found on the [FOPH website](https://www.bag.admin.ch/en/protect-yourself-and-others-from-respiratory-infections).
+
+Further up-to-date information on the epidemiological situation in Switzerland is available at [www.idd.bag.admin.ch](https://www.idd.bag.admin.ch/).
+
+
+
+### 11/11/2025 – Increase in respiratory infections
 * The number of infectious diseases is increasing during the winter. You can find more information for Switzerland at: [www.idd.bag.admin.ch](https://www.idd.bag.admin.ch/)
 * If you are ill, avoid public transport, follow hygiene measures, stay at home if possible, and rest to recover more quickly.
 * Vaccination can help prevent (severe) diseases. More information is available at: [www.impfen-schweiz.ch](https://www.vacciner-suisse.ch/de)

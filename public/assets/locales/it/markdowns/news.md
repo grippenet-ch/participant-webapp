@@ -1,4 +1,15 @@
-### 07/11/2025 – Aumento delle infezioni delle vie respiratorie
+### 07/01/2026 – Aumento delle infezioni delle vie respiratorie
+
+In Svizzera è attualmente in corso un’ondata influenzale. Oltre all’influenza, anche il virus respiratorio sinciziale (RSV) circola in modo significativo. Il SARS-CoV-2, invece, è attualmente rilevato meno frequentemente.
+
+Informazioni su come proteggersi dalle infezioni delle vie respiratorie sono disponibili sul sito dell’[UFSP](https://www.bag.admin.ch/it/cosi-ci-proteggiamo-dalle-infezioni-delle-vie-respiratorie).
+.
+
+Ulteriori informazioni aggiornate sulla situazione epidemiologica in Svizzera sono disponibili all’indirizzo [www.idd.bag.admin.ch](https://www.idd.bag.admin.ch/).
+
+
+
+### 11/11/2025 – Aumento delle infezioni delle vie respiratorie
 
 * Le infezioni respiratorie sono attualmente in aumento. Informazioni aggiornate sulla situazione in Svizzera sono disponibili su: [www.idd.bag.admin.ch](https://www.idd.bag.admin.ch/)
 * Se siete malati, evitate i mezzi pubblici, rispettate le misure igieniche, restate a casa se possibile e riposatevi per guarire più rapidamente.

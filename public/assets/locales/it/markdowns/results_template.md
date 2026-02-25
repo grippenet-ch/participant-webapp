@@ -12,7 +12,12 @@ Insieme possiamo osservare la situazione in Svizzera fin dalle prime fasi. I par
 Il grafico seguente mostra l’incidenza settimanale stimata dei casi di ILI e ARI registrati su Grippenet.ch.
 La linea rappresenta una media mobile.
 
-<img src="assets/images/Grippenet_incidence.png" width="100%" />
+<iframe 
+  src="https://storage.googleapis.com/grippenetch-results/Grippenet_incidence.html" 
+  width="100%" 
+  height="600px" 
+  frameborder="0">
+</iframe>
 
 *Nota:* I sintomi di ARI e ILI possono essere causati da diversi virus, come i virus influenzali stagionali, il virus respiratorio sinciziale (RSV) o i coronavirus. Il monitoraggio basato sui sintomi tramite Grippenet.ch permette di seguire ARI e ILI indipendentemente dal virus responsabile.
 

@@ -12,10 +12,12 @@ Gemeinsam können wir die epidemische Situation in der Schweiz frühzeitig erken
 
 Die nachfolgende Grafik zeigt die wöchentliche Inzidenz von ARI und ILI, die auf Grippenet.ch erfasst wurden. Die Linie zeigt einen Durchschnitt über die Wochen.
 
-<img 
-  src="assets/images/Grippenet_incidence.png" width="100%"
-  />
-
+<iframe 
+  src="https://storage.googleapis.com/grippenetch-results/Grippenet_incidence.html" 
+  width="100%" 
+  height="600px" 
+  frameborder="0">
+</iframe>
 
 **Hinweis**: Die Hauptsymptome von ARI (und ILI) können durch verschiedene Viren verursacht werden (beispielsweise durch saisonale Grippeviren (Influenza A und B), das Respiratorische Synzytial-Virus (RSV) oder Coronaviren). Die symptombasierte Erfassung auf Grippenet.ch ermöglicht es, ARI und ILI unabhängig vom auslösenden Erreger zu beobachten.
 

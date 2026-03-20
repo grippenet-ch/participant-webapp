@@ -23,9 +23,7 @@ The line shows an average over a moving window.
 **Note**:
 The symptoms of ARI and ILI can be caused by various viruses, such as seasonal influenza viruses, respiratory syncytial virus (RSV), or coronaviruses. Symptom-based monitoring via Grippenet.ch makes it possible to track ARI and ILI regardless of the underlying virus.
 
-<img 
-  src="assets/images/Grippenet_symptom_en.png" width="100%"
-  />
+<img src="https://storage.googleapis.com/grippenetch-results/Grippenet_symptom_en.png" width="100%" />
 
 The graph above shows the frequency of participants reporting a specific symptom (as darker as more participants reported the symptom). A combination of symptoms may indicate a specific infectious disease, such as the flu, Covid-19, infections with RSV, or others.
 

@@ -21,7 +21,7 @@ La ligne représente une moyenne mobile.
 
 **Remarque :** Les symptômes d'ARI et d'ILI peuvent être causés par différents virus, tels que les virus de la grippe saisonnière, le virus respiratoire syncytial (VRS) ou les coronavirus. La surveillance basée sur les symptômes via Grippenet.ch permet de suivre les ARI et les ILI, quel que soit le virus responsable.
 
-<img src="assets/images/Grippenet_symptom_fr.png" width="100%" />
+<img src="https://storage.googleapis.com/grippenetch-results/Grippenet_symptom_fr.png" width="100%" />
 
 Le graphique ci-dessus montre la fréquence à laquelle les participant·e·s ont déclaré un symptôme spécifique (plus la couleur est foncée, plus le nombre de participant·e·s ayant déclaré ce symptôme est élevé).
 Une combinaison de symptômes peut indiquer une maladie infectieuse spécifique, comme la grippe, le Covid-19, le VRS ou d'autres infections.

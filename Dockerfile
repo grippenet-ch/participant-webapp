@@ -1,5 +1,5 @@
 # build environment
-FROM node:22-alpine as build
+FROM node:22-alpine AS build
 # default env files
 ARG ENV_LOCAL=".env.local"
 ARG ENV_PRODUCTION_LOCAL=".env.production.local"
@@ -13,8 +13,10 @@ COPY ${ENV_LOCAL} /app/.env.local
 COPY ${ENV_PRODUCTION_LOCAL} /app/.env.production.local
 RUN yarn build
 # production environment
-FROM nginx:stable-alpine
+# pinned; build with --pull, apk upgrade picks up the Alpine fixes released for this pin
+FROM nginx:1.30.6-alpine3.24
+RUN apk upgrade --no-cache
 COPY --from=build /app/build /usr/share/nginx/html
 COPY nginx/default.conf /etc/nginx/conf.d/default.conf
-EXPOSE 3000 80
+EXPOSE 80
 CMD ["nginx", "-g", "daemon off;"]

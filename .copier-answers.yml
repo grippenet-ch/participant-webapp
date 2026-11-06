@@ -1,0 +1,25 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v0.3.0
+_src_path: gh:influenzanet/participant-webapp-template
+app_title: Grippenet Suisse
+date_locales:
+-   code: fr
+    dateFns: fr
+    format: dd.MM.yyyy
+-   code: de
+    dateFns: de
+    format: dd.MM.yyyy
+-   code: it
+    dateFns: it
+    format: dd/MM/yyyy
+description: A voluntary participation system for monitoring covid and influenza in
+    Switzerland
+dev_path_proxies: {}
+dev_proxy_target: https://staging.grippenetch.influenzanet.info
+dev_ws_proxy_paths: []
+docker_image: grippenetch/participant-webapp
+extra_dependencies: {}
+favicon: /assets/images/favicon.png
+head_extra: ''
+html_lang: fr
+package_name: grippenet.ch
